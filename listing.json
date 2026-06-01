@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-01T17:03:16.723164+00:00",
+  "generatedAt": "2026-06-01T17:10:28.413923+00:00",
   "records": [
     {
       "category": "JStreetPAC",
@@ -8,12 +8,12 @@
       "kind": "disclosure",
       "metadata": {
         "candidateId": "S6IA00272",
-        "dateAccessed": "2026-06-01T17:02:42.594961+00:00",
+        "dateAccessed": "2026-06-01T17:09:55.226402+00:00",
         "month": "2026-05",
         "netAmount": null,
         "office": "Senate IA",
         "pac": "JStreetPAC",
-        "transactionCount": "1"
+        "transactionCount": "2"
       },
       "path": "JStreetPAC/2026/05/ZachPWahls.md",
       "sourceUrl": "https://www.fec.gov/",
@@ -27,12 +27,12 @@
       "kind": "disclosure",
       "metadata": {
         "candidateId": "H8SC04250",
-        "dateAccessed": "2026-06-01T17:02:42.594961+00:00",
+        "dateAccessed": "2026-06-01T17:09:55.226402+00:00",
         "month": "2026-05",
         "netAmount": null,
         "office": "House SC-04",
         "pac": "AIPAC",
-        "transactionCount": "1"
+        "transactionCount": "2"
       },
       "path": "AIPAC/2026/05/WilliamRIVTimmons.md",
       "sourceUrl": "https://www.fec.gov/",
@@ -46,12 +46,12 @@
       "kind": "disclosure",
       "metadata": {
         "candidateId": "S6ME00159",
-        "dateAccessed": "2026-06-01T17:02:42.594961+00:00",
+        "dateAccessed": "2026-06-01T17:09:55.226402+00:00",
         "month": "2026-05",
         "netAmount": null,
         "office": "Senate ME",
         "pac": "AIPAC",
-        "transactionCount": "213"
+        "transactionCount": "258"
       },
       "path": "AIPAC/2026/05/SusanMCollins.md",
       "sourceUrl": "https://www.fec.gov/",
@@ -65,12 +65,12 @@
       "kind": "disclosure",
       "metadata": {
         "candidateId": "S0SC00149",
-        "dateAccessed": "2026-06-01T17:02:42.594961+00:00",
+        "dateAccessed": "2026-06-01T17:09:55.226402+00:00",
         "month": "2026-05",
         "netAmount": null,
         "office": "Senate SC",
         "pac": "AIPAC",
-        "transactionCount": "2"
+        "transactionCount": "4"
       },
       "path": "AIPAC/2026/05/LindseyOGraham_S0SC00149.md",
       "sourceUrl": "https://www.fec.gov/",
@@ -84,12 +84,12 @@
       "kind": "disclosure",
       "metadata": {
         "candidateId": "H4ND00061",
-        "dateAccessed": "2026-06-01T17:02:42.594961+00:00",
+        "dateAccessed": "2026-06-01T17:09:55.226402+00:00",
         "month": "2026-05",
         "netAmount": null,
         "office": "House ND-00",
         "pac": "AIPAC",
-        "transactionCount": "1"
+        "transactionCount": "2"
       },
       "path": "AIPAC/2026/05/JulieFedorchak.md",
       "sourceUrl": "https://www.fec.gov/",
@@ -103,12 +103,12 @@
       "kind": "disclosure",
       "metadata": {
         "candidateId": "H2OK02315",
-        "dateAccessed": "2026-06-01T17:02:42.594961+00:00",
+        "dateAccessed": "2026-06-01T17:09:55.226402+00:00",
         "month": "2026-05",
         "netAmount": null,
         "office": "House OK-02",
         "pac": "AIPAC",
-        "transactionCount": "1"
+        "transactionCount": "2"
       },
       "path": "AIPAC/2026/05/JoshBrecheen.md",
       "sourceUrl": "https://www.fec.gov/",
@@ -122,12 +122,12 @@
       "kind": "disclosure",
       "metadata": {
         "candidateId": "H6ME02213",
-        "dateAccessed": "2026-06-01T17:02:42.594961+00:00",
+        "dateAccessed": "2026-06-01T17:09:55.226402+00:00",
         "month": "2026-05",
         "netAmount": null,
         "office": "House ME-02",
         "pac": "JStreetPAC",
-        "transactionCount": "3"
+        "transactionCount": "6"
       },
       "path": "JStreetPAC/2026/05/JosephBaldacci.md",
       "sourceUrl": "https://www.fec.gov/",
@@ -141,12 +141,12 @@
       "kind": "disclosure",
       "metadata": {
         "candidateId": "H2SC02059",
-        "dateAccessed": "2026-06-01T17:02:42.594961+00:00",
+        "dateAccessed": "2026-06-01T17:09:55.226402+00:00",
         "month": "2026-05",
         "netAmount": null,
         "office": "House SC-02",
         "pac": "AIPAC",
-        "transactionCount": "1"
+        "transactionCount": "2"
       },
       "path": "AIPAC/2026/05/JoeTheHonWilson.md",
       "sourceUrl": "https://www.fec.gov/",
@@ -160,12 +160,12 @@
       "kind": "disclosure",
       "metadata": {
         "candidateId": "H8CA34266",
-        "dateAccessed": "2026-06-01T17:02:42.594961+00:00",
+        "dateAccessed": "2026-06-01T17:09:55.226402+00:00",
         "month": "2026-05",
         "netAmount": null,
         "office": "House CA-34",
         "pac": "AIPAC",
-        "transactionCount": "1"
+        "transactionCount": "2"
       },
       "path": "AIPAC/2026/05/JimmyGomez.md",
       "sourceUrl": "https://www.fec.gov/",
@@ -179,12 +179,12 @@
       "kind": "disclosure",
       "metadata": {
         "candidateId": "H0CA08135",
-        "dateAccessed": "2026-06-01T17:02:42.594961+00:00",
+        "dateAccessed": "2026-06-01T17:09:55.226402+00:00",
         "month": "2026-05",
         "netAmount": null,
         "office": "House CA-08",
         "pac": "AIPAC",
-        "transactionCount": "1"
+        "transactionCount": "2"
       },
       "path": "AIPAC/2026/05/JayObernolte.md",
       "sourceUrl": "https://www.fec.gov/",
@@ -198,12 +198,12 @@
       "kind": "disclosure_month",
       "metadata": {
         "candidateId": null,
-        "dateAccessed": "2026-06-01T17:02:42.594961+00:00",
+        "dateAccessed": "2026-06-01T17:09:55.226402+00:00",
         "month": "2026-05",
         "netAmount": null,
         "office": null,
         "pac": "JStreetPAC",
-        "transactionCount": "4"
+        "transactionCount": "8"
       },
       "path": "JStreetPAC/2026/05/README.md",
       "sourceUrl": "https://www.fec.gov/",
@@ -217,12 +217,12 @@
       "kind": "disclosure",
       "metadata": {
         "candidateId": "H4NJ01084",
-        "dateAccessed": "2026-06-01T17:02:42.594961+00:00",
+        "dateAccessed": "2026-06-01T17:09:55.226402+00:00",
         "month": "2026-05",
         "netAmount": null,
         "office": "House NJ-01",
         "pac": "AIPAC",
-        "transactionCount": "13"
+        "transactionCount": "21"
       },
       "path": "AIPAC/2026/05/DonaldWNorcross.md",
       "sourceUrl": "https://www.fec.gov/",
@@ -236,12 +236,12 @@
       "kind": "disclosure",
       "metadata": {
         "candidateId": "H8NV03036",
-        "dateAccessed": "2026-06-01T17:02:42.594961+00:00",
+        "dateAccessed": "2026-06-01T17:09:55.226402+00:00",
         "month": "2026-05",
         "netAmount": null,
         "office": "House NV-01",
         "pac": "AIPAC",
-        "transactionCount": "7"
+        "transactionCount": "8"
       },
       "path": "AIPAC/2026/05/DinaTitus.md",
       "sourceUrl": "https://www.fec.gov/",
@@ -255,12 +255,12 @@
       "kind": "disclosure_month",
       "metadata": {
         "candidateId": null,
-        "dateAccessed": "2026-06-01T17:02:42.594961+00:00",
+        "dateAccessed": "2026-06-01T17:09:55.226402+00:00",
         "month": "2026-05",
         "netAmount": null,
         "office": null,
         "pac": "AIPAC",
-        "transactionCount": "241"
+        "transactionCount": "303"
       },
       "path": "AIPAC/2026/05/README.md",
       "sourceUrl": "https://www.fec.gov/",
@@ -274,7 +274,7 @@
       "kind": "disclosure",
       "metadata": {
         "candidateId": "S6IA00272",
-        "dateAccessed": "2026-06-01T17:02:42.594961+00:00",
+        "dateAccessed": "2026-06-01T17:09:55.226402+00:00",
         "month": "2026-04",
         "netAmount": null,
         "office": "Senate IA",
@@ -312,7 +312,7 @@
       "kind": "disclosure",
       "metadata": {
         "candidateId": "S6ME00159",
-        "dateAccessed": "2026-06-01T17:02:42.594961+00:00",
+        "dateAccessed": "2026-06-01T17:09:55.226402+00:00",
         "month": "2026-04",
         "netAmount": null,
         "office": "Senate ME",
@@ -331,7 +331,7 @@
       "kind": "disclosure",
       "metadata": {
         "candidateId": "H2NV04011",
-        "dateAccessed": "2026-06-01T17:02:42.594961+00:00",
+        "dateAccessed": "2026-06-01T17:09:55.226402+00:00",
         "month": "2026-04",
         "netAmount": null,
         "office": "House NV-04",
@@ -369,7 +369,7 @@
       "kind": "disclosure",
       "metadata": {
         "candidateId": "S0SC00149",
-        "dateAccessed": "2026-06-01T17:02:42.594961+00:00",
+        "dateAccessed": "2026-06-01T17:09:55.226402+00:00",
         "month": "2026-04",
         "netAmount": null,
         "office": "Senate SC",
@@ -388,7 +388,7 @@
       "kind": "disclosure",
       "metadata": {
         "candidateId": "H4ND00061",
-        "dateAccessed": "2026-06-01T17:02:42.594961+00:00",
+        "dateAccessed": "2026-06-01T17:09:55.226402+00:00",
         "month": "2026-04",
         "netAmount": null,
         "office": "House ND-00",
@@ -407,7 +407,7 @@
       "kind": "disclosure",
       "metadata": {
         "candidateId": "H6ME02213",
-        "dateAccessed": "2026-06-01T17:02:42.594961+00:00",
+        "dateAccessed": "2026-06-01T17:09:55.226402+00:00",
         "month": "2026-04",
         "netAmount": null,
         "office": "House ME-02",
@@ -426,7 +426,7 @@
       "kind": "disclosure",
       "metadata": {
         "candidateId": "H2SC02059",
-        "dateAccessed": "2026-06-01T17:02:42.594961+00:00",
+        "dateAccessed": "2026-06-01T17:09:55.226402+00:00",
         "month": "2026-04",
         "netAmount": null,
         "office": "House SC-02",
@@ -464,7 +464,7 @@
       "kind": "disclosure",
       "metadata": {
         "candidateId": "H2CA06259",
-        "dateAccessed": "2026-06-01T17:02:42.594961+00:00",
+        "dateAccessed": "2026-06-01T17:09:55.226402+00:00",
         "month": "2026-04",
         "netAmount": null,
         "office": "House CA-02",
@@ -483,7 +483,7 @@
       "kind": "disclosure_month",
       "metadata": {
         "candidateId": null,
-        "dateAccessed": "2026-06-01T17:02:42.594961+00:00",
+        "dateAccessed": "2026-06-01T17:09:55.226402+00:00",
         "month": "2026-04",
         "netAmount": null,
         "office": null,
@@ -502,7 +502,7 @@
       "kind": "disclosure",
       "metadata": {
         "candidateId": "H8NV03036",
-        "dateAccessed": "2026-06-01T17:02:42.594961+00:00",
+        "dateAccessed": "2026-06-01T17:09:55.226402+00:00",
         "month": "2026-04",
         "netAmount": null,
         "office": "House NV-01",
@@ -521,7 +521,7 @@
       "kind": "disclosure_month",
       "metadata": {
         "candidateId": null,
-        "dateAccessed": "2026-06-01T17:02:42.594961+00:00",
+        "dateAccessed": "2026-06-01T17:09:55.226402+00:00",
         "month": "2026-04",
         "netAmount": null,
         "office": null,
@@ -540,7 +540,7 @@
       "kind": "disclosure",
       "metadata": {
         "candidateId": "S6IA00272",
-        "dateAccessed": "2026-06-01T17:02:42.594961+00:00",
+        "dateAccessed": "2026-06-01T17:09:55.226402+00:00",
         "month": "2026-03",
         "netAmount": null,
         "office": "Senate IA",
@@ -692,7 +692,7 @@
       "kind": "disclosure",
       "metadata": {
         "candidateId": "H0FL15104",
-        "dateAccessed": "2026-06-01T17:02:42.594961+00:00",
+        "dateAccessed": "2026-06-01T17:09:55.226402+00:00",
         "month": "2026-03",
         "netAmount": null,
         "office": "House FL-15",
@@ -920,7 +920,7 @@
       "kind": "disclosure",
       "metadata": {
         "candidateId": "H2CA14162",
-        "dateAccessed": "2026-06-01T17:02:42.594961+00:00",
+        "dateAccessed": "2026-06-01T17:09:55.226402+00:00",
         "month": "2026-03",
         "netAmount": null,
         "office": "House CA-15",
@@ -1110,7 +1110,7 @@
       "kind": "disclosure_month",
       "metadata": {
         "candidateId": null,
-        "dateAccessed": "2026-06-01T17:02:42.594961+00:00",
+        "dateAccessed": "2026-06-01T17:09:55.226402+00:00",
         "month": "2026-03",
         "netAmount": null,
         "office": null,
@@ -1129,7 +1129,7 @@
       "kind": "disclosure",
       "metadata": {
         "candidateId": "H2TX23082",
-        "dateAccessed": "2026-06-01T17:02:42.594961+00:00",
+        "dateAccessed": "2026-06-01T17:09:55.226402+00:00",
         "month": "2026-03",
         "netAmount": null,
         "office": "House TX-28",
@@ -1319,7 +1319,7 @@
       "kind": "disclosure_month",
       "metadata": {
         "candidateId": null,
-        "dateAccessed": "2026-06-01T17:02:42.594961+00:00",
+        "dateAccessed": "2026-06-01T17:09:55.226402+00:00",
         "month": "2026-03",
         "netAmount": null,
         "office": null,
@@ -1338,7 +1338,7 @@
       "kind": "disclosure",
       "metadata": {
         "candidateId": "S6IA00272",
-        "dateAccessed": "2026-06-01T17:02:42.594961+00:00",
+        "dateAccessed": "2026-06-01T17:09:55.226402+00:00",
         "month": "2026-02",
         "netAmount": null,
         "office": "Senate IA",
@@ -1490,7 +1490,7 @@
       "kind": "disclosure",
       "metadata": {
         "candidateId": "H0FL15104",
-        "dateAccessed": "2026-06-01T17:02:42.594961+00:00",
+        "dateAccessed": "2026-06-01T17:09:55.226402+00:00",
         "month": "2026-02",
         "netAmount": null,
         "office": "House FL-15",
@@ -1775,7 +1775,7 @@
       "kind": "disclosure_month",
       "metadata": {
         "candidateId": null,
-        "dateAccessed": "2026-06-01T17:02:42.594961+00:00",
+        "dateAccessed": "2026-06-01T17:09:55.226402+00:00",
         "month": "2026-02",
         "netAmount": null,
         "office": null,
@@ -1794,7 +1794,7 @@
       "kind": "disclosure",
       "metadata": {
         "candidateId": "H2TX23082",
-        "dateAccessed": "2026-06-01T17:02:42.594961+00:00",
+        "dateAccessed": "2026-06-01T17:09:55.226402+00:00",
         "month": "2026-02",
         "netAmount": null,
         "office": "House TX-28",
@@ -2079,7 +2079,7 @@
       "kind": "disclosure_month",
       "metadata": {
         "candidateId": null,
-        "dateAccessed": "2026-06-01T17:02:42.594961+00:00",
+        "dateAccessed": "2026-06-01T17:09:55.226402+00:00",
         "month": "2026-02",
         "netAmount": null,
         "office": null,
@@ -3010,7 +3010,7 @@
       "kind": "disclosure",
       "metadata": {
         "candidateId": "H2CA14162",
-        "dateAccessed": "2026-06-01T17:02:42.594961+00:00",
+        "dateAccessed": "2026-06-01T17:09:55.226402+00:00",
         "month": "2025-12",
         "netAmount": null,
         "office": "House CA-15",
@@ -3409,7 +3409,7 @@
       "kind": "disclosure_month",
       "metadata": {
         "candidateId": null,
-        "dateAccessed": "2026-06-01T17:02:42.594961+00:00",
+        "dateAccessed": "2026-06-01T17:09:55.226402+00:00",
         "month": "2025-12",
         "netAmount": null,
         "office": null,
@@ -10097,7 +10097,7 @@
       "kind": "disclosure",
       "metadata": {
         "candidateId": "H2CA14162",
-        "dateAccessed": "2026-06-01T17:02:42.594961+00:00",
+        "dateAccessed": "2026-06-01T17:09:55.226402+00:00",
         "month": "2025-10",
         "netAmount": null,
         "office": "House CA-15",
@@ -10173,7 +10173,7 @@
       "kind": "disclosure_month",
       "metadata": {
         "candidateId": null,
-        "dateAccessed": "2026-06-01T17:02:42.594961+00:00",
+        "dateAccessed": "2026-06-01T17:09:55.226402+00:00",
         "month": "2025-10",
         "netAmount": null,
         "office": null,

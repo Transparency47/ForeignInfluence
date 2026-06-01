@@ -6,12 +6,12 @@
 - Office: Senate ME
 - Party: REP
 - Source committees: American Israel Public Affairs Committee Political Action Committee
-- Net candidate-linked reported amount: $374,810.00
-- Positive candidate-linked reported amount: $374,810.00
+- Net candidate-linked reported amount: $441,640.00
+- Positive candidate-linked reported amount: $441,640.00
 - Negative candidate-linked reported amount: $0.00
-- Transactions: 213
+- Transactions: 258
 - Data source: FEC public records
-- Date accessed: 2026-06-01T17:02:42.594961+00:00
+- Date accessed: 2026-06-01T17:09:55.226402+00:00
 
 ## Transactions
 
@@ -37,12 +37,23 @@
 | 2026-05-01 | transaction date | American Israel Public Affairs Committee Political Action Committee | $3,500.00 | SA11AI | Collins for Senator |  |  |
 | 2026-05-01 | transaction date | American Israel Public Affairs Committee Political Action Committee | $500.00 | SA11AI | Collins for Senator |  |  |
 | 2026-05-01 | transaction date | American Israel Public Affairs Committee Political Action Committee | $1,000.00 | SA11AI | Collins for Senator |  |  |
+| 2026-05-01 | transaction date | American Israel Public Affairs Committee Political Action Committee | $1,000.00 | SA11AI | Collins for Senator |  |  |
+| 2026-05-01 | transaction date | American Israel Public Affairs Committee Political Action Committee | $2,000.00 | SA11AI | Collins for Senator |  |  |
+| 2026-05-01 | transaction date | American Israel Public Affairs Committee Political Action Committee | $250.00 | SA11AI | Collins for Senator |  |  |
+| 2026-05-01 | transaction date | American Israel Public Affairs Committee Political Action Committee | $3,500.00 | SA11AI | Collins for Senator |  |  |
+| 2026-05-01 | transaction date | American Israel Public Affairs Committee Political Action Committee | $500.00 | SA11AI | Collins for Senator |  |  |
 | 2026-05-07 | transaction date | American Israel Public Affairs Committee Political Action Committee | $2,500.00 | SA11AI | Collins for Senator |  |  |
 | 2026-05-07 | transaction date | American Israel Public Affairs Committee Political Action Committee | $1,000.00 | SA11AI | Collins for Senator |  |  |
 | 2026-05-07 | transaction date | American Israel Public Affairs Committee Political Action Committee | $200.00 | SA11AI | Collins for Senator |  |  |
 | 2026-05-07 | transaction date | American Israel Public Affairs Committee Political Action Committee | $250.00 | SA11AI | Collins for Senator |  |  |
 | 2026-05-07 | transaction date | American Israel Public Affairs Committee Political Action Committee | $250.00 | SA11AI | Collins for Senator |  |  |
 | 2026-05-07 | transaction date | American Israel Public Affairs Committee Political Action Committee | $50.00 | SA11AI | Collins for Senator |  |  |
+| 2026-05-07 | transaction date | American Israel Public Affairs Committee Political Action Committee | $1,000.00 | SA11AI | Collins for Senator |  |  |
+| 2026-05-07 | transaction date | American Israel Public Affairs Committee Political Action Committee | $2,500.00 | SA11AI | Collins for Senator |  |  |
+| 2026-05-07 | transaction date | American Israel Public Affairs Committee Political Action Committee | $200.00 | SA11AI | Collins for Senator |  |  |
+| 2026-05-07 | transaction date | American Israel Public Affairs Committee Political Action Committee | $250.00 | SA11AI | Collins for Senator |  |  |
+| 2026-05-07 | transaction date | American Israel Public Affairs Committee Political Action Committee | $50.00 | SA11AI | Collins for Senator |  |  |
+| 2026-05-08 | transaction date | American Israel Public Affairs Committee Political Action Committee | $200.00 | SA11AI | Collins for Senator |  |  |
 | 2026-05-08 | transaction date | American Israel Public Affairs Committee Political Action Committee | $200.00 | SA11AI | Collins for Senator |  |  |
 | 2026-05-11 | transaction date | American Israel Public Affairs Committee Political Action Committee | $3,500.00 | SA11AI | Collins for Senator |  |  |
 | 2026-05-11 | transaction date | American Israel Public Affairs Committee Political Action Committee | $200.00 | SA11AI | Collins for Senator |  |  |
@@ -64,6 +75,16 @@
 | 2026-05-11 | transaction date | American Israel Public Affairs Committee Political Action Committee | $3,500.00 | SA11AI | Collins for Senator |  |  |
 | 2026-05-11 | transaction date | American Israel Public Affairs Committee Political Action Committee | $50.00 | SA11AI | Collins for Senator |  |  |
 | 2026-05-11 | transaction date | American Israel Public Affairs Committee Political Action Committee | $500.00 | SA11AI | Collins for Senator |  |  |
+| 2026-05-11 | transaction date | American Israel Public Affairs Committee Political Action Committee | $1,500.00 | SA11AI | Collins for Senator |  |  |
+| 2026-05-11 | transaction date | American Israel Public Affairs Committee Political Action Committee | $200.00 | SA11AI | Collins for Senator |  |  |
+| 2026-05-11 | transaction date | American Israel Public Affairs Committee Political Action Committee | $250.00 | SA11AI | Collins for Senator |  |  |
+| 2026-05-11 | transaction date | American Israel Public Affairs Committee Political Action Committee | $3,500.00 | SA11AI | Collins for Senator |  |  |
+| 2026-05-11 | transaction date | American Israel Public Affairs Committee Political Action Committee | $400.00 | SA11AI | Collins for Senator |  |  |
+| 2026-05-11 | transaction date | American Israel Public Affairs Committee Political Action Committee | $50.00 | SA11AI | Collins for Senator |  |  |
+| 2026-05-11 | transaction date | American Israel Public Affairs Committee Political Action Committee | $500.00 | SA11AI | Collins for Senator |  |  |
+| 2026-05-11 | transaction date | American Israel Public Affairs Committee Political Action Committee | $7,000.00 | SA11AI | Collins for Senator |  |  |
+| 2026-05-15 | transaction date | American Israel Public Affairs Committee Political Action Committee | $2,000.00 | SA11AI | Collins for Senator |  |  |
+| 2026-05-15 | transaction date | American Israel Public Affairs Committee Political Action Committee | $5,000.00 | SA11AI | Collins for Senator |  |  |
 | 2026-05-15 | transaction date | American Israel Public Affairs Committee Political Action Committee | $2,000.00 | SA11AI | Collins for Senator |  |  |
 | 2026-05-15 | transaction date | American Israel Public Affairs Committee Political Action Committee | $5,000.00 | SA11AI | Collins for Senator |  |  |
 | 2026-05-18 | transaction date | American Israel Public Affairs Committee Political Action Committee | $250.00 | SA11AI | Collins for Senator |  |  |
@@ -157,6 +178,15 @@
 | 2026-05-18 | transaction date | American Israel Public Affairs Committee Political Action Committee | $2,000.00 | SA11AI | Collins for Senator |  |  |
 | 2026-05-18 | transaction date | American Israel Public Affairs Committee Political Action Committee | $3,500.00 | SA11AI | Collins for Senator |  |  |
 | 2026-05-18 | transaction date | American Israel Public Affairs Committee Political Action Committee | $200.00 | SA11AI | Collins for Senator |  |  |
+| 2026-05-18 | transaction date | American Israel Public Affairs Committee Political Action Committee | $1,000.00 | SA11AI | Collins for Senator |  |  |
+| 2026-05-18 | transaction date | American Israel Public Affairs Committee Political Action Committee | $1,500.00 | SA11AI | Collins for Senator |  |  |
+| 2026-05-18 | transaction date | American Israel Public Affairs Committee Political Action Committee | $2,000.00 | SA11AI | Collins for Senator |  |  |
+| 2026-05-18 | transaction date | American Israel Public Affairs Committee Political Action Committee | $2,250.00 | SA11AI | Collins for Senator |  |  |
+| 2026-05-18 | transaction date | American Israel Public Affairs Committee Political Action Committee | $2,500.00 | SA11AI | Collins for Senator |  |  |
+| 2026-05-18 | transaction date | American Israel Public Affairs Committee Political Action Committee | $200.00 | SA11AI | Collins for Senator |  |  |
+| 2026-05-18 | transaction date | American Israel Public Affairs Committee Political Action Committee | $250.00 | SA11AI | Collins for Senator |  |  |
+| 2026-05-18 | transaction date | American Israel Public Affairs Committee Political Action Committee | $3,500.00 | SA11AI | Collins for Senator |  |  |
+| 2026-05-18 | transaction date | American Israel Public Affairs Committee Political Action Committee | $500.00 | SA11AI | Collins for Senator |  |  |
 | 2026-05-19 | transaction date | American Israel Public Affairs Committee Political Action Committee | $3,500.00 | SA11AI | Collins for Senator |  |  |
 | 2026-05-19 | transaction date | American Israel Public Affairs Committee Political Action Committee | $1,000.00 | SA11AI | Collins for Senator |  |  |
 | 2026-05-19 | transaction date | American Israel Public Affairs Committee Political Action Committee | $2,000.00 | SA11AI | Collins for Senator |  |  |
@@ -199,6 +229,13 @@
 | 2026-05-19 | transaction date | American Israel Public Affairs Committee Political Action Committee | $1,000.00 | SA11AI | Collins for Senator |  |  |
 | 2026-05-19 | transaction date | American Israel Public Affairs Committee Political Action Committee | $1,000.00 | SA11AI | Collins for Senator |  |  |
 | 2026-05-19 | transaction date | American Israel Public Affairs Committee Political Action Committee | $500.00 | SA11AI | Collins for Senator |  |  |
+| 2026-05-19 | transaction date | American Israel Public Affairs Committee Political Action Committee | $1,000.00 | SA11AI | Collins for Senator |  |  |
+| 2026-05-19 | transaction date | American Israel Public Affairs Committee Political Action Committee | $1,500.00 | SA11AI | Collins for Senator |  |  |
+| 2026-05-19 | transaction date | American Israel Public Affairs Committee Political Action Committee | $2,000.00 | SA11AI | Collins for Senator |  |  |
+| 2026-05-19 | transaction date | American Israel Public Affairs Committee Political Action Committee | $2,500.00 | SA11AI | Collins for Senator |  |  |
+| 2026-05-19 | transaction date | American Israel Public Affairs Committee Political Action Committee | $250.00 | SA11AI | Collins for Senator |  |  |
+| 2026-05-19 | transaction date | American Israel Public Affairs Committee Political Action Committee | $3,500.00 | SA11AI | Collins for Senator |  |  |
+| 2026-05-19 | transaction date | American Israel Public Affairs Committee Political Action Committee | $500.00 | SA11AI | Collins for Senator |  |  |
 | 2026-05-20 | transaction date | American Israel Public Affairs Committee Political Action Committee | $3,500.00 | SA11AI | Collins for Senator |  |  |
 | 2026-05-20 | transaction date | American Israel Public Affairs Committee Political Action Committee | $180.00 | SA11AI | Collins for Senator |  |  |
 | 2026-05-20 | transaction date | American Israel Public Affairs Committee Political Action Committee | $500.00 | SA11AI | Collins for Senator |  |  |
@@ -230,3 +267,11 @@
 | 2026-05-20 | transaction date | American Israel Public Affairs Committee Political Action Committee | $1,000.00 | SA11AI | Collins for Senator |  |  |
 | 2026-05-20 | transaction date | American Israel Public Affairs Committee Political Action Committee | $2,000.00 | SA11AI | Collins for Senator |  |  |
 | 2026-05-20 | transaction date | American Israel Public Affairs Committee Political Action Committee | $250.00 | SA11AI | Collins for Senator |  |  |
+| 2026-05-20 | transaction date | American Israel Public Affairs Committee Political Action Committee | $1,000.00 | SA11AI | Collins for Senator |  |  |
+| 2026-05-20 | transaction date | American Israel Public Affairs Committee Political Action Committee | $100.00 | SA11AI | Collins for Senator |  |  |
+| 2026-05-20 | transaction date | American Israel Public Affairs Committee Political Action Committee | $180.00 | SA11AI | Collins for Senator |  |  |
+| 2026-05-20 | transaction date | American Israel Public Affairs Committee Political Action Committee | $2,000.00 | SA11AI | Collins for Senator |  |  |
+| 2026-05-20 | transaction date | American Israel Public Affairs Committee Political Action Committee | $2,500.00 | SA11AI | Collins for Senator |  |  |
+| 2026-05-20 | transaction date | American Israel Public Affairs Committee Political Action Committee | $250.00 | SA11AI | Collins for Senator |  |  |
+| 2026-05-20 | transaction date | American Israel Public Affairs Committee Political Action Committee | $3,500.00 | SA11AI | Collins for Senator |  |  |
+| 2026-05-20 | transaction date | American Israel Public Affairs Committee Political Action Committee | $500.00 | SA11AI | Collins for Senator |  |  |
