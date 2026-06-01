@@ -16,6 +16,22 @@ from dataclasses import dataclass, field
 from pathlib import Path
 from typing import Iterable
 
+from import_fec_bulk import (
+    Bucket,
+    CN_COLUMNS,
+    COMMITTEE_NAMES,
+    CandidateProfile,
+    DEFAULT_CYCLES,
+    fallback_profile,
+    load_candidates,
+    load_webk,
+    rows_from_zip,
+    write_candidate_file,
+    write_month_readme,
+    zip_url,
+    download as download_bulk_file,
+)
+
 
 ROOT_DIR = Path(__file__).resolve().parents[1]
 FEC_DAILY_BASE = "https://cg-519a459a-0ea3-42c2-b7bc-fa1143481f74.s3-us-gov-west-1.amazonaws.com/bulk-downloads"
@@ -95,6 +111,14 @@ class FilingSummary:
     @property
     def relation(self) -> str:
         return "filer" if self.filer_committee_id == self.committee_id else "mentioned"
+
+
+@dataclass
+class DailyTransaction:
+    folder: str
+    committee_id: str
+    candidate_id: str
+    row: dict[str, str]
 
 
 def source_url(kind: str, file_name: str) -> str:
@@ -181,6 +205,246 @@ def filer_info(records: list[list[str]]) -> tuple[str, str]:
     return "", ""
 
 
+def load_principal_committees(cycles: Iterable[int], cache_dir: Path) -> dict[str, str]:
+    principals: dict[str, str] = {}
+    for cycle in cycles:
+        path = download_bulk_file(zip_url("cn", cycle), cache_dir)
+        for row in rows_from_zip(path, CN_COLUMNS):
+            committee_id = row.get("principal_committee_id", "")
+            candidate_id = row.get("candidate_id", "")
+            if committee_id and candidate_id:
+                principals.setdefault(committee_id, candidate_id)
+    return principals
+
+
+def field(record: list[str], index: int) -> str:
+    return record[index] if index < len(record) else ""
+
+
+def record_name(record: list[str]) -> str:
+    organization = field(record, 6)
+    if organization:
+        return organization
+    parts = [field(record, 8), field(record, 9), field(record, 7), field(record, 10), field(record, 11)]
+    return " ".join(part for part in parts if part).strip()
+
+
+def record_committee_ids(record: list[str]) -> set[str]:
+    return {value for value in record if value in TRACKED_COMMITTEES}
+
+
+def record_candidate_id(record: list[str], filing_candidate_ids: set[str], filer_committee_id: str, principal_committees: dict[str, str]) -> str:
+    for value in record:
+        if re.fullmatch(r"[HSP]\d[A-Z]{2}\d{5}", value):
+            return value
+    if filer_committee_id in principal_committees:
+        return principal_committees[filer_committee_id]
+    if len(filing_candidate_ids) == 1:
+        return next(iter(filing_candidate_ids))
+    return ""
+
+
+def daily_image_number(day: dt.date, filing_id: str) -> str:
+    return ""
+
+
+def looks_like_date(value: str) -> bool:
+    if not re.fullmatch(r"\d{8}", value or ""):
+        return False
+    try:
+        dt.datetime.strptime(value, "%Y%m%d")
+    except ValueError:
+        return False
+    return True
+
+
+def looks_like_amount(value: str) -> bool:
+    return bool(re.fullmatch(r"-?\d+(?:\.\d{1,2})?", value or ""))
+
+
+def transaction_date_amount(record: list[str]) -> tuple[str, str]:
+    preferred_date = field(record, 20)
+    preferred_amount = field(record, 21)
+    if looks_like_date(preferred_date) and looks_like_amount(preferred_amount):
+        return preferred_date, preferred_amount
+    for index, value in enumerate(record):
+        if not looks_like_date(value):
+            continue
+        for amount in record[index + 1 : index + 5]:
+            if looks_like_amount(amount):
+                return value, amount
+    return "", ""
+
+
+def metadata_value(markdown: str, label: str) -> str:
+    match = re.search(rf"^-\s+{re.escape(label)}:\s*(.*?)\s*$", markdown, re.MULTILINE)
+    return match.group(1).strip() if match else ""
+
+
+def parse_table_row(line: str) -> list[str]:
+    return [part.strip() for part in line.strip().strip("|").split("|")]
+
+
+def parse_money(value: str) -> str:
+    cleaned = value.replace("$", "").replace(",", "").strip()
+    if cleaned.startswith("-"):
+        return cleaned
+    return cleaned or "0"
+
+
+def committee_id_for_name(name: str) -> str:
+    for committee_id, committee_name in COMMITTEE_NAMES.items():
+        if committee_name == name:
+            return committee_id
+    return ""
+
+
+def existing_rows(path: Path, default_committee_id: str) -> list[dict[str, str]]:
+    if not path.exists():
+        return []
+    markdown = path.read_text(encoding="utf-8", errors="replace")
+    candidate_id = metadata_value(markdown, "Candidate ID")
+    rows: list[dict[str, str]] = []
+    in_table = False
+    for line in markdown.splitlines():
+        if line.startswith("| Date | Date basis | Source committee |"):
+            in_table = True
+            continue
+        if not in_table or not line.startswith("|"):
+            continue
+        if line.startswith("| ---"):
+            continue
+        parts = parse_table_row(line)
+        if len(parts) < 8:
+            continue
+        date_text, _date_basis, source_committee, amount, transaction_type, recipient, election, filing = parts[:8]
+        try:
+            date_value = dt.date.fromisoformat(date_text).strftime("%m%d%Y")
+        except ValueError:
+            date_value = dt.datetime.strptime(date_text, "%Y%m%d").strftime("%m%d%Y") if looks_like_date(date_text) else date_text
+        image_match = re.search(r"\?\s*([0-9]+)", filing)
+        committee_id = committee_id_for_name(source_committee) or default_committee_id
+        rows.append(
+            {
+                "committee_id": committee_id,
+                "transaction_pgi": election,
+                "image_number": image_match.group(1) if image_match else "",
+                "transaction_type": transaction_type,
+                "entity_type": "",
+                "name": recipient,
+                "transaction_date": date_value,
+                "transaction_amount": parse_money(amount),
+                "other_id": "",
+                "candidate_id": candidate_id,
+                "transaction_id": "",
+                "file_number": "",
+                "memo_text": "",
+                "sub_id": f"existing-{date_text}-{amount}-{transaction_type}-{recipient}-{election}",
+            }
+        )
+    return rows
+
+
+def first_heading(markdown: str) -> str:
+    match = re.search(r"^#\s+(.+?)\s*$", markdown, re.MULTILINE)
+    return match.group(1).strip() if match else ""
+
+
+def bucket_from_candidate_file(path: Path, folder: str, year: str, month: str, candidates: dict[str, CandidateProfile]) -> Bucket | None:
+    markdown = path.read_text(encoding="utf-8", errors="replace")
+    candidate_id = metadata_value(markdown, "Candidate ID")
+    if not candidate_id:
+        return None
+    candidate = candidates.get(candidate_id)
+    if not candidate:
+        candidate = CandidateProfile(
+            candidate_id=candidate_id,
+            display_name=first_heading(markdown) or path.stem,
+            file_stem=path.stem,
+            office=metadata_value(markdown, "Office"),
+            party=metadata_value(markdown, "Party"),
+        )
+        candidates[candidate_id] = candidate
+    rows = existing_rows(path, "")
+    if not rows:
+        return None
+    return Bucket(pac=folder, year=year, month=month, candidate=candidate, rows=rows)
+
+
+def dedupe_rows(rows: list[dict[str, str]]) -> list[dict[str, str]]:
+    seen: set[tuple[str, str, str, str, str, str, str]] = set()
+    unique: list[dict[str, str]] = []
+    for row in rows:
+        key = (
+            row.get("committee_id", ""),
+            row.get("candidate_id", ""),
+            row.get("transaction_date", ""),
+            row.get("transaction_amount", ""),
+            row.get("transaction_type", ""),
+            row.get("name", ""),
+            row.get("transaction_id", "") or row.get("sub_id", ""),
+        )
+        if key in seen:
+            continue
+        seen.add(key)
+        unique.append(row)
+    return unique
+
+
+def transaction_rows_from_file(
+    kind: str,
+    url: str,
+    day: dt.date,
+    name: str,
+    records: list[list[str]],
+    principal_committees: dict[str, str],
+) -> list[DailyTransaction]:
+    filing_id = filing_id_from_name(name)
+    filer_committee_id, filer_committee_name = filer_info(records)
+    filing_candidate_ids = candidate_ids(records)
+    transactions: list[DailyTransaction] = []
+    for record in records:
+        if not record or not record[0].startswith(("SA", "SB", "SE", "F65")):
+            continue
+        committee_ids = record_committee_ids(record)
+        if filer_committee_id in TRACKED_COMMITTEES:
+            committee_ids.add(filer_committee_id)
+        if not committee_ids:
+            continue
+        candidate_id = record_candidate_id(record, filing_candidate_ids, filer_committee_id, principal_committees)
+        if not candidate_id:
+            continue
+        date_value, amount_value = transaction_date_amount(record)
+        if not date_value or not amount_value:
+            continue
+        for committee_id in sorted(committee_ids):
+            committee = TRACKED_COMMITTEES[committee_id]
+            transactions.append(
+                DailyTransaction(
+                    folder=committee["folder"],
+                    committee_id=committee_id,
+                    candidate_id=candidate_id,
+                    row={
+                        "committee_id": committee_id,
+                        "transaction_pgi": field(record, 18),
+                        "image_number": daily_image_number(day, filing_id),
+                        "transaction_type": record[0],
+                        "entity_type": field(record, 5),
+                        "name": filer_committee_name or record_name(record),
+                        "transaction_date": dt.datetime.strptime(date_value, "%Y%m%d").strftime("%m%d%Y"),
+                        "transaction_amount": amount_value,
+                        "other_id": filer_committee_id,
+                        "candidate_id": candidate_id,
+                        "transaction_id": field(record, 2),
+                        "file_number": filing_id,
+                        "memo_text": f"FEC daily {kind} filing: {url}",
+                        "sub_id": f"daily-{kind}-{filing_id}-{field(record, 2)}-{committee_id}",
+                    },
+                )
+            )
+    return transactions
+
+
 def summarize_file(kind: str, url: str, day: dt.date, name: str, records: list[list[str]]) -> list[FilingSummary]:
     mentioned = {
         field
@@ -224,78 +488,17 @@ def summarize_file(kind: str, url: str, day: dt.date, name: str, records: list[l
     return summaries
 
 
-def write_filing(summary: FilingSummary, accessed: str) -> Path:
-    out_dir = ROOT_DIR / summary.folder / f"{summary.filing_date.year:04d}" / f"{summary.filing_date.month:02d}"
-    out_dir.mkdir(parents=True, exist_ok=True)
-    out_path = out_dir / f"FEC_Filing_{summary.filing_id}.md"
-    title_action = "Filed By" if summary.relation == "filer" else "Mentioning"
-    lines = [
-        f"# FEC Filing {summary.filing_id} {title_action} {summary.committee_name}",
-        "",
-        f"- PAC folder: {summary.folder}",
-        f"- Committee ID: {summary.committee_id}",
-        f"- Committee name: {summary.committee_name}",
-        f"- Relationship to tracked committee: {summary.relation}",
-        f"- Filer committee ID: {summary.filer_committee_id}",
-        f"- Filer committee name: {summary.filer_committee_name}",
-        f"- Foreign nation focus: {summary.country}",
-        f"- Filing date: {summary.filing_date.isoformat()}",
-        f"- Source type: {summary.source_kind}",
-        f"- Source daily file: {summary.source_file}",
-        f"- Source URL: {summary.source_url}",
-        f"- FEC forms seen: {', '.join(sorted(summary.forms))}",
-        f"- Candidate IDs mentioned: {', '.join(sorted(summary.candidate_ids)) if summary.candidate_ids else 'None detected'}",
-        f"- Transaction-like records detected: {summary.transaction_count}",
-        f"- Total records: {summary.record_count}",
-        f"- Date accessed: {accessed}",
-        "",
-    ]
-    out_path.write_text("\n".join(lines), encoding="utf-8")
-    return out_path
-
-
-def write_daily_readmes(summaries: list[FilingSummary], accessed: str) -> None:
-    grouped: dict[tuple[str, str, str], list[FilingSummary]] = defaultdict(list)
-    for summary in summaries:
-        grouped[(summary.folder, f"{summary.filing_date.year:04d}", f"{summary.filing_date.month:02d}")].append(summary)
-    for (folder, year, month), month_summaries in grouped.items():
-        out_dir = ROOT_DIR / folder / year / month
-        lines = [
-            f"# {folder} Daily FEC Filings {year}-{month}",
-            "",
-            f"- PAC folder: {folder}",
-            f"- Month: {year}-{month}",
-            f"- Filings: {len(month_summaries)}",
-            f"- Date accessed: {accessed}",
-            "",
-            "| Filing date | Filing | Relationship | Committee ID | Committee name | Filer | Source type | Forms | Candidate IDs | File |",
-            "| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |",
-        ]
-        for summary in sorted(month_summaries, key=lambda item: (item.filing_date, item.committee_id, item.filing_id)):
-            file_name = f"FEC_Filing_{summary.filing_id}.md"
-            lines.append(
-                "| "
-                f"{summary.filing_date.isoformat()} | "
-                f"{summary.filing_id} | "
-                f"{summary.relation} | "
-                f"{summary.committee_id} | "
-                f"{summary.committee_name} | "
-                f"{summary.filer_committee_id} {summary.filer_committee_name} | "
-                f"{summary.source_kind} | "
-                f"{', '.join(sorted(summary.forms))} | "
-                f"{', '.join(sorted(summary.candidate_ids)) if summary.candidate_ids else ''} | "
-                f"[{file_name}]({file_name}) |"
-            )
-        lines.append("")
-        (out_dir / "Daily_Filings.md").write_text("\n".join(lines), encoding="utf-8")
-
-
 def import_daily(start: dt.date, end: dt.date, cache_dir: Path) -> dict[str, int]:
     accessed = dt.datetime.now(dt.timezone.utc).isoformat()
     summaries: list[FilingSummary] = []
+    transactions: list[DailyTransaction] = []
     downloaded = 0
     missing = 0
     nofiles = 0
+    candidates = load_candidates(DEFAULT_CYCLES, cache_dir / "bulk")
+    principal_committees = load_principal_committees(DEFAULT_CYCLES, cache_dir / "bulk")
+    webk = load_webk(DEFAULT_CYCLES, cache_dir / "bulk")
+    used_stems = {profile.file_stem: candidate_id for candidate_id, profile in candidates.items()}
     for day in date_range(start, end):
         for kind in ("electronic", "paper"):
             for file_name in file_names_for(kind, day):
@@ -309,16 +512,46 @@ def import_daily(start: dt.date, end: dt.date, cache_dir: Path) -> dict[str, int
                     nofiles += 1
                     continue
                 for member_name, records in read_zip_records(path):
-                    for summary in summarize_file(kind, url, day, member_name, records):
-                        write_filing(summary, accessed)
-                        summaries.append(summary)
+                    summaries.extend(summarize_file(kind, url, day, member_name, records))
+                    transactions.extend(transaction_rows_from_file(kind, url, day, member_name, records, principal_committees))
                 break
-    write_daily_readmes(summaries, accessed)
+    buckets: dict[tuple[str, str, str, str], Bucket] = {}
+    for transaction in transactions:
+        candidate = candidates.get(transaction.candidate_id)
+        if not candidate:
+            candidate = fallback_profile(transaction.candidate_id, transaction.row, used_stems)
+            candidates[transaction.candidate_id] = candidate
+        row_date = dt.datetime.strptime(transaction.row["transaction_date"], "%m%d%Y").date()
+        key = (transaction.folder, f"{row_date.year:04d}", f"{row_date.month:02d}", transaction.candidate_id)
+        buckets.setdefault(key, Bucket(pac=key[0], year=key[1], month=key[2], candidate=candidate)).rows.append(transaction.row)
+
+    touched_months: set[tuple[str, str, str]] = set()
+    for (folder, year, month, _candidate_id), bucket in buckets.items():
+        out_dir = ROOT_DIR / folder / year / month
+        out_dir.mkdir(parents=True, exist_ok=True)
+        existing_path = out_dir / f"{bucket.candidate.file_stem}.md"
+        bucket.rows = dedupe_rows(existing_rows(existing_path, bucket.rows[0].get("committee_id", "")) + bucket.rows)
+        write_candidate_file(out_dir, bucket, accessed)
+        touched_months.add((folder, year, month))
+
+    for folder, year, month in touched_months:
+        out_dir = ROOT_DIR / folder / year / month
+        month_buckets = []
+        for path in sorted(out_dir.glob("*.md")):
+            if path.name == "README.md" or path.name.startswith("FEC_Filing_") or path.name == "Daily_Filings.md":
+                continue
+            bucket = bucket_from_candidate_file(path, folder, year, month, candidates)
+            if bucket:
+                month_buckets.append(bucket)
+        write_month_readme(out_dir, folder, year, month, month_buckets, accessed, webk.get((folder, year, month)))
+
     return {
         "downloadedDailyFiles": downloaded,
         "missingDailyFiles": missing,
         "noFileMarkers": nofiles,
         "trackedFilings": len(summaries),
+        "candidateTransactions": len(transactions),
+        "politicianMonths": len(buckets),
     }
 
 

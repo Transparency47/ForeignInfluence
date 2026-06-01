@@ -3,18 +3,19 @@
 - PAC: AIPAC
 - Month: 2026-02
 - Source committees: American Israel Public Affairs Committee Political Action Committee
-- Data source: FEC bulk PAS2 public records
-- Total net candidate-linked reported amount: $171,000.00
-- Total positive candidate-linked reported amount: $171,000.00
+- Data source: FEC public records
+- Total net candidate-linked reported amount: $181,001.90
+- Total positive candidate-linked reported amount: $181,001.90
 - Total negative candidate-linked reported amount: $0.00
-- Politicians listed: 34
-- Transactions: 35
-- Date accessed: 2026-06-01T16:41:11.073775+00:00
+- Politicians listed: 35
+- Transactions: 39
+- Date accessed: 2026-06-01T17:02:42.594961+00:00
 
 ## Politicians
 
 | Politician | Candidate ID | Office | Party | Source committees | Net amount | Positive amount | Negative amount | Transactions | File |
 | --- | --- | --- | --- | --- | ---: | ---: | ---: | ---: | --- |
+| Henry Cuellar | H2TX23082 | House TX-28 | DEM | American Israel Public Affairs Committee Political Action Committee | $15,000.00 | $15,000.00 | $0.00 | 3 | [HenryCuellar.md](HenryCuellar.md) |
 | Steven Daines | S2MT00096 | Senate MT | REP | American Israel Public Affairs Committee Political Action Committee | $10,000.00 | $10,000.00 | $0.00 | 2 | [StevenDaines_S2MT00096.md](StevenDaines_S2MT00096.md) |
 | Wesley Bell | H4MO01134 | House MO-01 | DEM | American Israel Public Affairs Committee Political Action Committee | $5,000.00 | $5,000.00 | $0.00 | 1 | [WesleyBell.md](WesleyBell.md) |
 | Vicente Gonzalez | H6TX15162 | House TX-15 | DEM | American Israel Public Affairs Committee Political Action Committee | $5,000.00 | $5,000.00 | $0.00 | 1 | [VicenteGonzalez.md](VicenteGonzalez.md) |
@@ -32,7 +33,6 @@
 | Jimmy Patronis | H6FL01390 | House FL-01 | REP | American Israel Public Affairs Committee Political Action Committee | $5,000.00 | $5,000.00 | $0.00 | 1 | [JimmyPatronis.md](JimmyPatronis.md) |
 | James French Hill | H4AR02141 | House AR-02 | REP | American Israel Public Affairs Committee Political Action Committee | $5,000.00 | $5,000.00 | $0.00 | 1 | [JamesFrenchHill.md](JamesFrenchHill.md) |
 | James D Jordan | H6OH04082 | House OH-04 | REP | American Israel Public Affairs Committee Political Action Committee | $5,000.00 | $5,000.00 | $0.00 | 1 | [JamesDJordan.md](JamesDJordan.md) |
-| Henry Cuellar | H2TX23082 | House TX-28 | DEM | American Israel Public Affairs Committee Political Action Committee | $5,000.00 | $5,000.00 | $0.00 | 1 | [HenryCuellar.md](HenryCuellar.md) |
 | George Latimer | H4NY16087 | House NY-16 | DEM | American Israel Public Affairs Committee Political Action Committee | $5,000.00 | $5,000.00 | $0.00 | 1 | [GeorgeLatimer.md](GeorgeLatimer.md) |
 | Eric Alan Rick Crawford | H0AR01083 | House AR-01 | REP | American Israel Public Affairs Committee Political Action Committee | $5,000.00 | $5,000.00 | $0.00 | 1 | [EricAlanRickCrawford.md](EricAlanRickCrawford.md) |
 | Elizabeth Fletcher | H8TX07140 | House TX-07 | DEM | American Israel Public Affairs Committee Political Action Committee | $5,000.00 | $5,000.00 | $0.00 | 1 | [ElizabethFletcher.md](ElizabethFletcher.md) |
@@ -47,5 +47,6 @@
 | August Lee II Pfluger | H0TX11230 | House TX-11 | REP | American Israel Public Affairs Committee Political Action Committee | $5,000.00 | $5,000.00 | $0.00 | 1 | [AugustLeeIIPfluger.md](AugustLeeIIPfluger.md) |
 | Addison Mcdowell | H4NC06177 | House NC-06 | REP | American Israel Public Affairs Committee Political Action Committee | $5,000.00 | $5,000.00 | $0.00 | 1 | [AddisonMcdowell.md](AddisonMcdowell.md) |
 | Adam C Gray | H2CA13115 | House CA-13 | DEM | American Israel Public Affairs Committee Political Action Committee | $5,000.00 | $5,000.00 | $0.00 | 1 | [AdamCGray.md](AdamCGray.md) |
-| Self For Congress | H2TX03290 |  |  | American Israel Public Affairs Committee Political Action Committee | $4,000.00 | $4,000.00 | $0.00 | 1 | [SelfForCongress.md](SelfForCongress.md) |
+| Self For Congress | H2TX03290 | - Party: | - Source committees: American Israel Public Affairs Committee Political Action Committee | American Israel Public Affairs Committee Political Action Committee | $4,000.00 | $4,000.00 | $0.00 | 1 | [SelfForCongress.md](SelfForCongress.md) |
 | Steve Womack | H0AR03055 | House AR-03 | REP | American Israel Public Affairs Committee Political Action Committee | $2,000.00 | $2,000.00 | $0.00 | 1 | [SteveWomack.md](SteveWomack.md) |
+| Scott Franklin | H0FL15104 | House FL-15 | REP | American Israel Public Affairs Committee Political Action Committee | $1.90 | $1.90 | $0.00 | 2 | [ScottFranklin.md](ScottFranklin.md) |

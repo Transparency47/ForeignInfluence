@@ -1,461 +1,290 @@
 {
-  "generatedAt": "2026-06-01T16:41:41.069291+00:00",
+  "generatedAt": "2026-06-01T17:03:16.723164+00:00",
   "records": [
     {
       "category": "JStreetPAC",
       "date": "2026-05-01",
-      "id": "foreign_influence:0b2bd8cf6db8a5ad",
+      "id": "foreign_influence:089a0aaff3bc4ff4",
       "kind": "disclosure",
       "metadata": {
-        "candidateId": null,
-        "dateAccessed": "2026-06-01T16:41:18.794803+00:00",
+        "candidateId": "S6IA00272",
+        "dateAccessed": "2026-06-01T17:02:42.594961+00:00",
         "month": "2026-05",
         "netAmount": null,
-        "office": null,
+        "office": "Senate IA",
         "pac": "JStreetPAC",
-        "transactionCount": null
+        "transactionCount": "1"
       },
-      "path": "JStreetPAC/2026/05/Daily_Filings.md",
+      "path": "JStreetPAC/2026/05/ZachPWahls.md",
       "sourceUrl": "https://www.fec.gov/",
       "summary": null,
-      "title": "JStreetPAC Daily FEC Filings 2026-05"
+      "title": "Zach P Wahls"
+    },
+    {
+      "category": "AIPAC",
+      "date": "2026-05-01",
+      "id": "foreign_influence:d4bd3ff02fd0e228",
+      "kind": "disclosure",
+      "metadata": {
+        "candidateId": "H8SC04250",
+        "dateAccessed": "2026-06-01T17:02:42.594961+00:00",
+        "month": "2026-05",
+        "netAmount": null,
+        "office": "House SC-04",
+        "pac": "AIPAC",
+        "transactionCount": "1"
+      },
+      "path": "AIPAC/2026/05/WilliamRIVTimmons.md",
+      "sourceUrl": "https://www.fec.gov/",
+      "summary": null,
+      "title": "William R. IV Timmons"
+    },
+    {
+      "category": "AIPAC",
+      "date": "2026-05-01",
+      "id": "foreign_influence:f9e20001a06503cc",
+      "kind": "disclosure",
+      "metadata": {
+        "candidateId": "S6ME00159",
+        "dateAccessed": "2026-06-01T17:02:42.594961+00:00",
+        "month": "2026-05",
+        "netAmount": null,
+        "office": "Senate ME",
+        "pac": "AIPAC",
+        "transactionCount": "213"
+      },
+      "path": "AIPAC/2026/05/SusanMCollins.md",
+      "sourceUrl": "https://www.fec.gov/",
+      "summary": null,
+      "title": "Susan M Collins"
+    },
+    {
+      "category": "AIPAC",
+      "date": "2026-05-01",
+      "id": "foreign_influence:7c5940a7100a5b92",
+      "kind": "disclosure",
+      "metadata": {
+        "candidateId": "S0SC00149",
+        "dateAccessed": "2026-06-01T17:02:42.594961+00:00",
+        "month": "2026-05",
+        "netAmount": null,
+        "office": "Senate SC",
+        "pac": "AIPAC",
+        "transactionCount": "2"
+      },
+      "path": "AIPAC/2026/05/LindseyOGraham_S0SC00149.md",
+      "sourceUrl": "https://www.fec.gov/",
+      "summary": null,
+      "title": "Lindsey O Graham"
+    },
+    {
+      "category": "AIPAC",
+      "date": "2026-05-01",
+      "id": "foreign_influence:6e24e32b2944ec0e",
+      "kind": "disclosure",
+      "metadata": {
+        "candidateId": "H4ND00061",
+        "dateAccessed": "2026-06-01T17:02:42.594961+00:00",
+        "month": "2026-05",
+        "netAmount": null,
+        "office": "House ND-00",
+        "pac": "AIPAC",
+        "transactionCount": "1"
+      },
+      "path": "AIPAC/2026/05/JulieFedorchak.md",
+      "sourceUrl": "https://www.fec.gov/",
+      "summary": null,
+      "title": "Julie Fedorchak"
+    },
+    {
+      "category": "AIPAC",
+      "date": "2026-05-01",
+      "id": "foreign_influence:9f7eca8860ff767e",
+      "kind": "disclosure",
+      "metadata": {
+        "candidateId": "H2OK02315",
+        "dateAccessed": "2026-06-01T17:02:42.594961+00:00",
+        "month": "2026-05",
+        "netAmount": null,
+        "office": "House OK-02",
+        "pac": "AIPAC",
+        "transactionCount": "1"
+      },
+      "path": "AIPAC/2026/05/JoshBrecheen.md",
+      "sourceUrl": "https://www.fec.gov/",
+      "summary": null,
+      "title": "Josh Brecheen"
     },
     {
       "category": "JStreetPAC",
       "date": "2026-05-01",
-      "id": "foreign_influence:2a9f4613e1e81f87",
+      "id": "foreign_influence:7e7c91495581d627",
       "kind": "disclosure",
       "metadata": {
-        "candidateId": null,
-        "dateAccessed": "2026-06-01T16:41:18.794803+00:00",
+        "candidateId": "H6ME02213",
+        "dateAccessed": "2026-06-01T17:02:42.594961+00:00",
         "month": "2026-05",
         "netAmount": null,
-        "office": null,
+        "office": "House ME-02",
         "pac": "JStreetPAC",
-        "transactionCount": null
+        "transactionCount": "3"
       },
-      "path": "JStreetPAC/2026/05/FEC_Filing_1980615.md",
+      "path": "JStreetPAC/2026/05/JosephBaldacci.md",
       "sourceUrl": "https://www.fec.gov/",
       "summary": null,
-      "title": "FEC Filing 1980615 Mentioning JStreetPAC"
+      "title": "Joseph Baldacci"
     },
     {
       "category": "AIPAC",
       "date": "2026-05-01",
-      "id": "foreign_influence:0f1084fc57e2bc2d",
+      "id": "foreign_influence:eac29d63b452c1e6",
       "kind": "disclosure",
       "metadata": {
-        "candidateId": null,
-        "dateAccessed": "2026-06-01T16:41:18.794803+00:00",
+        "candidateId": "H2SC02059",
+        "dateAccessed": "2026-06-01T17:02:42.594961+00:00",
         "month": "2026-05",
         "netAmount": null,
-        "office": null,
+        "office": "House SC-02",
         "pac": "AIPAC",
-        "transactionCount": null
+        "transactionCount": "1"
       },
-      "path": "AIPAC/2026/05/FEC_Filing_1980445.md",
+      "path": "AIPAC/2026/05/JoeTheHonWilson.md",
       "sourceUrl": "https://www.fec.gov/",
       "summary": null,
-      "title": "FEC Filing 1980445 Mentioning American Israel Public Affairs Committee Political Action Committee"
+      "title": "Joe The Hon Wilson"
     },
     {
       "category": "AIPAC",
       "date": "2026-05-01",
-      "id": "foreign_influence:ac83a9b0710bacf9",
+      "id": "foreign_influence:b81b5d93efa1dcec",
       "kind": "disclosure",
       "metadata": {
-        "candidateId": null,
-        "dateAccessed": "2026-06-01T16:41:18.794803+00:00",
+        "candidateId": "H8CA34266",
+        "dateAccessed": "2026-06-01T17:02:42.594961+00:00",
         "month": "2026-05",
         "netAmount": null,
-        "office": null,
+        "office": "House CA-34",
         "pac": "AIPAC",
-        "transactionCount": null
+        "transactionCount": "1"
       },
-      "path": "AIPAC/2026/05/FEC_Filing_1980349.md",
+      "path": "AIPAC/2026/05/JimmyGomez.md",
       "sourceUrl": "https://www.fec.gov/",
       "summary": null,
-      "title": "FEC Filing 1980349 Mentioning American Israel Public Affairs Committee Political Action Committee"
+      "title": "Jimmy Gomez"
     },
     {
       "category": "AIPAC",
       "date": "2026-05-01",
-      "id": "foreign_influence:4ead1a302d8e5d05",
+      "id": "foreign_influence:b07f735bf9aea68a",
       "kind": "disclosure",
       "metadata": {
-        "candidateId": null,
-        "dateAccessed": "2026-06-01T16:41:18.794803+00:00",
+        "candidateId": "H0CA08135",
+        "dateAccessed": "2026-06-01T17:02:42.594961+00:00",
         "month": "2026-05",
         "netAmount": null,
-        "office": null,
+        "office": "House CA-08",
         "pac": "AIPAC",
-        "transactionCount": null
+        "transactionCount": "1"
       },
-      "path": "AIPAC/2026/05/FEC_Filing_1980319.md",
+      "path": "AIPAC/2026/05/JayObernolte.md",
       "sourceUrl": "https://www.fec.gov/",
       "summary": null,
-      "title": "FEC Filing 1980319 Mentioning American Israel Public Affairs Committee Political Action Committee"
-    },
-    {
-      "category": "AIPAC",
-      "date": "2026-05-01",
-      "id": "foreign_influence:6a2fb7e2be3e85ca",
-      "kind": "disclosure",
-      "metadata": {
-        "candidateId": null,
-        "dateAccessed": "2026-06-01T16:41:18.794803+00:00",
-        "month": "2026-05",
-        "netAmount": null,
-        "office": null,
-        "pac": "AIPAC",
-        "transactionCount": null
-      },
-      "path": "AIPAC/2026/05/FEC_Filing_1980166.md",
-      "sourceUrl": "https://www.fec.gov/",
-      "summary": null,
-      "title": "FEC Filing 1980166 Mentioning American Israel Public Affairs Committee Political Action Committee"
-    },
-    {
-      "category": "AIPAC",
-      "date": "2026-05-01",
-      "id": "foreign_influence:9cc2851e602eef5f",
-      "kind": "disclosure",
-      "metadata": {
-        "candidateId": null,
-        "dateAccessed": "2026-06-01T16:41:18.794803+00:00",
-        "month": "2026-05",
-        "netAmount": null,
-        "office": null,
-        "pac": "AIPAC",
-        "transactionCount": null
-      },
-      "path": "AIPAC/2026/05/FEC_Filing_1980163.md",
-      "sourceUrl": "https://www.fec.gov/",
-      "summary": null,
-      "title": "FEC Filing 1980163 Mentioning American Israel Public Affairs Committee Political Action Committee"
+      "title": "Jay Obernolte"
     },
     {
       "category": "JStreetPAC",
       "date": "2026-05-01",
-      "id": "foreign_influence:44c1f263fdd71737",
-      "kind": "disclosure",
+      "id": "foreign_influence:7e2099de69570c7d",
+      "kind": "disclosure_month",
       "metadata": {
         "candidateId": null,
-        "dateAccessed": "2026-06-01T16:41:18.794803+00:00",
+        "dateAccessed": "2026-06-01T17:02:42.594961+00:00",
         "month": "2026-05",
         "netAmount": null,
         "office": null,
         "pac": "JStreetPAC",
-        "transactionCount": null
+        "transactionCount": "4"
       },
-      "path": "JStreetPAC/2026/05/FEC_Filing_1980161.md",
+      "path": "JStreetPAC/2026/05/README.md",
       "sourceUrl": "https://www.fec.gov/",
       "summary": null,
-      "title": "FEC Filing 1980161 Mentioning JStreetPAC"
+      "title": "JStreetPAC 2026-05 Metadata"
     },
     {
       "category": "AIPAC",
       "date": "2026-05-01",
-      "id": "foreign_influence:7fa3d8d53d2cbfac",
+      "id": "foreign_influence:ea7d2ff47ea8faa4",
       "kind": "disclosure",
       "metadata": {
-        "candidateId": null,
-        "dateAccessed": "2026-06-01T16:41:18.794803+00:00",
+        "candidateId": "H4NJ01084",
+        "dateAccessed": "2026-06-01T17:02:42.594961+00:00",
         "month": "2026-05",
         "netAmount": null,
-        "office": null,
+        "office": "House NJ-01",
         "pac": "AIPAC",
-        "transactionCount": null
+        "transactionCount": "13"
       },
-      "path": "AIPAC/2026/05/FEC_Filing_1980153.md",
+      "path": "AIPAC/2026/05/DonaldWNorcross.md",
       "sourceUrl": "https://www.fec.gov/",
       "summary": null,
-      "title": "FEC Filing 1980153 Mentioning American Israel Public Affairs Committee Political Action Committee"
+      "title": "Donald W Norcross"
     },
     {
       "category": "AIPAC",
       "date": "2026-05-01",
-      "id": "foreign_influence:5b8131c6a57e3a47",
+      "id": "foreign_influence:50432020954c0203",
       "kind": "disclosure",
       "metadata": {
-        "candidateId": null,
-        "dateAccessed": "2026-06-01T16:41:18.794803+00:00",
+        "candidateId": "H8NV03036",
+        "dateAccessed": "2026-06-01T17:02:42.594961+00:00",
         "month": "2026-05",
         "netAmount": null,
-        "office": null,
+        "office": "House NV-01",
         "pac": "AIPAC",
-        "transactionCount": null
+        "transactionCount": "7"
       },
-      "path": "AIPAC/2026/05/FEC_Filing_1980086.md",
+      "path": "AIPAC/2026/05/DinaTitus.md",
       "sourceUrl": "https://www.fec.gov/",
       "summary": null,
-      "title": "FEC Filing 1980086 Mentioning American Israel Public Affairs Committee Political Action Committee"
+      "title": "Dina Titus"
     },
     {
       "category": "AIPAC",
       "date": "2026-05-01",
-      "id": "foreign_influence:25799c8bcf0abaab",
-      "kind": "disclosure",
+      "id": "foreign_influence:f6b9114a03398c25",
+      "kind": "disclosure_month",
       "metadata": {
         "candidateId": null,
-        "dateAccessed": "2026-06-01T16:41:18.794803+00:00",
+        "dateAccessed": "2026-06-01T17:02:42.594961+00:00",
         "month": "2026-05",
         "netAmount": null,
         "office": null,
         "pac": "AIPAC",
-        "transactionCount": null
+        "transactionCount": "241"
       },
-      "path": "AIPAC/2026/05/FEC_Filing_1980084.md",
+      "path": "AIPAC/2026/05/README.md",
       "sourceUrl": "https://www.fec.gov/",
       "summary": null,
-      "title": "FEC Filing 1980084 Mentioning American Israel Public Affairs Committee Political Action Committee"
-    },
-    {
-      "category": "AIPAC",
-      "date": "2026-05-01",
-      "id": "foreign_influence:caa845ef0917a240",
-      "kind": "disclosure",
-      "metadata": {
-        "candidateId": null,
-        "dateAccessed": "2026-06-01T16:41:18.794803+00:00",
-        "month": "2026-05",
-        "netAmount": null,
-        "office": null,
-        "pac": "AIPAC",
-        "transactionCount": null
-      },
-      "path": "AIPAC/2026/05/FEC_Filing_1980048.md",
-      "sourceUrl": "https://www.fec.gov/",
-      "summary": null,
-      "title": "FEC Filing 1980048 Mentioning American Israel Public Affairs Committee Political Action Committee"
-    },
-    {
-      "category": "AIPAC",
-      "date": "2026-05-01",
-      "id": "foreign_influence:4d46d4b4d995d6f7",
-      "kind": "disclosure",
-      "metadata": {
-        "candidateId": null,
-        "dateAccessed": "2026-06-01T16:41:18.794803+00:00",
-        "month": "2026-05",
-        "netAmount": null,
-        "office": null,
-        "pac": "AIPAC",
-        "transactionCount": null
-      },
-      "path": "AIPAC/2026/05/FEC_Filing_1980014.md",
-      "sourceUrl": "https://www.fec.gov/",
-      "summary": null,
-      "title": "FEC Filing 1980014 Mentioning American Israel Public Affairs Committee Political Action Committee"
-    },
-    {
-      "category": "AIPAC",
-      "date": "2026-05-01",
-      "id": "foreign_influence:d642f862982f8dd8",
-      "kind": "disclosure",
-      "metadata": {
-        "candidateId": null,
-        "dateAccessed": "2026-06-01T16:41:18.794803+00:00",
-        "month": "2026-05",
-        "netAmount": null,
-        "office": null,
-        "pac": "AIPAC",
-        "transactionCount": null
-      },
-      "path": "AIPAC/2026/05/FEC_Filing_1979954.md",
-      "sourceUrl": "https://www.fec.gov/",
-      "summary": null,
-      "title": "FEC Filing 1979954 Mentioning American Israel Public Affairs Committee Political Action Committee"
-    },
-    {
-      "category": "AIPAC",
-      "date": "2026-05-01",
-      "id": "foreign_influence:d7cb013e50fe9b97",
-      "kind": "disclosure",
-      "metadata": {
-        "candidateId": null,
-        "dateAccessed": "2026-06-01T16:41:18.794803+00:00",
-        "month": "2026-05",
-        "netAmount": null,
-        "office": null,
-        "pac": "AIPAC",
-        "transactionCount": null
-      },
-      "path": "AIPAC/2026/05/FEC_Filing_1979943.md",
-      "sourceUrl": "https://www.fec.gov/",
-      "summary": null,
-      "title": "FEC Filing 1979943 Mentioning American Israel Public Affairs Committee Political Action Committee"
-    },
-    {
-      "category": "AIPAC",
-      "date": "2026-05-01",
-      "id": "foreign_influence:f8e6fa0116ba8a53",
-      "kind": "disclosure",
-      "metadata": {
-        "candidateId": null,
-        "dateAccessed": "2026-06-01T16:41:18.794803+00:00",
-        "month": "2026-05",
-        "netAmount": null,
-        "office": null,
-        "pac": "AIPAC",
-        "transactionCount": null
-      },
-      "path": "AIPAC/2026/05/FEC_Filing_1979854.md",
-      "sourceUrl": "https://www.fec.gov/",
-      "summary": null,
-      "title": "FEC Filing 1979854 Mentioning American Israel Public Affairs Committee Political Action Committee"
-    },
-    {
-      "category": "AIPAC",
-      "date": "2026-05-01",
-      "id": "foreign_influence:e78869632b467706",
-      "kind": "disclosure",
-      "metadata": {
-        "candidateId": null,
-        "dateAccessed": "2026-06-01T16:41:18.794803+00:00",
-        "month": "2026-05",
-        "netAmount": null,
-        "office": null,
-        "pac": "AIPAC",
-        "transactionCount": null
-      },
-      "path": "AIPAC/2026/05/FEC_Filing_1979723.md",
-      "sourceUrl": "https://www.fec.gov/",
-      "summary": null,
-      "title": "FEC Filing 1979723 Mentioning American Israel Public Affairs Committee Political Action Committee"
-    },
-    {
-      "category": "AIPAC",
-      "date": "2026-05-01",
-      "id": "foreign_influence:d0b5f2aa34a58720",
-      "kind": "disclosure",
-      "metadata": {
-        "candidateId": null,
-        "dateAccessed": "2026-06-01T16:41:18.794803+00:00",
-        "month": "2026-05",
-        "netAmount": null,
-        "office": null,
-        "pac": "AIPAC",
-        "transactionCount": null
-      },
-      "path": "AIPAC/2026/05/FEC_Filing_1979578.md",
-      "sourceUrl": "https://www.fec.gov/",
-      "summary": null,
-      "title": "FEC Filing 1979578 Mentioning American Israel Public Affairs Committee Political Action Committee"
-    },
-    {
-      "category": "AIPAC",
-      "date": "2026-05-01",
-      "id": "foreign_influence:c23bca14e9b22938",
-      "kind": "disclosure",
-      "metadata": {
-        "candidateId": null,
-        "dateAccessed": "2026-06-01T16:41:18.794803+00:00",
-        "month": "2026-05",
-        "netAmount": null,
-        "office": null,
-        "pac": "AIPAC",
-        "transactionCount": null
-      },
-      "path": "AIPAC/2026/05/FEC_Filing_1979563.md",
-      "sourceUrl": "https://www.fec.gov/",
-      "summary": null,
-      "title": "FEC Filing 1979563 Mentioning American Israel Public Affairs Committee Political Action Committee"
+      "title": "AIPAC 2026-05 Metadata"
     },
     {
       "category": "JStreetPAC",
-      "date": "2026-05-01",
-      "id": "foreign_influence:00668b2485f04c5a",
+      "date": "2026-04-01",
+      "id": "foreign_influence:095a58abc48590c2",
       "kind": "disclosure",
       "metadata": {
-        "candidateId": null,
-        "dateAccessed": "2026-06-01T16:41:18.794803+00:00",
-        "month": "2026-05",
+        "candidateId": "S6IA00272",
+        "dateAccessed": "2026-06-01T17:02:42.594961+00:00",
+        "month": "2026-04",
         "netAmount": null,
-        "office": null,
+        "office": "Senate IA",
         "pac": "JStreetPAC",
-        "transactionCount": null
+        "transactionCount": "3"
       },
-      "path": "JStreetPAC/2026/05/FEC_Filing_1979518.md",
+      "path": "JStreetPAC/2026/04/ZachPWahls.md",
       "sourceUrl": "https://www.fec.gov/",
       "summary": null,
-      "title": "FEC Filing 1979518 Mentioning JStreetPAC"
-    },
-    {
-      "category": "JStreetPAC",
-      "date": "2026-05-01",
-      "id": "foreign_influence:bc628aa50da4d304",
-      "kind": "disclosure",
-      "metadata": {
-        "candidateId": null,
-        "dateAccessed": "2026-06-01T16:41:18.794803+00:00",
-        "month": "2026-05",
-        "netAmount": null,
-        "office": null,
-        "pac": "JStreetPAC",
-        "transactionCount": null
-      },
-      "path": "JStreetPAC/2026/05/FEC_Filing_1979515.md",
-      "sourceUrl": "https://www.fec.gov/",
-      "summary": null,
-      "title": "FEC Filing 1979515 Mentioning JStreetPAC"
-    },
-    {
-      "category": "JStreetPAC",
-      "date": "2026-05-01",
-      "id": "foreign_influence:1593e940aed88a6a",
-      "kind": "disclosure",
-      "metadata": {
-        "candidateId": null,
-        "dateAccessed": "2026-06-01T16:41:18.794803+00:00",
-        "month": "2026-05",
-        "netAmount": null,
-        "office": null,
-        "pac": "JStreetPAC",
-        "transactionCount": null
-      },
-      "path": "JStreetPAC/2026/05/FEC_Filing_1979511.md",
-      "sourceUrl": "https://www.fec.gov/",
-      "summary": null,
-      "title": "FEC Filing 1979511 Mentioning JStreetPAC"
-    },
-    {
-      "category": "JStreetPAC",
-      "date": "2026-05-01",
-      "id": "foreign_influence:a71ff35386cae443",
-      "kind": "disclosure",
-      "metadata": {
-        "candidateId": null,
-        "dateAccessed": "2026-06-01T16:41:18.794803+00:00",
-        "month": "2026-05",
-        "netAmount": null,
-        "office": null,
-        "pac": "JStreetPAC",
-        "transactionCount": null
-      },
-      "path": "JStreetPAC/2026/05/FEC_Filing_1979508.md",
-      "sourceUrl": "https://www.fec.gov/",
-      "summary": null,
-      "title": "FEC Filing 1979508 Mentioning JStreetPAC"
-    },
-    {
-      "category": "AIPAC",
-      "date": "2026-05-01",
-      "id": "foreign_influence:05b749a07b2e0d3f",
-      "kind": "disclosure",
-      "metadata": {
-        "candidateId": null,
-        "dateAccessed": "2026-06-01T16:41:18.794803+00:00",
-        "month": "2026-05",
-        "netAmount": null,
-        "office": null,
-        "pac": "AIPAC",
-        "transactionCount": null
-      },
-      "path": "AIPAC/2026/05/Daily_Filings.md",
-      "sourceUrl": "https://www.fec.gov/",
-      "summary": null,
-      "title": "AIPAC Daily FEC Filings 2026-05"
+      "title": "Zach P Wahls"
     },
     {
       "category": "UnitedDemocracyProject",
@@ -477,6 +306,44 @@
       "title": "UnitedDemocracyProject 2026-04 Metadata"
     },
     {
+      "category": "AIPAC",
+      "date": "2026-04-01",
+      "id": "foreign_influence:597a6263dc6cc2c8",
+      "kind": "disclosure",
+      "metadata": {
+        "candidateId": "S6ME00159",
+        "dateAccessed": "2026-06-01T17:02:42.594961+00:00",
+        "month": "2026-04",
+        "netAmount": null,
+        "office": "Senate ME",
+        "pac": "AIPAC",
+        "transactionCount": "122"
+      },
+      "path": "AIPAC/2026/04/SusanMCollins.md",
+      "sourceUrl": "https://www.fec.gov/",
+      "summary": null,
+      "title": "Susan M Collins"
+    },
+    {
+      "category": "AIPAC",
+      "date": "2026-04-01",
+      "id": "foreign_influence:24cf3bd3e8d3109c",
+      "kind": "disclosure",
+      "metadata": {
+        "candidateId": "H2NV04011",
+        "dateAccessed": "2026-06-01T17:02:42.594961+00:00",
+        "month": "2026-04",
+        "netAmount": null,
+        "office": "House NV-04",
+        "pac": "AIPAC",
+        "transactionCount": "2"
+      },
+      "path": "AIPAC/2026/04/StevenAlexzanderHorsford.md",
+      "sourceUrl": "https://www.fec.gov/",
+      "summary": null,
+      "title": "Steven Alexzander Horsford"
+    },
+    {
       "category": "UnitedDemocracyProject",
       "date": "2026-04-01",
       "id": "foreign_influence:ef06b8a9d7a15176",
@@ -496,6 +363,82 @@
       "title": "Melissa Conyears-Ervin"
     },
     {
+      "category": "AIPAC",
+      "date": "2026-04-01",
+      "id": "foreign_influence:5da3a2af05609542",
+      "kind": "disclosure",
+      "metadata": {
+        "candidateId": "S0SC00149",
+        "dateAccessed": "2026-06-01T17:02:42.594961+00:00",
+        "month": "2026-04",
+        "netAmount": null,
+        "office": "Senate SC",
+        "pac": "AIPAC",
+        "transactionCount": "2"
+      },
+      "path": "AIPAC/2026/04/LindseyOGraham_S0SC00149.md",
+      "sourceUrl": "https://www.fec.gov/",
+      "summary": null,
+      "title": "Lindsey O Graham"
+    },
+    {
+      "category": "AIPAC",
+      "date": "2026-04-01",
+      "id": "foreign_influence:dc0fe5f59c746bf3",
+      "kind": "disclosure",
+      "metadata": {
+        "candidateId": "H4ND00061",
+        "dateAccessed": "2026-06-01T17:02:42.594961+00:00",
+        "month": "2026-04",
+        "netAmount": null,
+        "office": "House ND-00",
+        "pac": "AIPAC",
+        "transactionCount": "2"
+      },
+      "path": "AIPAC/2026/04/JulieFedorchak.md",
+      "sourceUrl": "https://www.fec.gov/",
+      "summary": null,
+      "title": "Julie Fedorchak"
+    },
+    {
+      "category": "JStreetPAC",
+      "date": "2026-04-01",
+      "id": "foreign_influence:c93c6542720cf4cf",
+      "kind": "disclosure",
+      "metadata": {
+        "candidateId": "H6ME02213",
+        "dateAccessed": "2026-06-01T17:02:42.594961+00:00",
+        "month": "2026-04",
+        "netAmount": null,
+        "office": "House ME-02",
+        "pac": "JStreetPAC",
+        "transactionCount": "20"
+      },
+      "path": "JStreetPAC/2026/04/JosephBaldacci.md",
+      "sourceUrl": "https://www.fec.gov/",
+      "summary": null,
+      "title": "Joseph Baldacci"
+    },
+    {
+      "category": "AIPAC",
+      "date": "2026-04-01",
+      "id": "foreign_influence:001defb80e7bd0d8",
+      "kind": "disclosure",
+      "metadata": {
+        "candidateId": "H2SC02059",
+        "dateAccessed": "2026-06-01T17:02:42.594961+00:00",
+        "month": "2026-04",
+        "netAmount": null,
+        "office": "House SC-02",
+        "pac": "AIPAC",
+        "transactionCount": "14"
+      },
+      "path": "AIPAC/2026/04/JoeTheHonWilson.md",
+      "sourceUrl": "https://www.fec.gov/",
+      "summary": null,
+      "title": "Joe The Hon Wilson"
+    },
+    {
       "category": "UnitedDemocracyProject",
       "date": "2026-04-01",
       "id": "foreign_influence:e083e16b9792a15f",
@@ -513,6 +456,101 @@
       "sourceUrl": "https://www.fec.gov/",
       "summary": null,
       "title": "Jason Friedman"
+    },
+    {
+      "category": "JStreetPAC",
+      "date": "2026-04-01",
+      "id": "foreign_influence:31258ca2f7152519",
+      "kind": "disclosure",
+      "metadata": {
+        "candidateId": "H2CA06259",
+        "dateAccessed": "2026-06-01T17:02:42.594961+00:00",
+        "month": "2026-04",
+        "netAmount": null,
+        "office": "House CA-02",
+        "pac": "JStreetPAC",
+        "transactionCount": "6"
+      },
+      "path": "JStreetPAC/2026/04/JaredHuffman.md",
+      "sourceUrl": "https://www.fec.gov/",
+      "summary": null,
+      "title": "Jared Huffman"
+    },
+    {
+      "category": "JStreetPAC",
+      "date": "2026-04-01",
+      "id": "foreign_influence:64f6b92c4e31c44d",
+      "kind": "disclosure_month",
+      "metadata": {
+        "candidateId": null,
+        "dateAccessed": "2026-06-01T17:02:42.594961+00:00",
+        "month": "2026-04",
+        "netAmount": null,
+        "office": null,
+        "pac": "JStreetPAC",
+        "transactionCount": "29"
+      },
+      "path": "JStreetPAC/2026/04/README.md",
+      "sourceUrl": "https://www.fec.gov/",
+      "summary": null,
+      "title": "JStreetPAC 2026-04 Metadata"
+    },
+    {
+      "category": "AIPAC",
+      "date": "2026-04-01",
+      "id": "foreign_influence:5cef4de5bc42a652",
+      "kind": "disclosure",
+      "metadata": {
+        "candidateId": "H8NV03036",
+        "dateAccessed": "2026-06-01T17:02:42.594961+00:00",
+        "month": "2026-04",
+        "netAmount": null,
+        "office": "House NV-01",
+        "pac": "AIPAC",
+        "transactionCount": "2"
+      },
+      "path": "AIPAC/2026/04/DinaTitus.md",
+      "sourceUrl": "https://www.fec.gov/",
+      "summary": null,
+      "title": "Dina Titus"
+    },
+    {
+      "category": "AIPAC",
+      "date": "2026-04-01",
+      "id": "foreign_influence:001b78edbc4ca3b8",
+      "kind": "disclosure_month",
+      "metadata": {
+        "candidateId": null,
+        "dateAccessed": "2026-06-01T17:02:42.594961+00:00",
+        "month": "2026-04",
+        "netAmount": null,
+        "office": null,
+        "pac": "AIPAC",
+        "transactionCount": "144"
+      },
+      "path": "AIPAC/2026/04/README.md",
+      "sourceUrl": "https://www.fec.gov/",
+      "summary": null,
+      "title": "AIPAC 2026-04 Metadata"
+    },
+    {
+      "category": "JStreetPAC",
+      "date": "2026-03-01",
+      "id": "foreign_influence:5747a1d0f2a42564",
+      "kind": "disclosure",
+      "metadata": {
+        "candidateId": "S6IA00272",
+        "dateAccessed": "2026-06-01T17:02:42.594961+00:00",
+        "month": "2026-03",
+        "netAmount": null,
+        "office": "Senate IA",
+        "pac": "JStreetPAC",
+        "transactionCount": "2"
+      },
+      "path": "JStreetPAC/2026/03/ZachPWahls.md",
+      "sourceUrl": "https://www.fec.gov/",
+      "summary": null,
+      "title": "Zach P Wahls"
     },
     {
       "category": "AIPAC",
@@ -646,6 +684,25 @@
       "sourceUrl": "https://www.fec.gov/",
       "summary": null,
       "title": "Steve Scalise"
+    },
+    {
+      "category": "AIPAC",
+      "date": "2026-03-01",
+      "id": "foreign_influence:dbe8b91a2e55b85f",
+      "kind": "disclosure",
+      "metadata": {
+        "candidateId": "H0FL15104",
+        "dateAccessed": "2026-06-01T17:02:42.594961+00:00",
+        "month": "2026-03",
+        "netAmount": null,
+        "office": "House FL-15",
+        "pac": "AIPAC",
+        "transactionCount": "2"
+      },
+      "path": "AIPAC/2026/03/ScottFranklin.md",
+      "sourceUrl": "https://www.fec.gov/",
+      "summary": null,
+      "title": "Scott Franklin"
     },
     {
       "category": "JStreetPAC",
@@ -857,6 +914,25 @@
       "title": "Kweisi Mfume"
     },
     {
+      "category": "JStreetPAC",
+      "date": "2026-03-01",
+      "id": "foreign_influence:a7417a541c4db12b",
+      "kind": "disclosure",
+      "metadata": {
+        "candidateId": "H2CA14162",
+        "dateAccessed": "2026-06-01T17:02:42.594961+00:00",
+        "month": "2026-03",
+        "netAmount": null,
+        "office": "House CA-15",
+        "pac": "JStreetPAC",
+        "transactionCount": "5"
+      },
+      "path": "JStreetPAC/2026/03/KevinMullin.md",
+      "sourceUrl": "https://www.fec.gov/",
+      "summary": null,
+      "title": "Kevin Mullin"
+    },
+    {
       "category": "AIPAC",
       "date": "2026-03-01",
       "id": "foreign_influence:ef14f2ae841279b4",
@@ -1034,17 +1110,36 @@
       "kind": "disclosure_month",
       "metadata": {
         "candidateId": null,
-        "dateAccessed": "2026-06-01T16:41:11.073775+00:00",
+        "dateAccessed": "2026-06-01T17:02:42.594961+00:00",
         "month": "2026-03",
         "netAmount": null,
         "office": null,
         "pac": "JStreetPAC",
-        "transactionCount": "5"
+        "transactionCount": "12"
       },
       "path": "JStreetPAC/2026/03/README.md",
       "sourceUrl": "https://www.fec.gov/",
       "summary": null,
       "title": "JStreetPAC 2026-03 Metadata"
+    },
+    {
+      "category": "AIPAC",
+      "date": "2026-03-01",
+      "id": "foreign_influence:30772a2307f9113c",
+      "kind": "disclosure",
+      "metadata": {
+        "candidateId": "H2TX23082",
+        "dateAccessed": "2026-06-01T17:02:42.594961+00:00",
+        "month": "2026-03",
+        "netAmount": null,
+        "office": "House TX-28",
+        "pac": "AIPAC",
+        "transactionCount": "10"
+      },
+      "path": "AIPAC/2026/03/HenryCuellar.md",
+      "sourceUrl": "https://www.fec.gov/",
+      "summary": null,
+      "title": "Henry Cuellar"
     },
     {
       "category": "JStreetPAC",
@@ -1224,17 +1319,36 @@
       "kind": "disclosure_month",
       "metadata": {
         "candidateId": null,
-        "dateAccessed": "2026-06-01T16:41:11.073775+00:00",
+        "dateAccessed": "2026-06-01T17:02:42.594961+00:00",
         "month": "2026-03",
         "netAmount": null,
         "office": null,
         "pac": "AIPAC",
-        "transactionCount": "30"
+        "transactionCount": "42"
       },
       "path": "AIPAC/2026/03/README.md",
       "sourceUrl": "https://www.fec.gov/",
       "summary": null,
       "title": "AIPAC 2026-03 Metadata"
+    },
+    {
+      "category": "JStreetPAC",
+      "date": "2026-02-01",
+      "id": "foreign_influence:818f998379742a1b",
+      "kind": "disclosure",
+      "metadata": {
+        "candidateId": "S6IA00272",
+        "dateAccessed": "2026-06-01T17:02:42.594961+00:00",
+        "month": "2026-02",
+        "netAmount": null,
+        "office": "Senate IA",
+        "pac": "JStreetPAC",
+        "transactionCount": "3"
+      },
+      "path": "JStreetPAC/2026/02/ZachPWahls.md",
+      "sourceUrl": "https://www.fec.gov/",
+      "summary": null,
+      "title": "Zach P Wahls"
     },
     {
       "category": "AIPAC",
@@ -1368,6 +1482,25 @@
       "sourceUrl": "https://www.fec.gov/",
       "summary": null,
       "title": "Self For Congress"
+    },
+    {
+      "category": "AIPAC",
+      "date": "2026-02-01",
+      "id": "foreign_influence:5f7ca3335368f6df",
+      "kind": "disclosure",
+      "metadata": {
+        "candidateId": "H0FL15104",
+        "dateAccessed": "2026-06-01T17:02:42.594961+00:00",
+        "month": "2026-02",
+        "netAmount": null,
+        "office": "House FL-15",
+        "pac": "AIPAC",
+        "transactionCount": "2"
+      },
+      "path": "AIPAC/2026/02/ScottFranklin.md",
+      "sourceUrl": "https://www.fec.gov/",
+      "summary": null,
+      "title": "Scott Franklin"
     },
     {
       "category": "AIPAC",
@@ -1636,18 +1769,37 @@
       "title": "James D Jordan"
     },
     {
+      "category": "JStreetPAC",
+      "date": "2026-02-01",
+      "id": "foreign_influence:944090544786ccf3",
+      "kind": "disclosure_month",
+      "metadata": {
+        "candidateId": null,
+        "dateAccessed": "2026-06-01T17:02:42.594961+00:00",
+        "month": "2026-02",
+        "netAmount": null,
+        "office": null,
+        "pac": "JStreetPAC",
+        "transactionCount": "3"
+      },
+      "path": "JStreetPAC/2026/02/README.md",
+      "sourceUrl": "https://www.fec.gov/",
+      "summary": null,
+      "title": "JStreetPAC 2026-02 Metadata"
+    },
+    {
       "category": "AIPAC",
       "date": "2026-02-01",
       "id": "foreign_influence:86edc26f144d5720",
       "kind": "disclosure",
       "metadata": {
         "candidateId": "H2TX23082",
-        "dateAccessed": "2026-06-01T16:41:11.073775+00:00",
+        "dateAccessed": "2026-06-01T17:02:42.594961+00:00",
         "month": "2026-02",
         "netAmount": null,
         "office": "House TX-28",
         "pac": "AIPAC",
-        "transactionCount": "1"
+        "transactionCount": "3"
       },
       "path": "AIPAC/2026/02/HenryCuellar.md",
       "sourceUrl": "https://www.fec.gov/",
@@ -1927,12 +2079,12 @@
       "kind": "disclosure_month",
       "metadata": {
         "candidateId": null,
-        "dateAccessed": "2026-06-01T16:41:11.073775+00:00",
+        "dateAccessed": "2026-06-01T17:02:42.594961+00:00",
         "month": "2026-02",
         "netAmount": null,
         "office": null,
         "pac": "AIPAC",
-        "transactionCount": "35"
+        "transactionCount": "39"
       },
       "path": "AIPAC/2026/02/README.md",
       "sourceUrl": "https://www.fec.gov/",
@@ -2858,12 +3010,12 @@
       "kind": "disclosure",
       "metadata": {
         "candidateId": "H2CA14162",
-        "dateAccessed": "2026-06-01T16:41:11.073775+00:00",
+        "dateAccessed": "2026-06-01T17:02:42.594961+00:00",
         "month": "2025-12",
         "netAmount": null,
         "office": "House CA-15",
         "pac": "JStreetPAC",
-        "transactionCount": "1"
+        "transactionCount": "3"
       },
       "path": "JStreetPAC/2025/12/KevinMullin.md",
       "sourceUrl": "https://www.fec.gov/",
@@ -3257,12 +3409,12 @@
       "kind": "disclosure_month",
       "metadata": {
         "candidateId": null,
-        "dateAccessed": "2026-06-01T16:41:11.073775+00:00",
+        "dateAccessed": "2026-06-01T17:02:42.594961+00:00",
         "month": "2025-12",
         "netAmount": null,
         "office": null,
         "pac": "JStreetPAC",
-        "transactionCount": "514"
+        "transactionCount": "516"
       },
       "path": "JStreetPAC/2025/12/README.md",
       "sourceUrl": "https://www.fec.gov/",
@@ -9939,6 +10091,25 @@
       "title": "Kevin R Hern"
     },
     {
+      "category": "JStreetPAC",
+      "date": "2025-10-01",
+      "id": "foreign_influence:b4df1a660c6c2a23",
+      "kind": "disclosure",
+      "metadata": {
+        "candidateId": "H2CA14162",
+        "dateAccessed": "2026-06-01T17:02:42.594961+00:00",
+        "month": "2025-10",
+        "netAmount": null,
+        "office": "House CA-15",
+        "pac": "JStreetPAC",
+        "transactionCount": "2"
+      },
+      "path": "JStreetPAC/2025/10/KevinMullin.md",
+      "sourceUrl": "https://www.fec.gov/",
+      "summary": null,
+      "title": "Kevin Mullin"
+    },
+    {
       "category": "AIPAC",
       "date": "2025-10-01",
       "id": "foreign_influence:b9264ab19cb3176f",
@@ -10002,12 +10173,12 @@
       "kind": "disclosure_month",
       "metadata": {
         "candidateId": null,
-        "dateAccessed": "2026-06-01T16:41:11.073775+00:00",
+        "dateAccessed": "2026-06-01T17:02:42.594961+00:00",
         "month": "2025-10",
         "netAmount": null,
         "office": null,
         "pac": "JStreetPAC",
-        "transactionCount": "1"
+        "transactionCount": "3"
       },
       "path": "JStreetPAC/2025/10/README.md",
       "sourceUrl": "https://www.fec.gov/",

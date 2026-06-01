@@ -83,6 +83,10 @@ jobs:
             echo "Daily filings must use the PAC/YYYY/MM structure, not Reports/." >&2
             exit 1
           fi
+          if find AIPAC UnitedDemocracyProject JStreetPAC NORPAC DMFIPAC USINPAC TurkishCoalition ArmenianNational CubanAmerican IranianAmerican \( -name 'FEC_Filing_*.md' -o -name 'Daily_Filings.md' \) -print -quit 2>/dev/null | grep -q .; then
+            echo "Daily filings must be folded into PoliticianName.md and README.md only." >&2
+            exit 1
+          fi
           if grep -R -nE '/Users/|Local source|sourcePath|govinfoBulkSourcePath' README.md Scripts listing.json AIPAC UnitedDemocracyProject JStreetPAC NORPAC DMFIPAC USINPAC TurkishCoalition ArmenianNational CubanAmerican IranianAmerican 2>/dev/null; then
             echo "Local path leak detected." >&2
             exit 1

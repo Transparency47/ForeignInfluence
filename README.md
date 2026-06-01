@@ -1,10 +1,10 @@
 # Foreign Influence PAC Tracker
 
-This repository tracks large political action committees whose sole purpose is to advocate on behalf of a foreign nation. The records here are organized into a read-only public mirror using data pulled from [FEC.gov](https://www.fec.gov/) public campaign finance records.
+This repository tracks large political action committees sole purpose is to advocate on behalf of a foreign nation. The records here are organized into a read-only public mirror using data pulled from [FEC.gov](https://www.fec.gov/) public campaign finance records.
 
 The current dataset is organized by PAC, year, and month. Monthly folders contain one markdown file per politician, summarizing the FEC-reported transactions associated with that politician for that month. Each monthly folder also contains a `README.md` file with the monthly totals and a rollup of all politicians listed for that period, so GitHub displays the monthly summary automatically.
 
-Daily FEC filing scans are stored in the same `PAC/YYYY/MM/` folders as the monthly bulk records. These files identify electronic and paper reports that either were filed by a tracked committee or mention a tracked committee in the filing.
+Daily FEC filing scans are folded into the same `PAC/YYYY/MM/PoliticianName.md` files and monthly `README.md` rollups as the bulk records.
 
 Example layout:
 
@@ -13,8 +13,6 @@ PACName/
   2026/
     05/
       ChuckSchumer.md
-      FEC_Filing_1980153.md
-      Daily_Filings.md
       README.md
 ```
 

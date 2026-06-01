@@ -3,13 +3,13 @@
 - PAC: JStreetPAC
 - Month: 2025-12
 - Source committees: JStreetPAC
-- Data source: FEC bulk PAS2 public records
-- Total net candidate-linked reported amount: $284,401.00
-- Total positive candidate-linked reported amount: $284,401.00
+- Data source: FEC public records
+- Total net candidate-linked reported amount: $289,401.00
+- Total positive candidate-linked reported amount: $289,401.00
 - Total negative candidate-linked reported amount: $0.00
 - Politicians listed: 67
-- Transactions: 514
-- Date accessed: 2026-06-01T16:41:11.073775+00:00
+- Transactions: 516
+- Date accessed: 2026-06-01T17:02:42.594961+00:00
 
 ## Politicians
 
@@ -26,6 +26,7 @@
 | Marcy C Hon Kaptur | H2OH09031 | House OH-09 | DEM | JStreetPAC | $9,520.00 | $9,520.00 | $0.00 | 10 | [MarcyCHonKaptur.md](MarcyCHonKaptur.md) |
 | Joanna Mendoza | H6AZ06099 | House AZ-06 | DEM | JStreetPAC | $8,456.00 | $8,456.00 | $0.00 | 10 | [JoannaMendoza.md](JoannaMendoza.md) |
 | Chrissy Houlahan | H8PA06087 | House PA-06 | DEM | JStreetPAC | $7,718.00 | $7,718.00 | $0.00 | 27 | [ChrissyHoulahan.md](ChrissyHoulahan.md) |
+| Kevin Mullin | H2CA14162 | House CA-15 | DEM | JStreetPAC | $7,500.00 | $7,500.00 | $0.00 | 3 | [KevinMullin.md](KevinMullin.md) |
 | Andrea Salinas | H2OR06066 | House OR-06 | DEM | JStreetPAC | $7,178.00 | $7,178.00 | $0.00 | 44 | [AndreaSalinas.md](AndreaSalinas.md) |
 | Veronica Escobar | H8TX16109 | House TX-16 | DEM | JStreetPAC | $7,000.00 | $7,000.00 | $0.00 | 2 | [VeronicaEscobar.md](VeronicaEscobar.md) |
 | Christopher Deluzio | H2PA17103 | House PA-17 | DEM | JStreetPAC | $6,746.00 | $6,746.00 | $0.00 | 45 | [ChristopherDeluzio.md](ChristopherDeluzio.md) |
@@ -38,7 +39,6 @@
 | Mark Kelly | S0AZ00350 | Senate AZ | DEM | JStreetPAC | $2,808.00 | $2,808.00 | $0.00 | 11 | [MarkKelly.md](MarkKelly.md) |
 | Robert Garcia | H2CA47188 | House CA-42 | DEM | JStreetPAC | $2,750.00 | $2,750.00 | $0.00 | 4 | [RobertGarcia.md](RobertGarcia.md) |
 | Sean Casten | H8IL06139 | House IL-06 | DEM | JStreetPAC | $2,500.00 | $2,500.00 | $0.00 | 1 | [SeanCasten.md](SeanCasten.md) |
-| Kevin Mullin | H2CA14162 | House CA-15 | DEM | JStreetPAC | $2,500.00 | $2,500.00 | $0.00 | 1 | [KevinMullin.md](KevinMullin.md) |
 | Jonathan Jackson | H2IL01349 | House IL-01 | DEM | JStreetPAC | $2,500.00 | $2,500.00 | $0.00 | 1 | [JonathanJackson.md](JonathanJackson.md) |
 | Rebecca Bennett | H6NJ07201 | House NJ-07 | DEM | JStreetPAC | $2,300.00 | $2,300.00 | $0.00 | 5 | [RebeccaBennett.md](RebeccaBennett.md) |
 | Nikema Natassha Williams | H0GA05301 | House GA-05 | DEM | JStreetPAC | $2,100.00 | $2,100.00 | $0.00 | 2 | [NikemaNatasshaWilliams.md](NikemaNatasshaWilliams.md) |
@@ -52,7 +52,7 @@
 | John W Mannion | H4NY22085 | House NY-22 | DEM | JStreetPAC | $1,100.00 | $1,100.00 | $0.00 | 2 | [JohnWMannion.md](JohnWMannion.md) |
 | Jahana Hayes | H8CT05245 | House CT-05 | DEM | JStreetPAC | $1,000.00 | $1,000.00 | $0.00 | 1 | [JahanaHayes.md](JahanaHayes.md) |
 | Hillary Scholten | H0MI03316 | House MI-03 | DEM | JStreetPAC | $1,000.00 | $1,000.00 | $0.00 | 1 | [HillaryScholten.md](HillaryScholten.md) |
-| Allred For Texas | S6TX00438 |  |  | JStreetPAC | $1,000.00 | $1,000.00 | $0.00 | 1 | [AllredForTexas.md](AllredForTexas.md) |
+| Allred For Texas | S6TX00438 | - Party: | - Source committees: JStreetPAC | JStreetPAC | $1,000.00 | $1,000.00 | $0.00 | 1 | [AllredForTexas.md](AllredForTexas.md) |
 | Jason Crow | H8CO06229 | House CO-06 | DEM | JStreetPAC | $868.00 | $868.00 | $0.00 | 4 | [JasonCrow.md](JasonCrow.md) |
 | John Cavanaugh | H6NE02190 | House NE-02 | DEM | JStreetPAC | $800.00 | $800.00 | $0.00 | 3 | [JohnCavanaugh.md](JohnCavanaugh.md) |
 | Jamie Raskin | H6MD08457 | House MD-08 | DEM | JStreetPAC | $600.00 | $600.00 | $0.00 | 3 | [JamieRaskin.md](JamieRaskin.md) |
