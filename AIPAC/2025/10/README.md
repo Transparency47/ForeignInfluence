@@ -3,19 +3,21 @@
 - PAC: AIPAC
 - Month: 2025-10
 - Source committees: American Israel Public Affairs Committee Political Action Committee
-- Data source: FEC bulk PAS2 public records
-- Total net candidate-linked reported amount: $146,455.00
-- Total positive candidate-linked reported amount: $156,629.00
+- Data source: FEC public records
+- Total net candidate-linked reported amount: $165,580.00
+- Total positive candidate-linked reported amount: $175,754.00
 - Total negative candidate-linked reported amount: -$10,174.00
-- Politicians listed: 33
-- Transactions: 64
-- Date accessed: 2026-06-01T16:41:11.073775+00:00
+- Politicians listed: 35
+- Transactions: 80
+- Date accessed: 2026-06-01T18:19:22.414547+00:00
 
 ## Politicians
 
 | Politician | Candidate ID | Office | Party | Source committees | Net amount | Positive amount | Negative amount | Transactions | File |
 | --- | --- | --- | --- | --- | ---: | ---: | ---: | ---: | --- |
 | Hillary Scholten | H0MI03316 | House MI-03 | DEM | American Israel Public Affairs Committee Political Action Committee | $15,954.00 | $16,128.00 | -$174.00 | 30 | [HillaryScholten.md](HillaryScholten.md) |
+| Jared Golden | H8ME02185 | House ME-02 | DEM | American Israel Public Affairs Committee Political Action Committee | $10,250.00 | $10,250.00 | $0.00 | 10 | [JaredGolden.md](JaredGolden.md) |
+| Michael Bost | H4IL12060 | House IL-12 | REP | American Israel Public Affairs Committee Political Action Committee | $8,875.00 | $8,875.00 | $0.00 | 6 | [MichaelBost.md](MichaelBost.md) |
 | Wesley Bell | H4MO01134 | House MO-01 | DEM | American Israel Public Affairs Committee Political Action Committee | $5,000.00 | $5,000.00 | $0.00 | 1 | [WesleyBell.md](WesleyBell.md) |
 | Walter Michael Ezell | H2MS04258 | House MS-04 | REP | American Israel Public Affairs Committee Political Action Committee | $5,000.00 | $5,000.00 | $0.00 | 1 | [WalterMichaelEzell.md](WalterMichaelEzell.md) |
 | Tim Moore | H4NC14015 | House NC-14 | REP | American Israel Public Affairs Committee Political Action Committee | $5,000.00 | $5,000.00 | $0.00 | 1 | [TimMoore.md](TimMoore.md) |

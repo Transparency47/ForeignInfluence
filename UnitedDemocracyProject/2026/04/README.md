@@ -3,29 +3,19 @@
 - PAC: UnitedDemocracyProject
 - Month: 2026-04
 - Source committees: United Democracy Project
-- Data source: FEC bulk PAS2 public records
-- Total net candidate-linked reported amount: $2,705,729.00
-- Total positive candidate-linked reported amount: $2,705,729.00
+- Data source: FEC public records
+- Total net candidate-linked reported amount: $4,166,719.31
+- Total positive candidate-linked reported amount: $4,166,719.31
 - Total negative candidate-linked reported amount: $0.00
-- Politicians listed: 2
-- Transactions: 10
-- Date accessed: 2026-06-01T16:41:11.073775+00:00
-
-## Committee Summary From FEC WEBK
-
-### UNITED DEMOCRACY PROJECT ('UDP')
-
-- Coverage end date: 04/30/2026
-- Total receipts: $93,798,362.49
-- Total disbursements: $27,759,760.40
-- Contributions to candidates: $5,581,200.00
-- Independent expenditures: $8,715,797.02
-- Cash on hand: $94,841,497.19
-
+- Politicians listed: 4
+- Transactions: 14
+- Date accessed: 2026-06-01T18:19:22.414547+00:00
 
 ## Politicians
 
 | Politician | Candidate ID | Office | Party | Source committees | Net amount | Positive amount | Negative amount | Transactions | File |
 | --- | --- | --- | --- | --- | ---: | ---: | ---: | ---: | --- |
 | Melissa Conyears-Ervin | H4IL07177 | House IL-07 | DEM | United Democracy Project | $2,645,981.00 | $2,645,981.00 | $0.00 | 8 | [MelissaConyearsErvin.md](MelissaConyearsErvin.md) |
+| Thomas H Massie | H2KY04121 | House KY-04 | REP | United Democracy Project | $1,241,841.76 | $1,241,841.76 | $0.00 | 2 | [ThomasHMassie.md](ThomasHMassie.md) |
+| Ed Gallrein | H6KY04171 | House KY-04 | REP | United Democracy Project | $219,148.55 | $219,148.55 | $0.00 | 2 | [EdGallrein.md](EdGallrein.md) |
 | Jason Friedman | H6IL07339 | House IL-07 | DEM | United Democracy Project | $59,748.00 | $59,748.00 | $0.00 | 2 | [JasonFriedman.md](JasonFriedman.md) |

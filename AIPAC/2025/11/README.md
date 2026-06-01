@@ -3,18 +3,19 @@
 - PAC: AIPAC
 - Month: 2025-11
 - Source committees: American Israel Public Affairs Committee Political Action Committee
-- Data source: FEC bulk PAS2 public records
-- Total net candidate-linked reported amount: $40,560.00
-- Total positive candidate-linked reported amount: $99,000.00
+- Data source: FEC public records
+- Total net candidate-linked reported amount: $56,185.00
+- Total positive candidate-linked reported amount: $114,625.00
 - Total negative candidate-linked reported amount: -$58,440.00
 - Politicians listed: 297
-- Transactions: 554
-- Date accessed: 2026-06-01T16:41:11.073775+00:00
+- Transactions: 572
+- Date accessed: 2026-06-01T18:19:22.414547+00:00
 
 ## Politicians
 
 | Politician | Candidate ID | Office | Party | Source committees | Net amount | Positive amount | Negative amount | Transactions | File |
 | --- | --- | --- | --- | --- | ---: | ---: | ---: | ---: | --- |
+| Michael Bost | H4IL12060 | House IL-12 | REP | American Israel Public Affairs Committee Political Action Committee | $12,119.00 | $12,125.00 | -$6.00 | 17 | [MichaelBost.md](MichaelBost.md) |
 | Zach Nunn | H2IA03119 | House IA-03 | REP | American Israel Public Affairs Committee Political Action Committee | $4,994.00 | $5,000.00 | -$6.00 | 2 | [ZachNunn.md](ZachNunn.md) |
 | Virginia Ann Foxx | H4NC05146 | House NC-05 | REP | American Israel Public Affairs Committee Political Action Committee | $4,994.00 | $5,000.00 | -$6.00 | 2 | [VirginiaAnnFoxx.md](VirginiaAnnFoxx.md) |
 | Victoria Spartz | H0IN05326 | House IN-05 | REP | American Israel Public Affairs Committee Political Action Committee | $4,994.00 | $5,000.00 | -$6.00 | 3 | [VictoriaSpartz.md](VictoriaSpartz.md) |
@@ -34,17 +35,18 @@
 | Christopher H Smith | H8NJ04014 | House NJ-04 | REP | American Israel Public Affairs Committee Political Action Committee | $4,994.00 | $5,000.00 | -$6.00 | 2 | [ChristopherHSmith.md](ChristopherHSmith.md) |
 | Michael James Baumgartner | H4WA05234 | House WA-05 | REP | American Israel Public Affairs Committee Political Action Committee | $4,494.00 | $5,000.00 | -$506.00 | 4 | [MichaelJamesBaumgartner.md](MichaelJamesBaumgartner.md) |
 | Robert J Wittman | H8VA01147 | House VA-01 | REP | American Israel Public Affairs Committee Political Action Committee | $3,994.00 | $4,000.00 | -$6.00 | 3 | [RobertJWittman.md](RobertJWittman.md) |
+| Vicente Gonzalez | H6TX15162 | House TX-15 | DEM | American Israel Public Affairs Committee Political Action Committee | $2,494.00 | $2,500.00 | -$6.00 | 3 | [VicenteGonzalez.md](VicenteGonzalez.md) |
+| Jared Golden | H8ME02185 | House ME-02 | DEM | American Israel Public Affairs Committee Political Action Committee | $994.00 | $1,000.00 | -$6.00 | 3 | [JaredGolden.md](JaredGolden.md) |
 | Yvette D Clarke | H4NY11138 | House NY-09 | DEM | American Israel Public Affairs Committee Political Action Committee | -$6.00 | $0.00 | -$6.00 | 2 | [YvetteDClarke.md](YvetteDClarke.md) |
 | Young Kim | H8CA39240 | House CA-39 | REP | American Israel Public Affairs Committee Political Action Committee | -$6.00 | $0.00 | -$6.00 | 2 | [YoungKim.md](YoungKim.md) |
 | William Richard Keating | H0MA10082 | House MA-09 | DEM | American Israel Public Affairs Committee Political Action Committee | -$6.00 | $0.00 | -$6.00 | 2 | [WilliamRichardKeating.md](WilliamRichardKeating.md) |
 | William R. IV Timmons | H8SC04250 | House SC-04 | REP | American Israel Public Affairs Committee Political Action Committee | -$6.00 | $0.00 | -$6.00 | 2 | [WilliamRIVTimmons.md](WilliamRIVTimmons.md) |
 | William P The Hon Huizenga | H0MI02094 | House MI-02 | REP | American Israel Public Affairs Committee Political Action Committee | -$6.00 | $0.00 | -$6.00 | 2 | [WilliamPTheHonHuizenga.md](WilliamPTheHonHuizenga.md) |
 | Wesley Bell | H4MO01134 | House MO-01 | DEM | American Israel Public Affairs Committee Political Action Committee | -$6.00 | $0.00 | -$6.00 | 1 | [WesleyBell.md](WesleyBell.md) |
-| Waterfront Strategies Inc | H2MD04315 |  |  | American Israel Public Affairs Committee Political Action Committee | -$6.00 | $0.00 | -$6.00 | 1 | [WaterfrontStrategiesInc.md](WaterfrontStrategiesInc.md) |
+| Waterfront Strategies Inc | H2MD04315 | - Party: | - Source committees: United Democracy Project | American Israel Public Affairs Committee Political Action Committee | -$6.00 | $0.00 | -$6.00 | 1 | [WaterfrontStrategiesInc.md](WaterfrontStrategiesInc.md) |
 | Walter Michael Ezell | H2MS04258 | House MS-04 | REP | American Israel Public Affairs Committee Political Action Committee | -$6.00 | $0.00 | -$6.00 | 2 | [WalterMichaelEzell.md](WalterMichaelEzell.md) |
 | W. Greg Steube | H8FL17053 | House FL-17 | REP | American Israel Public Affairs Committee Political Action Committee | -$6.00 | $0.00 | -$6.00 | 2 | [WGregSteube.md](WGregSteube.md) |
 | Vince Fong | H4CA20181 | House CA-20 | REP | American Israel Public Affairs Committee Political Action Committee | -$6.00 | $0.00 | -$6.00 | 2 | [VinceFong.md](VinceFong.md) |
-| Vicente Gonzalez | H6TX15162 | House TX-15 | DEM | American Israel Public Affairs Committee Political Action Committee | -$6.00 | $0.00 | -$6.00 | 2 | [VicenteGonzalez.md](VicenteGonzalez.md) |
 | Vernon Buchanan | H6FL13148 | House FL-16 | REP | American Israel Public Affairs Committee Political Action Committee | -$6.00 | $0.00 | -$6.00 | 2 | [VernonBuchanan.md](VernonBuchanan.md) |
 | Troy Downing | H4MT02098 | House MT-02 | REP | American Israel Public Affairs Committee Political Action Committee | -$6.00 | $0.00 | -$6.00 | 2 | [TroyDowning_H4MT02098.md](TroyDowning_H4MT02098.md) |
 | Tracey Robert Mann | H0KS01123 | House KS-01 | REP | American Israel Public Affairs Committee Political Action Committee | -$6.00 | $0.00 | -$6.00 | 2 | [TraceyRobertMann.md](TraceyRobertMann.md) |
@@ -63,7 +65,7 @@
 | Suzan K Delbene | H0WA08046 | House WA-01 | DEM | American Israel Public Affairs Committee Political Action Committee | -$6.00 | $0.00 | -$6.00 | 2 | [SuzanKDelbene.md](SuzanKDelbene.md) |
 | Susie Lee | H6NV04020 | House NV-04 | DEM | American Israel Public Affairs Committee Political Action Committee | -$6.00 | $0.00 | -$6.00 | 1 | [SusieLee.md](SusieLee.md) |
 | Susan M Collins | S6ME00159 | Senate ME | REP | American Israel Public Affairs Committee Political Action Committee | -$6.00 | $0.00 | -$6.00 | 1 | [SusanMCollins.md](SusanMCollins.md) |
-| Stutzman For Congress | H4IN03174 |  |  | American Israel Public Affairs Committee Political Action Committee | -$6.00 | $0.00 | -$6.00 | 2 | [StutzmanForCongress.md](StutzmanForCongress.md) |
+| Stutzman For Congress | H4IN03174 | - Party: | - Source committees: American Israel Public Affairs Committee Political Action Committee | American Israel Public Affairs Committee Political Action Committee | -$6.00 | $0.00 | -$6.00 | 2 | [StutzmanForCongress.md](StutzmanForCongress.md) |
 | Steven Daines | S2MT00096 | Senate MT | REP | American Israel Public Affairs Committee Political Action Committee | -$6.00 | $0.00 | -$6.00 | 1 | [StevenDaines_S2MT00096.md](StevenDaines_S2MT00096.md) |
 | Steven Alexzander Horsford | H2NV04011 | House NV-04 | DEM | American Israel Public Affairs Committee Political Action Committee | -$6.00 | $0.00 | -$6.00 | 2 | [StevenAlexzanderHorsford.md](StevenAlexzanderHorsford.md) |
 | Steve Womack | H0AR03055 | House AR-03 | REP | American Israel Public Affairs Committee Political Action Committee | -$6.00 | $0.00 | -$6.00 | 2 | [SteveWomack.md](SteveWomack.md) |
@@ -75,7 +77,7 @@
 | Sheri Biggs | H4SC01313 | House SC-03 | REP | American Israel Public Affairs Committee Political Action Committee | -$6.00 | $0.00 | -$6.00 | 2 | [SheriBiggs.md](SheriBiggs.md) |
 | Shelley Moore Capito | S4WV00159 | Senate WV | REP | American Israel Public Affairs Committee Political Action Committee | -$6.00 | $0.00 | -$6.00 | 2 | [ShelleyMooreCapito.md](ShelleyMooreCapito.md) |
 | Seth Magaziner | H2RI02184 | House RI-02 | DEM | American Israel Public Affairs Committee Political Action Committee | -$6.00 | $0.00 | -$6.00 | 2 | [SethMagaziner.md](SethMagaziner.md) |
-| Self For Congress | H2TX03290 |  |  | American Israel Public Affairs Committee Political Action Committee | -$6.00 | $0.00 | -$6.00 | 2 | [SelfForCongress.md](SelfForCongress.md) |
+| Self For Congress | H2TX03290 | - Party: | - Source committees: American Israel Public Affairs Committee Political Action Committee | American Israel Public Affairs Committee Political Action Committee | -$6.00 | $0.00 | -$6.00 | 2 | [SelfForCongress.md](SelfForCongress.md) |
 | Scott Peters | H2CA52089 | House CA-52 | DEM | American Israel Public Affairs Committee Political Action Committee | -$6.00 | $0.00 | -$6.00 | 2 | [ScottPeters.md](ScottPeters.md) |
 | Scott Perry | H2PA04135 | House PA-04 | REP | American Israel Public Affairs Committee Political Action Committee | -$6.00 | $0.00 | -$6.00 | 2 | [ScottPerry.md](ScottPerry.md) |
 | Scott L Fitzgerald | H0WI05113 | House WI-05 | REP | American Israel Public Affairs Committee Political Action Committee | -$6.00 | $0.00 | -$6.00 | 2 | [ScottLFitzgerald.md](ScottLFitzgerald.md) |
@@ -105,7 +107,7 @@
 | Randy Fine | H6FL06258 | House FL-06 | REP | American Israel Public Affairs Committee Political Action Committee | -$6.00 | $0.00 | -$6.00 | 2 | [RandyFine.md](RandyFine.md) |
 | Pete Stauber | H8MN08043 | House MN-08 | REP | American Israel Public Affairs Committee Political Action Committee | -$6.00 | $0.00 | -$6.00 | 2 | [PeteStauber.md](PeteStauber.md) |
 | Pete Sessions | H2TX03126 | House TX-32 | REP | American Israel Public Affairs Committee Political Action Committee | -$6.00 | $0.00 | -$6.00 | 2 | [PeteSessions.md](PeteSessions.md) |
-| Pete Ricketts For Senate | S4NE00173 |  |  | American Israel Public Affairs Committee Political Action Committee | -$6.00 | $0.00 | -$6.00 | 1 | [PeteRickettsForSenate.md](PeteRickettsForSenate.md) |
+| Pete Ricketts For Senate | S4NE00173 | - Party: | - Source committees: American Israel Public Affairs Committee Political Action Committee | American Israel Public Affairs Committee Political Action Committee | -$6.00 | $0.00 | -$6.00 | 1 | [PeteRickettsForSenate.md](PeteRickettsForSenate.md) |
 | Pete Aguilar | H2CA31125 | House CA-31 | DEM | American Israel Public Affairs Committee Political Action Committee | -$6.00 | $0.00 | -$6.00 | 1 | [PeteAguilar.md](PeteAguilar.md) |
 | Patrick Fallon | H0TX04219 | House TX-04 | REP | American Israel Public Affairs Committee Political Action Committee | -$6.00 | $0.00 | -$6.00 | 2 | [PatrickFallon.md](PatrickFallon.md) |
 | Pat Harrigan | H2NC13243 | House NC-14 | UNK | American Israel Public Affairs Committee Political Action Committee | -$6.00 | $0.00 | -$6.00 | 2 | [PatHarrigan.md](PatHarrigan.md) |
@@ -129,8 +131,7 @@
 | Michael Rulli | H4OH06165 | House OH-06 | REP | American Israel Public Affairs Committee Political Action Committee | -$6.00 | $0.00 | -$6.00 | 2 | [MichaelRulli.md](MichaelRulli.md) |
 | Michael R Turner | H2OH03067 | House OH-10 | REP | American Israel Public Affairs Committee Political Action Committee | -$6.00 | $0.00 | -$6.00 | 2 | [MichaelRTurner.md](MichaelRTurner.md) |
 | Michael Patrick Guest | H8MS03125 | House MS-03 | REP | American Israel Public Affairs Committee Political Action Committee | -$6.00 | $0.00 | -$6.00 | 2 | [MichaelPatrickGuest.md](MichaelPatrickGuest.md) |
-| Michael Bost | H4IL12060 | House IL-12 | REP | American Israel Public Affairs Committee Political Action Committee | -$6.00 | $0.00 | -$6.00 | 2 | [MichaelBost.md](MichaelBost.md) |
-| Mcguire For Virginia | H4VA05071 |  |  | American Israel Public Affairs Committee Political Action Committee | -$6.00 | $0.00 | -$6.00 | 2 | [McguireForVirginia.md](McguireForVirginia.md) |
+| Mcguire For Virginia | H4VA05071 | - Party: | - Source committees: American Israel Public Affairs Committee Political Action Committee | American Israel Public Affairs Committee Political Action Committee | -$6.00 | $0.00 | -$6.00 | 2 | [McguireForVirginia.md](McguireForVirginia.md) |
 | Max Miller | H2OH16051 | House OH-07 | REP | American Israel Public Affairs Committee Political Action Committee | -$6.00 | $0.00 | -$6.00 | 2 | [MaxMiller.md](MaxMiller.md) |
 | Mary Miller | H0IL15129 | House IL-15 | REP | American Israel Public Affairs Committee Political Action Committee | -$6.00 | $0.00 | -$6.00 | 2 | [MaryMiller.md](MaryMiller.md) |
 | Markwayne Mullin | S2OK00186 | Senate OK | REP | American Israel Public Affairs Committee Political Action Committee | -$6.00 | $0.00 | -$6.00 | 2 | [MarkwayneMullin_S2OK00186.md](MarkwayneMullin_S2OK00186.md) |
@@ -191,11 +192,10 @@
 | Jeffrey Hurd | H4CO03357 | House CO-03 | REP | American Israel Public Affairs Committee Political Action Committee | -$6.00 | $0.00 | -$6.00 | 1 | [JeffreyHurd.md](JeffreyHurd.md) |
 | Jefferson Shreve | H4IN06185 | House IN-06 | REP | American Israel Public Affairs Committee Political Action Committee | -$6.00 | $0.00 | -$6.00 | 2 | [JeffersonShreve.md](JeffersonShreve.md) |
 | Jeff Van Drew | H8NJ02166 | House NJ-02 | DEM | American Israel Public Affairs Committee Political Action Committee | -$6.00 | $0.00 | -$6.00 | 1 | [JeffVanDrew.md](JeffVanDrew.md) |
-| Jeff Crank For Congress | H4CO05147 |  |  | American Israel Public Affairs Committee Political Action Committee | -$6.00 | $0.00 | -$6.00 | 2 | [JeffCrankForCongress.md](JeffCrankForCongress.md) |
+| Jeff Crank For Congress | H4CO05147 | - Party: | - Source committees: American Israel Public Affairs Committee Political Action Committee | American Israel Public Affairs Committee Political Action Committee | -$6.00 | $0.00 | -$6.00 | 2 | [JeffCrankForCongress.md](JeffCrankForCongress.md) |
 | Jay Obernolte | H0CA08135 | House CA-08 | REP | American Israel Public Affairs Committee Political Action Committee | -$6.00 | $0.00 | -$6.00 | 2 | [JayObernolte.md](JayObernolte.md) |
 | Jason T Smith | H4MO08162 | House MO-08 | UNK | American Israel Public Affairs Committee Political Action Committee | -$6.00 | $0.00 | -$6.00 | 2 | [JasonTSmith.md](JasonTSmith.md) |
 | Jared Moskowitz | H2FL22171 | House FL-23 | DEM | American Israel Public Affairs Committee Political Action Committee | -$6.00 | $0.00 | -$6.00 | 1 | [JaredMoskowitz.md](JaredMoskowitz.md) |
-| Jared Golden | H8ME02185 | House ME-02 | DEM | American Israel Public Affairs Committee Political Action Committee | -$6.00 | $0.00 | -$6.00 | 1 | [JaredGolden.md](JaredGolden.md) |
 | James Varni Panetta | H6CA20152 | House CA-20 | DEM | American Israel Public Affairs Committee Political Action Committee | -$6.00 | $0.00 | -$6.00 | 2 | [JamesVarniPanetta.md](JamesVarniPanetta.md) |
 | James R Phd Baird | H8IN04199 | House IN-04 | REP | American Israel Public Affairs Committee Political Action Committee | -$6.00 | $0.00 | -$6.00 | 2 | [JamesRPhdBaird.md](JamesRPhdBaird.md) |
 | James Michael Johnson | H6LA04138 | House LA-04 | REP | American Israel Public Affairs Committee Political Action Committee | -$6.00 | $0.00 | -$6.00 | 2 | [JamesMichaelJohnson.md](JamesMichaelJohnson.md) |
@@ -218,7 +218,7 @@
 | Grace Meng | H2NY06116 | House NY-06 | DEM | American Israel Public Affairs Committee Political Action Committee | -$6.00 | $0.00 | -$6.00 | 2 | [GraceMeng.md](GraceMeng.md) |
 | Glenn Thompson | H8PA05071 | House PA-05 | REP | American Israel Public Affairs Committee Political Action Committee | -$6.00 | $0.00 | -$6.00 | 2 | [GlennThompson.md](GlennThompson.md) |
 | Glenn S Grothman | H4WI06048 | House WI-06 | REP | American Israel Public Affairs Committee Political Action Committee | -$6.00 | $0.00 | -$6.00 | 2 | [GlennSGrothman.md](GlennSGrothman.md) |
-| Gillen For Ny | H4NY04158 |  |  | American Israel Public Affairs Committee Political Action Committee | -$6.00 | $0.00 | -$6.00 | 1 | [GillenForNy.md](GillenForNy.md) |
+| Gillen For Ny | H4NY04158 | - Party: | - Source committees: American Israel Public Affairs Committee Political Action Committee | American Israel Public Affairs Committee Political Action Committee | -$6.00 | $0.00 | -$6.00 | 1 | [GillenForNy.md](GillenForNy.md) |
 | George Latimer | H4NY16087 | House NY-16 | DEM | American Israel Public Affairs Committee Political Action Committee | -$6.00 | $0.00 | -$6.00 | 2 | [GeorgeLatimer.md](GeorgeLatimer.md) |
 | George J Kelly | H0PA03271 | House PA-03 | REP | American Israel Public Affairs Committee Political Action Committee | -$6.00 | $0.00 | -$6.00 | 2 | [GeorgeJKelly.md](GeorgeJKelly.md) |
 | Gary Palmer | H4AL06098 | House AL-06 | REP | American Israel Public Affairs Committee Political Action Committee | -$6.00 | $0.00 | -$6.00 | 2 | [GaryPalmer.md](GaryPalmer.md) |
@@ -264,7 +264,7 @@
 | Craig Goldman | H4TX12065 | House TX-12 | REP | American Israel Public Affairs Committee Political Action Committee | -$6.00 | $0.00 | -$6.00 | 1 | [CraigGoldman.md](CraigGoldman.md) |
 | Cory A Booker | S4NJ00185 | Senate NJ | DEM | American Israel Public Affairs Committee Political Action Committee | -$6.00 | $0.00 | -$6.00 | 1 | [CoryABooker.md](CoryABooker.md) |
 | Claudia Tenney | H4NY22051 | House NY-22 | REP | American Israel Public Affairs Committee Political Action Committee | -$6.00 | $0.00 | -$6.00 | 1 | [ClaudiaTenney.md](ClaudiaTenney.md) |
-| Cisneros For Congress | H4CA31170 |  |  | American Israel Public Affairs Committee Political Action Committee | -$6.00 | $0.00 | -$6.00 | 2 | [CisnerosForCongress.md](CisnerosForCongress.md) |
+| Cisneros For Congress | H4CA31170 | - Party: | - Source committees: American Israel Public Affairs Committee Political Action Committee | American Israel Public Affairs Committee Political Action Committee | -$6.00 | $0.00 | -$6.00 | 2 | [CisnerosForCongress.md](CisnerosForCongress.md) |
 | Cindy Hyde-Smith | S8MS00261 | Senate MS | REP | American Israel Public Affairs Committee Political Action Committee | -$6.00 | $0.00 | -$6.00 | 2 | [CindyHydeSmith.md](CindyHydeSmith.md) |
 | Christopher A Coons | S0DE00092 | Senate DE | DEM | American Israel Public Affairs Committee Political Action Committee | -$6.00 | $0.00 | -$6.00 | 2 | [ChristopherACoons.md](ChristopherACoons.md) |
 | Charles J Fleischmann | H0TN03254 | House TN-03 | REP | American Israel Public Affairs Committee Political Action Committee | -$6.00 | $0.00 | -$6.00 | 2 | [CharlesJFleischmann.md](CharlesJFleischmann.md) |

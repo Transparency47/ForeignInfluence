@@ -3,18 +3,21 @@
 - PAC: AIPAC
 - Month: 2025-07
 - Source committees: American Israel Public Affairs Committee Political Action Committee
-- Data source: FEC bulk PAS2 public records
-- Total net candidate-linked reported amount: $45,500.00
-- Total positive candidate-linked reported amount: $61,500.00
+- Data source: FEC public records
+- Total net candidate-linked reported amount: $72,500.00
+- Total positive candidate-linked reported amount: $88,500.00
 - Total negative candidate-linked reported amount: -$16,000.00
-- Politicians listed: 19
-- Transactions: 21
-- Date accessed: 2026-06-01T16:41:11.073775+00:00
+- Politicians listed: 22
+- Transactions: 29
+- Date accessed: 2026-06-01T18:19:22.414547+00:00
 
 ## Politicians
 
 | Politician | Candidate ID | Office | Party | Source committees | Net amount | Positive amount | Negative amount | Transactions | File |
 | --- | --- | --- | --- | --- | ---: | ---: | ---: | ---: | --- |
+| David E Price | H6NC04037 | House NC-04 | DEM | American Israel Public Affairs Committee Political Action Committee | $12,000.00 | $12,000.00 | $0.00 | 3 | [DavidEPrice.md](DavidEPrice.md) |
+| Jeff Crank For Congress | H4CO05147 | - Party: | - Source committees: American Israel Public Affairs Committee Political Action Committee | American Israel Public Affairs Committee Political Action Committee | $7,500.00 | $7,500.00 | $0.00 | 2 | [JeffCrankForCongress.md](JeffCrankForCongress.md) |
+| Jared Golden | H8ME02185 | House ME-02 | DEM | American Israel Public Affairs Committee Political Action Committee | $7,500.00 | $7,500.00 | $0.00 | 3 | [JaredGolden.md](JaredGolden.md) |
 | Young Kim | H8CA39240 | House CA-39 | REP | American Israel Public Affairs Committee Political Action Committee | $5,000.00 | $5,000.00 | $0.00 | 1 | [YoungKim.md](YoungKim.md) |
 | Suzan K Delbene | H0WA08046 | House WA-01 | DEM | American Israel Public Affairs Committee Political Action Committee | $5,000.00 | $5,000.00 | $0.00 | 1 | [SuzanKDelbene.md](SuzanKDelbene.md) |
 | Ron Estes | H8KS04112 | House KS-04 | REP | American Israel Public Affairs Committee Political Action Committee | $5,000.00 | $5,000.00 | $0.00 | 1 | [RonEstes.md](RonEstes.md) |

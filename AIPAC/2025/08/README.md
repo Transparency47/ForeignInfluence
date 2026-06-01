@@ -3,19 +3,20 @@
 - PAC: AIPAC
 - Month: 2025-08
 - Source committees: American Israel Public Affairs Committee Political Action Committee
-- Data source: FEC bulk PAS2 public records
-- Total net candidate-linked reported amount: $83,000.00
-- Total positive candidate-linked reported amount: $85,000.00
+- Data source: FEC public records
+- Total net candidate-linked reported amount: $91,800.00
+- Total positive candidate-linked reported amount: $93,800.00
 - Total negative candidate-linked reported amount: -$2,000.00
-- Politicians listed: 18
-- Transactions: 19
-- Date accessed: 2026-06-01T16:41:11.073775+00:00
+- Politicians listed: 19
+- Transactions: 24
+- Date accessed: 2026-06-01T18:19:22.414547+00:00
 
 ## Politicians
 
 | Politician | Candidate ID | Office | Party | Source committees | Net amount | Positive amount | Negative amount | Transactions | File |
 | --- | --- | --- | --- | --- | ---: | ---: | ---: | ---: | --- |
 | Brian Jack | H4GA03126 | House GA-03 | REP | American Israel Public Affairs Committee Political Action Committee | $10,000.00 | $10,000.00 | $0.00 | 2 | [BrianJack.md](BrianJack.md) |
+| Jared Golden | H8ME02185 | House ME-02 | DEM | American Israel Public Affairs Committee Political Action Committee | $8,800.00 | $8,800.00 | $0.00 | 5 | [JaredGolden.md](JaredGolden.md) |
 | Tom Cole | H2OK04055 | House OK-04 | REP | American Israel Public Affairs Committee Political Action Committee | $5,000.00 | $5,000.00 | $0.00 | 1 | [TomCole.md](TomCole.md) |
 | Steven Alexzander Horsford | H2NV04011 | House NV-04 | DEM | American Israel Public Affairs Committee Political Action Committee | $5,000.00 | $5,000.00 | $0.00 | 1 | [StevenAlexzanderHorsford.md](StevenAlexzanderHorsford.md) |
 | Shelley Moore Capito | S4WV00159 | Senate WV | REP | American Israel Public Affairs Committee Political Action Committee | $5,000.00 | $5,000.00 | $0.00 | 1 | [ShelleyMooreCapito.md](ShelleyMooreCapito.md) |

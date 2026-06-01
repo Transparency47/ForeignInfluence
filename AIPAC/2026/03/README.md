@@ -4,19 +4,22 @@
 - Month: 2026-03
 - Source committees: American Israel Public Affairs Committee Political Action Committee
 - Data source: FEC public records
-- Total net candidate-linked reported amount: $134,750.95
-- Total positive candidate-linked reported amount: $135,750.95
+- Total net candidate-linked reported amount: $219,521.95
+- Total positive candidate-linked reported amount: $220,521.95
 - Total negative candidate-linked reported amount: -$1,000.00
-- Politicians listed: 30
-- Transactions: 36
-- Date accessed: 2026-06-01T17:26:50.927388+00:00
+- Politicians listed: 36
+- Transactions: 94
+- Date accessed: 2026-06-01T18:19:22.414547+00:00
 
 ## Politicians
 
 | Politician | Candidate ID | Office | Party | Source committees | Net amount | Positive amount | Negative amount | Transactions | File |
 | --- | --- | --- | --- | --- | ---: | ---: | ---: | ---: | --- |
+| Jared Golden | H8ME02185 | House ME-02 | DEM | American Israel Public Affairs Committee Political Action Committee | $52,095.00 | $52,095.00 | $0.00 | 35 | [JaredGolden.md](JaredGolden.md) |
+| Pete Aguilar | H2CA31125 | House CA-31 | DEM | American Israel Public Affairs Committee Political Action Committee | $20,425.00 | $20,425.00 | $0.00 | 16 | [PeteAguilar.md](PeteAguilar.md) |
 | David Valadao | H2CA20094 | House CA-21 | REP | American Israel Public Affairs Committee Political Action Committee | $10,000.00 | $10,000.00 | $0.00 | 2 | [DavidValadao.md](DavidValadao.md) |
 | Henry Cuellar | H2TX23082 | House TX-28 | DEM | American Israel Public Affairs Committee Political Action Committee | $8,750.00 | $8,750.00 | $0.00 | 5 | [HenryCuellar.md](HenryCuellar.md) |
+| Jeff Crank For Congress | H4CO05147 | - Party: | - Source committees: American Israel Public Affairs Committee Political Action Committee | American Israel Public Affairs Committee Political Action Committee | $8,500.00 | $8,500.00 | $0.00 | 4 | [JeffCrankForCongress.md](JeffCrankForCongress.md) |
 | John B Larson | H8CT01046 | House CT-01 | DEM | American Israel Public Affairs Committee Political Action Committee | $8,000.00 | $8,000.00 | $0.00 | 2 | [JohnBLarson.md](JohnBLarson.md) |
 | Wesley Bell | H4MO01134 | House MO-01 | DEM | American Israel Public Affairs Committee Political Action Committee | $5,000.00 | $5,000.00 | $0.00 | 1 | [WesleyBell.md](WesleyBell.md) |
 | Troy Downing | H4MT02098 | House MT-02 | REP | American Israel Public Affairs Committee Political Action Committee | $5,000.00 | $5,000.00 | $0.00 | 1 | [TroyDowning_H4MT02098.md](TroyDowning_H4MT02098.md) |
@@ -39,9 +42,12 @@
 | Cisneros For Congress | H4CA31170 | - Party: | - Source committees: American Israel Public Affairs Committee Political Action Committee | American Israel Public Affairs Committee Political Action Committee | $5,000.00 | $5,000.00 | $0.00 | 1 | [CisnerosForCongress.md](CisnerosForCongress.md) |
 | Bruce Westerman | H4AR04048 | House AR-04 | REP | American Israel Public Affairs Committee Political Action Committee | $5,000.00 | $5,000.00 | $0.00 | 1 | [BruceWesterman.md](BruceWesterman.md) |
 | August Lee II Pfluger | H0TX11230 | House TX-11 | REP | American Israel Public Affairs Committee Political Action Committee | $5,000.00 | $5,000.00 | $0.00 | 1 | [AugustLeeIIPfluger.md](AugustLeeIIPfluger.md) |
+| Kevin Kiley | H2CA03157 | House CA-03 | REP | American Israel Public Affairs Committee Political Action Committee | $3,500.00 | $3,500.00 | $0.00 | 1 | [KevinKiley.md](KevinKiley.md) |
 | Mariannette Jane Miller-Meeks | H8IA02043 | House IA-02 | REP | American Israel Public Affairs Committee Political Action Committee | $1,000.00 | $1,000.00 | $0.00 | 1 | [MariannetteJaneMillerMeeks.md](MariannetteJaneMillerMeeks.md) |
 | Julie Fedorchak | H4ND00061 | House ND-00 | REP | American Israel Public Affairs Committee Political Action Committee | $1,000.00 | $1,000.00 | $0.00 | 1 | [JulieFedorchak.md](JulieFedorchak.md) |
 | Jennifer Kiggans | H2VA02064 | House VA-02 | REP | American Israel Public Affairs Committee Political Action Committee | $1,000.00 | $1,000.00 | $0.00 | 1 | [JenniferKiggans.md](JenniferKiggans.md) |
 | Derrick F Van Orden | H0WI03175 | House WI-03 | REP | American Israel Public Affairs Committee Political Action Committee | $1,000.00 | $1,000.00 | $0.00 | 1 | [DerrickFVanOrden.md](DerrickFVanOrden.md) |
+| Richard E Neal | H8MA02041 | House MA-01 | DEM | American Israel Public Affairs Committee Political Action Committee | $250.00 | $250.00 | $0.00 | 1 | [RichardENeal.md](RichardENeal.md) |
+| Brandon Gill | H4TX26149 | House TX-26 | REP | American Israel Public Affairs Committee Political Action Committee | $1.00 | $1.00 | $0.00 | 1 | [BrandonGill.md](BrandonGill.md) |
 | Scott Franklin | H0FL15104 | House FL-15 | REP | American Israel Public Affairs Committee Political Action Committee | $0.95 | $0.95 | $0.00 | 1 | [ScottFranklin.md](ScottFranklin.md) |
 | James Austin Scott | H0GA08099 | House GA-08 | REP | American Israel Public Affairs Committee Political Action Committee | -$1,000.00 | $0.00 | -$1,000.00 | 1 | [JamesAustinScott.md](JamesAustinScott.md) |
