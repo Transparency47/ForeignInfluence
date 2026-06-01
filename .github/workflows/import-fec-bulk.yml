@@ -1,0 +1,78 @@
+name: Import FEC Bulk
+
+on:
+  workflow_dispatch:
+    inputs:
+      cycles:
+        description: "Comma-separated FEC cycles to import."
+        required: false
+        default: "2016,2018,2020,2022,2024,2026"
+        type: string
+  schedule:
+    - cron: "17 8 * * 1"
+  push:
+    branches:
+      - main
+    paths:
+      - "Scripts/import_fec_bulk.py"
+      - "Scripts/generate_listing.py"
+      - ".github/workflows/import-fec-bulk.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: import-fec-bulk
+  cancel-in-progress: false
+
+jobs:
+  import:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Import FEC bulk data
+        env:
+          CYCLES: ${{ inputs.cycles || '2016,2018,2020,2022,2024,2026' }}
+        run: python Scripts/import_fec_bulk.py --cycles "${CYCLES}"
+
+      - name: Generate listing
+        run: python Scripts/generate_listing.py
+
+      - name: Verify generated output
+        run: |
+          set -euo pipefail
+          test -f listing.json
+          test -d AIPAC
+          if find AIPAC -name metadata.md -print -quit | grep -q .; then
+            echo "Monthly metadata.md files should be README.md for GitHub rendering." >&2
+            exit 1
+          fi
+          if grep -R -nE '/Users/|Local source|sourcePath|govinfoBulkSourcePath' README.md AIPAC Scripts listing.json; then
+            echo "Local path leak detected." >&2
+            exit 1
+          fi
+
+      - name: Commit generated changes
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          if [[ -z "$(git status --porcelain)" ]]; then
+            echo "No generated changes to commit."
+            exit 0
+          fi
+
+          git add AIPAC listing.json
+          git commit -m "Import FEC bulk data"
+          git push

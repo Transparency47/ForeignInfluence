@@ -4,15 +4,16 @@
 - Month: 2025-12
 - Candidate ID: H2CA03157
 - Office: House CA-03
-- Net reported amount: $0.18
-- Positive reported amount: $0.18
+- Party: REP
+- Net reported amount: $3.00
+- Positive reported amount: $3.00
 - Negative reported amount: $0.00
 - Transactions: 1
-- Data source: FEC Schedule A public records
-- Date accessed: 2026-06-01T04:46:51.214956+00:00
+- Data source: FEC bulk PAS2 public records
+- Date accessed: 2026-06-01T16:17:27.922434+00:00
 
 ## Transactions
 
-| Date | Amount | Type | Contributor / Committee | Election | FEC filing |
+| Date | Amount | Transaction type | Recipient committee / payee | Election | FEC filing |
 | --- | ---: | --- | --- | --- | --- |
-| 2025-12-17 | $0.18 | Offsets To Operating Expenditures  | KEVIN KILEY FOR CONGRESS |  | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202604149857195668) |
+| 2025-12-17 | $3.00 | 24K | KEVIN KILEY FOR CONGRESS | P2025 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202604149857195949) |

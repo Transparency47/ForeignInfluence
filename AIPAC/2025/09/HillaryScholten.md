@@ -4,23 +4,24 @@
 - Month: 2025-09
 - Candidate ID: H0MI03316
 - Office: House MI-03
-- Net reported amount: $221.80
-- Positive reported amount: $221.80
+- Party: DEM
+- Net reported amount: $4,436.00
+- Positive reported amount: $4,436.00
 - Negative reported amount: $0.00
 - Transactions: 9
-- Data source: FEC Schedule A public records
-- Date accessed: 2026-06-01T04:46:51.214956+00:00
+- Data source: FEC bulk PAS2 public records
+- Date accessed: 2026-06-01T16:17:27.922434+00:00
 
 ## Transactions
 
-| Date | Amount | Type | Contributor / Committee | Election | FEC filing |
+| Date | Amount | Transaction type | Recipient committee / payee | Election | FEC filing |
 | --- | ---: | --- | --- | --- | --- |
-| 2025-09-03 | $1.80 | Offsets To Operating Expenditures  | SCHOLTEN FOR CONGRESS |  | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202603309856885209) |
-| 2025-09-03 | $25.00 | Offsets To Operating Expenditures  | SCHOLTEN FOR CONGRESS |  | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202603309856885210) |
-| 2025-09-03 | $50.00 | Offsets To Operating Expenditures  | SCHOLTEN FOR CONGRESS |  | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202603309856885210) |
-| 2025-09-03 | $5.00 | Offsets To Operating Expenditures  | SCHOLTEN FOR CONGRESS |  | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202603309856885211) |
-| 2025-09-03 | $50.00 | Offsets To Operating Expenditures  | SCHOLTEN FOR CONGRESS |  | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202603309856885211) |
-| 2025-09-03 | $50.00 | Offsets To Operating Expenditures  | SCHOLTEN FOR CONGRESS |  | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202603309856885211) |
-| 2025-09-05 | $25.00 | Offsets To Operating Expenditures  | SCHOLTEN FOR CONGRESS |  | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202603309856885212) |
-| 2025-09-10 | $10.00 | Offsets To Operating Expenditures  | SCHOLTEN FOR CONGRESS |  | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202603309856885209) |
-| 2025-09-10 | $5.00 | Offsets To Operating Expenditures  | SCHOLTEN FOR CONGRESS |  | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202603309856885210) |
+| 2025-09-03 | $1,000.00 | 24K | SCHOLTEN FOR CONGRESS | P2025 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202603309856885656) |
+| 2025-09-03 | $1,000.00 | 24K | SCHOLTEN FOR CONGRESS | P2025 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202603309856886250) |
+| 2025-09-03 | $36.00 | 24K | SCHOLTEN FOR CONGRESS | P2025 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202603309856886250) |
+| 2025-09-03 | $1,000.00 | 24K | SCHOLTEN FOR CONGRESS | P2025 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202603309856886251) |
+| 2025-09-03 | $100.00 | 24K | SCHOLTEN FOR CONGRESS | P2025 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202603309856886251) |
+| 2025-09-03 | $500.00 | 24K | SCHOLTEN FOR CONGRESS | P2025 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202603309856886252) |
+| 2025-09-05 | $500.00 | 24K | SCHOLTEN FOR CONGRESS | P2025 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202603309856886250) |
+| 2025-09-10 | $200.00 | 24K | SCHOLTEN FOR CONGRESS | P2025 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202603309856886251) |
+| 2025-09-10 | $100.00 | 24K | SCHOLTEN FOR CONGRESS | P2025 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202603309856886252) |

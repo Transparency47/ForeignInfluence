@@ -3,33 +3,18 @@
 - PAC: AIPAC
 - Month: 2026-03
 - Candidate ID: H2CA20094
-- Office: House CA-22
-- Net reported amount: $19,425.10
-- Positive reported amount: $19,425.10
+- Office: House CA-21
+- Party: REP
+- Net reported amount: $10,000.00
+- Positive reported amount: $10,000.00
 - Negative reported amount: $0.00
-- Transactions: 18
-- Data source: FEC Schedule A public records
-- Date accessed: 2026-06-01T04:46:51.214956+00:00
+- Transactions: 2
+- Data source: FEC bulk PAS2 public records
+- Date accessed: 2026-06-01T16:17:27.922434+00:00
 
 ## Transactions
 
-| Date | Amount | Type | Contributor / Committee | Election | FEC filing |
+| Date | Amount | Transaction type | Recipient committee / payee | Election | FEC filing |
 | --- | ---: | --- | --- | --- | --- |
-| 2026-03-01 | $0.05 | Offsets To Operating Expenditures  | VALADAO FOR CONGRESS |  | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202604209866599005) |
-| 2026-03-01 | $0.05 | Offsets To Operating Expenditures  | VALADAO FOR CONGRESS |  | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202604209866599006) |
-| 2026-03-20 | $2,100.00 | EARMARKED INTERMEDIARY TREASURY OUT | MAIER, GADI | PRIMARY | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202604209866598174) |
-| 2026-03-20 | $3,500.00 | EARMARKED INTERMEDIARY TREASURY OUT | BRODIE, JACOB | PRIMARY | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202604209866598186) |
-| 2026-03-21 | $2,100.00 | EARMARKED INTERMEDIARY TREASURY OUT | SHRAGGE, HARMON | PRIMARY | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202604209866598202) |
-| 2026-03-22 | $105.00 | Offsets To Operating Expenditures  | VALADAO FOR CONGRESS |  | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202604209866599004) |
-| 2026-03-22 | $105.00 | Offsets To Operating Expenditures  | VALADAO FOR CONGRESS |  | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202604209866599004) |
-| 2026-03-22 | $175.00 | Offsets To Operating Expenditures  | VALADAO FOR CONGRESS |  | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202604209866599005) |
-| 2026-03-26 | $2,400.00 | EARMARKED INTERMEDIARY TREASURY OUT | KLEIN, DANIEL | PRIMARY | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202604209866598322) |
-| 2026-03-26 | $2,100.00 | EARMARKED INTERMEDIARY TREASURY OUT | HOROWITZ, LANA | PRIMARY | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202604209866598336) |
-| 2026-03-27 | $2,100.00 | EARMARKED INTERMEDIARY TREASURY OUT | FRIEND, BENJAMIN A | PRIMARY | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202604209866598349) |
-| 2026-03-27 | $2,100.00 | EARMARKED INTERMEDIARY TREASURY OUT | KHAVKIN, MARK | PRIMARY | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202604209866598357) |
-| 2026-03-27 | $2,100.00 | EARMARKED INTERMEDIARY TREASURY OUT | GLANTS, BORIS | PRIMARY | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202604209866598357) |
-| 2026-03-29 | $105.00 | Offsets To Operating Expenditures  | VALADAO FOR CONGRESS |  | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202604209866599005) |
-| 2026-03-29 | $105.00 | Offsets To Operating Expenditures  | VALADAO FOR CONGRESS |  | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202604209866599006) |
-| 2026-03-29 | $120.00 | Offsets To Operating Expenditures  | VALADAO FOR CONGRESS |  | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202604209866599006) |
-| 2026-03-29 | $105.00 | Offsets To Operating Expenditures  | VALADAO FOR CONGRESS |  | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202604209866599007) |
-| 2026-03-29 | $105.00 | Offsets To Operating Expenditures  | VALADAO FOR CONGRESS |  | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202604209866599007) |
+| 2026-03-13 | $5,000.00 | 24K | VALADAO FOR CONGRESS | P2026 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202604209866600191) |
+| 2026-03-30 | $5,000.00 | 24K | VALADAO FOR CONGRESS | G2026 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202604209866599714) |

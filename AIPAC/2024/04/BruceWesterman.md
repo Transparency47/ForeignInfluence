@@ -1,0 +1,22 @@
+# Bruce Westerman
+
+- PAC: AIPAC
+- Month: 2024-04
+- Candidate ID: H4AR04048
+- Office: House AR-04
+- Party: REP
+- Net reported amount: $12.00
+- Positive reported amount: $12.00
+- Negative reported amount: $0.00
+- Transactions: 4
+- Data source: FEC bulk PAS2 public records
+- Date accessed: 2026-06-01T16:17:27.922434+00:00
+
+## Transactions
+
+| Date | Amount | Transaction type | Recipient committee / payee | Election | FEC filing |
+| --- | ---: | --- | --- | --- | --- |
+| 2024-04-07 | $1.00 | 24K | WESTERMAN FOR CONGRESS | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576418) |
+| 2024-04-14 | $1.00 | 24K | WESTERMAN FOR CONGRESS | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576373) |
+| 2024-04-14 | $1.00 | 24K | WESTERMAN FOR CONGRESS | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648577050) |
+| 2024-04-21 | $9.00 | 24K | WESTERMAN FOR CONGRESS | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576977) |

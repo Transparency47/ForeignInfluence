@@ -3,29 +3,17 @@
 - PAC: AIPAC
 - Month: 2025-11
 - Candidate ID: H8PA15195
-- Office: House PA-07
-- Net reported amount: $751.52
-- Positive reported amount: $751.86
-- Negative reported amount: -$0.34
-- Transactions: 14
-- Data source: FEC Schedule A public records
-- Date accessed: 2026-06-01T04:46:51.214956+00:00
+- Office: House PA-15
+- Party: REP
+- Net reported amount: -$6.00
+- Positive reported amount: $0.00
+- Negative reported amount: -$6.00
+- Transactions: 1
+- Data source: FEC bulk PAS2 public records
+- Date accessed: 2026-06-01T16:17:27.922434+00:00
 
 ## Transactions
 
-| Date | Amount | Type | Contributor / Committee | Election | FEC filing |
+| Date | Amount | Transaction type | Recipient committee / payee | Election | FEC filing |
 | --- | ---: | --- | --- | --- | --- |
-| 2025-11-02 | $0.34 | Offsets To Operating Expenditures  | MACKENZIE FOR CONGRESS COMMITTEE |  | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202512199793683546) |
-| 2025-11-02 | $83.35 | Offsets To Operating Expenditures  | MACKENZIE FOR CONGRESS COMMITTEE |  | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202512199793683637) |
-| 2025-11-02 | -$0.34 | Offsets To Operating Expenditures  | MACKENZIE FOR CONGRESS COMMITTEE |  | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202512199793683660) |
-| 2025-11-02 | $83.35 | Offsets To Operating Expenditures  | MACKENZIE FOR CONGRESS COMMITTEE |  | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202512199793683861) |
-| 2025-11-02 | $83.35 | Offsets To Operating Expenditures  | MACKENZIE FOR CONGRESS COMMITTEE |  | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202512199793684096) |
-| 2025-11-02 | $83.35 | Offsets To Operating Expenditures  | MACKENZIE FOR CONGRESS COMMITTEE |  | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202512199793684260) |
-| 2025-11-02 | $83.35 | Offsets To Operating Expenditures  | MACKENZIE FOR CONGRESS COMMITTEE |  | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202512199793684344) |
-| 2025-11-12 | $83.35 | Offsets To Operating Expenditures  | MACKENZIE FOR CONGRESS COMMITTEE |  | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202512199793684316) |
-| 2025-11-12 | $83.35 | Offsets To Operating Expenditures  | MACKENZIE FOR CONGRESS COMMITTEE |  | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202512199793684352) |
-| 2025-11-19 | $83.35 | Offsets To Operating Expenditures  | MACKENZIE FOR CONGRESS COMMITTEE |  | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202512199793684131) |
-| 2025-11-19 | $83.35 | Offsets To Operating Expenditures  | MACKENZIE FOR CONGRESS COMMITTEE |  | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202512199793684219) |
-| 2025-11-19 | $1.27 | Offsets To Operating Expenditures  | MACKENZIE FOR CONGRESS COMMITTEE |  | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202512199793684331) |
-| 2025-11-26 | $0.05 | Offsets To Operating Expenditures  | MACKENZIE FOR CONGRESS COMMITTEE |  | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202512199793684044) |
-| 2025-11-26 | $0.05 | Offsets To Operating Expenditures  | MACKENZIE FOR CONGRESS COMMITTEE |  | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202512199793684285) |
+| 2025-11-02 | -$6.00 | 24K | MACKENZIE FOR CONGRESS COMMITTEE | P2025 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202512199793685207) |

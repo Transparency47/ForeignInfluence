@@ -4,17 +4,16 @@
 - Month: 2025-10
 - Candidate ID: H4AZ08108
 - Office: House AZ-08
-- Net reported amount: $4,000.00
-- Positive reported amount: $4,000.00
+- Party: REP
+- Net reported amount: $5,000.00
+- Positive reported amount: $5,000.00
 - Negative reported amount: $0.00
-- Transactions: 3
-- Data source: FEC Schedule A public records
-- Date accessed: 2026-06-01T04:46:51.214956+00:00
+- Transactions: 1
+- Data source: FEC bulk PAS2 public records
+- Date accessed: 2026-06-01T16:17:27.922434+00:00
 
 ## Transactions
 
-| Date | Amount | Type | Contributor / Committee | Election | FEC filing |
+| Date | Amount | Transaction type | Recipient committee / payee | Election | FEC filing |
 | --- | ---: | --- | --- | --- | --- |
-| 2025-10-28 | $1,500.00 | EARMARKED INTERMEDIARY TREASURY OUT | WILLNER, AYAL | PRIMARY | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202603309856887065) |
-| 2025-10-28 | $1,500.00 | EARMARKED INTERMEDIARY TREASURY OUT | FEDER, JOSHUA | PRIMARY | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202603309856887065) |
-| 2025-10-31 | $1,000.00 | EARMARKED INTERMEDIARY TREASURY OUT | LOEB, YISROEL | PRIMARY | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202603309856887146) |
+| 2025-10-30 | $5,000.00 | 24K | ABE FOR ARIZONA | P2026 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202603309856888494) |

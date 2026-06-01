@@ -3,19 +3,18 @@
 - PAC: AIPAC
 - Month: 2025-11
 - Candidate ID: H2FL25018
-- Office: House FL-26
-- Net reported amount: $0.93
-- Positive reported amount: $1.61
-- Negative reported amount: -$0.68
-- Transactions: 4
-- Data source: FEC Schedule A public records
-- Date accessed: 2026-06-01T04:46:51.214956+00:00
+- Office: House FL-25
+- Party: REP
+- Net reported amount: -$6.00
+- Positive reported amount: $0.00
+- Negative reported amount: -$6.00
+- Transactions: 2
+- Data source: FEC bulk PAS2 public records
+- Date accessed: 2026-06-01T16:17:27.922434+00:00
 
 ## Transactions
 
-| Date | Amount | Type | Contributor / Committee | Election | FEC filing |
+| Date | Amount | Transaction type | Recipient committee / payee | Election | FEC filing |
 | --- | ---: | --- | --- | --- | --- |
-| 2025-11-03 | -$0.34 | Offsets To Operating Expenditures  | MARIO DIAZ-BALART FOR CONGRESS |  | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202512199793683575) |
-| 2025-11-03 | -$0.34 | Offsets To Operating Expenditures  | MARIO DIAZ-BALART FOR CONGRESS |  | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202512199793683797) |
-| 2025-11-03 | $0.34 | Offsets To Operating Expenditures  | MARIO DIAZ-BALART FOR CONGRESS |  | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202512199793683960) |
-| 2025-11-19 | $1.27 | Offsets To Operating Expenditures  | MARIO DIAZ-BALART FOR CONGRESS |  | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202512199793683733) |
+| 2025-11-03 | -$6.00 | 24K | MARIO DIAZ-BALART FOR CONGRESS | P2025 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202512199793684824) |
+| 2025-11-11 | $0.00 | 24K | MARIO DIAZ-BALART FOR CONGRESS | P2025 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202512199793685083) |

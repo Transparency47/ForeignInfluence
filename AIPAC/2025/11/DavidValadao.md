@@ -3,23 +3,18 @@
 - PAC: AIPAC
 - Month: 2025-11
 - Candidate ID: H2CA20094
-- Office: House CA-22
-- Net reported amount: $526.03
-- Positive reported amount: $526.71
-- Negative reported amount: -$0.68
-- Transactions: 8
-- Data source: FEC Schedule A public records
-- Date accessed: 2026-06-01T04:46:51.214956+00:00
+- Office: House CA-21
+- Party: REP
+- Net reported amount: -$6.00
+- Positive reported amount: $0.00
+- Negative reported amount: -$6.00
+- Transactions: 2
+- Data source: FEC bulk PAS2 public records
+- Date accessed: 2026-06-01T16:17:27.922434+00:00
 
 ## Transactions
 
-| Date | Amount | Type | Contributor / Committee | Election | FEC filing |
+| Date | Amount | Transaction type | Recipient committee / payee | Election | FEC filing |
 | --- | ---: | --- | --- | --- | --- |
-| 2025-11-02 | $0.34 | Offsets To Operating Expenditures  | VALADAO FOR CONGRESS |  | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202512199793683895) |
-| 2025-11-02 | -$0.34 | Offsets To Operating Expenditures  | VALADAO FOR CONGRESS |  | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202512199793684243) |
-| 2025-11-02 | -$0.34 | Offsets To Operating Expenditures  | VALADAO FOR CONGRESS |  | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202512199793684351) |
-| 2025-11-09 | $175.00 | Offsets To Operating Expenditures  | VALADAO FOR CONGRESS |  | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202512199793683892) |
-| 2025-11-16 | $1.27 | Offsets To Operating Expenditures  | VALADAO FOR CONGRESS |  | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202512199793683639) |
-| 2025-11-23 | $0.05 | Offsets To Operating Expenditures  | VALADAO FOR CONGRESS |  | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202512199793683714) |
-| 2025-11-23 | $0.05 | Offsets To Operating Expenditures  | VALADAO FOR CONGRESS |  | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202512199793683977) |
-| 2025-11-30 | $350.00 | Offsets To Operating Expenditures  | VALADAO FOR CONGRESS |  | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202512199793683621) |
+| 2025-11-02 | -$6.00 | 24K | VALADAO FOR CONGRESS | P2025 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202512199793684770) |
+| 2025-11-11 | $0.00 | 24K | VALADAO FOR CONGRESS | P2025 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202512199793684768) |

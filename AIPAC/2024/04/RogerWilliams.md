@@ -1,0 +1,23 @@
+# Roger Williams
+
+- PAC: AIPAC
+- Month: 2024-04
+- Candidate ID: H2TX33040
+- Office: House TX-25
+- Party: REP
+- Net reported amount: $512.00
+- Positive reported amount: $512.00
+- Negative reported amount: $0.00
+- Transactions: 5
+- Data source: FEC bulk PAS2 public records
+- Date accessed: 2026-06-01T16:17:27.922434+00:00
+
+## Transactions
+
+| Date | Amount | Transaction type | Recipient committee / payee | Election | FEC filing |
+| --- | ---: | --- | --- | --- | --- |
+| 2024-04-07 | $1.00 | 24K | ROGER WILLIAMS FOR U S CONGRESS COMMITTEE | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576365) |
+| 2024-04-14 | $1.00 | 24K | ROGER WILLIAMS FOR U S CONGRESS COMMITTEE | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576357) |
+| 2024-04-14 | $1.00 | 24K | ROGER WILLIAMS FOR U S CONGRESS COMMITTEE | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576613) |
+| 2024-04-21 | $500.00 | 24K | ROGER WILLIAMS FOR U S CONGRESS COMMITTEE | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576199) |
+| 2024-04-21 | $9.00 | 24K | ROGER WILLIAMS FOR U S CONGRESS COMMITTEE | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576402) |

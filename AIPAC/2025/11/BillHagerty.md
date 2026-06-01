@@ -4,19 +4,17 @@
 - Month: 2025-11
 - Candidate ID: S0TN00169
 - Office: Senate TN
-- Net reported amount: $0.98
-- Positive reported amount: $1.66
-- Negative reported amount: -$0.68
-- Transactions: 5
-- Data source: FEC Schedule A public records
-- Date accessed: 2026-06-01T04:46:51.214956+00:00
+- Party: REP
+- Net reported amount: -$6.00
+- Positive reported amount: $0.00
+- Negative reported amount: -$6.00
+- Transactions: 2
+- Data source: FEC bulk PAS2 public records
+- Date accessed: 2026-06-01T16:17:27.922434+00:00
 
 ## Transactions
 
-| Date | Amount | Type | Contributor / Committee | Election | FEC filing |
+| Date | Amount | Transaction type | Recipient committee / payee | Election | FEC filing |
 | --- | ---: | --- | --- | --- | --- |
-| 2025-11-03 | -$0.34 | Offsets To Operating Expenditures  | TEAM HAGERTY |  | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202512199793683510) |
-| 2025-11-03 | -$0.34 | Offsets To Operating Expenditures  | TEAM HAGERTY |  | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202512199793683733) |
-| 2025-11-03 | $0.34 | Offsets To Operating Expenditures  | TEAM HAGERTY |  | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202512199793683858) |
-| 2025-11-19 | $1.27 | Offsets To Operating Expenditures  | TEAM HAGERTY |  | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202512199793684150) |
-| 2025-11-26 | $0.05 | Offsets To Operating Expenditures  | TEAM HAGERTY |  | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202512199793684299) |
+| 2025-11-03 | -$6.00 | 24K | TEAM HAGERTY | P2025 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202512199793685285) |
+| 2025-11-11 | $0.00 | 24K | TEAM HAGERTY | P2025 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202512199793685286) |

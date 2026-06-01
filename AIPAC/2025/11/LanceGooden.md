@@ -4,22 +4,19 @@
 - Month: 2025-11
 - Candidate ID: H8TX05144
 - Office: House TX-05
-- Net reported amount: -$9.89
-- Positive reported amount: $12.53
-- Negative reported amount: -$22.42
-- Transactions: 8
-- Data source: FEC Schedule A public records
-- Date accessed: 2026-06-01T04:46:51.214956+00:00
+- Party: REP
+- Net reported amount: -$233.00
+- Positive reported amount: $0.00
+- Negative reported amount: -$233.00
+- Transactions: 4
+- Data source: FEC bulk PAS2 public records
+- Date accessed: 2026-06-01T16:17:27.922434+00:00
 
 ## Transactions
 
-| Date | Amount | Type | Contributor / Committee | Election | FEC filing |
+| Date | Amount | Transaction type | Recipient committee / payee | Election | FEC filing |
 | --- | ---: | --- | --- | --- | --- |
-| 2025-11-02 | -$10.87 | Offsets To Operating Expenditures  | LANCE GOODEN FOR CONGRESS COMMITTEE |  | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202512199793683586) |
-| 2025-11-02 | -$0.34 | Offsets To Operating Expenditures  | LANCE GOODEN FOR CONGRESS COMMITTEE |  | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202512199793683666) |
-| 2025-11-02 | $10.87 | Offsets To Operating Expenditures  | LANCE GOODEN FOR CONGRESS COMMITTEE |  | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202512199793683773) |
-| 2025-11-02 | $0.34 | Offsets To Operating Expenditures  | LANCE GOODEN FOR CONGRESS COMMITTEE |  | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202512199793683858) |
-| 2025-11-02 | -$10.87 | Offsets To Operating Expenditures  | LANCE GOODEN FOR CONGRESS COMMITTEE |  | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202512199793684113) |
-| 2025-11-02 | -$0.34 | Offsets To Operating Expenditures  | LANCE GOODEN FOR CONGRESS COMMITTEE |  | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202512199793684171) |
-| 2025-11-16 | $1.27 | Offsets To Operating Expenditures  | LANCE GOODEN FOR CONGRESS COMMITTEE |  | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202512199793684128) |
-| 2025-11-23 | $0.05 | Offsets To Operating Expenditures  | LANCE GOODEN FOR CONGRESS COMMITTEE |  | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202512199793683576) |
+| 2025-11-02 | -$6.00 | 24K | LANCE GOODEN FOR CONGRESS COMMITTEE | P2025 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202512199793684420) |
+| 2025-11-02 | -$217.00 | 24K | LANCE GOODEN FOR CONGRESS COMMITTEE | P2025 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202512199793685261) |
+| 2025-11-11 | -$10.00 | 24K | LANCE GOODEN FOR CONGRESS COMMITTEE | P2025 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202512199793685261) |
+| 2025-11-11 | $0.00 | 24K | LANCE GOODEN FOR CONGRESS COMMITTEE | P2025 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202512199793685263) |

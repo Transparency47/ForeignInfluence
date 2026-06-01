@@ -16,7 +16,7 @@ AIPAC/
 
 ## Data Source
 
-The source data is FEC Schedule A itemized receipt data exported from FEC.gov. These are public records. This repository does not create or alter the underlying campaign finance reports; it restructures the public records into markdown for easier auditing, indexing, and long-term public access.
+The source data is FEC bulk data exported from FEC.gov, primarily `pas2` committee-to-candidate transaction files and `webk` committee summary files. Candidate names and office metadata are resolved from the FEC candidate master files. These are public records. This repository does not create or alter the underlying campaign finance reports; it restructures the public records into markdown for easier auditing, indexing, and long-term public access.
 
 ## Public Records And Takedown Notice
 
@@ -34,11 +34,13 @@ The monthly `README.md` files include:
 - Total transaction count
 - A politician-by-politician dollar rollup
 
-Individual politician files include the transaction-level detail available in the FEC export, including transaction date, amount, transaction type, election fields, and FEC filing image links where present.
+Individual politician files include the transaction-level detail available in the FEC bulk export, including transaction date, amount, transaction type, election fields, and FEC filing image links where present.
 
 ## Automated Import
 
-The GitHub workflow at `.github/workflows/import-fec-schedule-a.yml` regenerates the mirror from FEC Schedule A CSV data. It can be run manually with a `csv_url`, on a schedule with the `FEC_SCHEDULE_A_CSV_URL` repository secret, or from the newest committed CSV under `Data/`. The workflow writes the `AIPAC/` markdown tree, regenerates `listing.json`, verifies that monthly rollups are named `README.md`, checks for local path leaks, and commits generated changes back to `main`.
+The GitHub workflow at `.github/workflows/import-fec-bulk.yml` regenerates the mirror from FEC bulk data. It runs on a schedule and can also be run manually with a comma-separated cycle list. By default it imports 2016, 2018, 2020, 2022, 2024, and 2026.
+
+The workflow downloads FEC `webk`, `pas2`, and candidate master files, writes the `AIPAC/` markdown tree, regenerates `listing.json`, verifies that monthly rollups are named `README.md`, checks for local path leaks, and commits generated changes back to `main`.
 
 ## Notes
 
