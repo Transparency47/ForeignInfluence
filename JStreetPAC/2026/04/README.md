@@ -9,7 +9,7 @@
 - Total negative candidate-linked reported amount: $0.00
 - Politicians listed: 22
 - Transactions: 81
-- Date accessed: 2026-06-01T18:19:22.414547+00:00
+- Date accessed: 2026-06-01T19:40:07.840180+00:00
 
 ## Politicians
 
@@ -27,7 +27,7 @@
 | Scott Wiener | H8CA11116 | House CA-11 | DEM | JStreetPAC | $1,500.00 | $1,500.00 | $0.00 | 1 | [ScottWiener.md](ScottWiener.md) |
 | Suzanne Bonamici | H2OR01133 | House OR-01 | DEM | JStreetPAC | $625.00 | $625.00 | $0.00 | 3 | [SuzanneBonamici.md](SuzanneBonamici.md) |
 | Rebecca Bennett | H6NJ07201 | House NJ-07 | DEM | JStreetPAC | $500.00 | $500.00 | $0.00 | 1 | [RebeccaBennett.md](RebeccaBennett.md) |
-| Candidate H0CA53115 | H0CA53115 |  |  | JStreetPAC | $500.00 | $500.00 | $0.00 | 1 | [H0CA53115.md](H0CA53115.md) |
+| Candidate H0CA53115 | H0CA53115 | - Party: | - Source committees: JStreetPAC | JStreetPAC | $500.00 | $500.00 | $0.00 | 1 | [H0CA53115.md](H0CA53115.md) |
 | Mike Levin | H8CA49058 | House CA-49 | DEM | JStreetPAC | $361.25 | $361.25 | $0.00 | 3 | [MikeLevin.md](MikeLevin.md) |
 | Mike Thompson | H8CA01109 | House CA-05 | DEM | JStreetPAC | $130.00 | $130.00 | $0.00 | 1 | [MikeThompson.md](MikeThompson.md) |
 | Dave Min | H4CA47085 | House CA-47 | DEM | JStreetPAC | $120.00 | $120.00 | $0.00 | 3 | [DaveMin.md](DaveMin.md) |

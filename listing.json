@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-01T18:31:13.970463+00:00",
+  "generatedAt": "2026-06-01T19:40:36.961316+00:00",
   "records": [
     {
       "category": "JStreetPAC",
@@ -46,7 +46,7 @@
       "kind": "disclosure",
       "metadata": {
         "candidateId": "H8SC04250",
-        "dateAccessed": "2026-06-01T18:19:22.414547+00:00",
+        "dateAccessed": "2026-06-01T19:40:07.840180+00:00",
         "month": "2026-05",
         "netAmount": null,
         "office": "House SC-04",
@@ -464,7 +464,7 @@
       "kind": "disclosure",
       "metadata": {
         "candidateId": "H4ND00061",
-        "dateAccessed": "2026-06-01T18:19:22.414547+00:00",
+        "dateAccessed": "2026-06-01T19:40:07.840180+00:00",
         "month": "2026-05",
         "netAmount": null,
         "office": "House ND-00",
@@ -540,7 +540,7 @@
       "kind": "disclosure",
       "metadata": {
         "candidateId": "H2OK02315",
-        "dateAccessed": "2026-06-01T18:19:22.414547+00:00",
+        "dateAccessed": "2026-06-01T19:40:07.840180+00:00",
         "month": "2026-05",
         "netAmount": null,
         "office": "House OK-02",
@@ -559,7 +559,7 @@
       "kind": "disclosure",
       "metadata": {
         "candidateId": "H6ME02213",
-        "dateAccessed": "2026-06-01T18:19:22.414547+00:00",
+        "dateAccessed": "2026-06-01T19:40:07.840180+00:00",
         "month": "2026-05",
         "netAmount": null,
         "office": "House ME-02",
@@ -597,7 +597,7 @@
       "kind": "disclosure",
       "metadata": {
         "candidateId": "H2SC02059",
-        "dateAccessed": "2026-06-01T18:19:22.414547+00:00",
+        "dateAccessed": "2026-06-01T19:40:07.840180+00:00",
         "month": "2026-05",
         "netAmount": null,
         "office": "House SC-02",
@@ -616,7 +616,7 @@
       "kind": "disclosure",
       "metadata": {
         "candidateId": "H8CA34266",
-        "dateAccessed": "2026-06-01T18:19:22.414547+00:00",
+        "dateAccessed": "2026-06-01T19:40:07.840180+00:00",
         "month": "2026-05",
         "netAmount": null,
         "office": "House CA-34",
@@ -635,7 +635,7 @@
       "kind": "disclosure",
       "metadata": {
         "candidateId": "H0CA08135",
-        "dateAccessed": "2026-06-01T18:19:22.414547+00:00",
+        "dateAccessed": "2026-06-01T19:40:07.840180+00:00",
         "month": "2026-05",
         "netAmount": null,
         "office": "House CA-08",
@@ -654,7 +654,7 @@
       "kind": "disclosure_month",
       "metadata": {
         "candidateId": null,
-        "dateAccessed": "2026-06-01T18:19:22.414547+00:00",
+        "dateAccessed": "2026-06-01T19:40:07.840180+00:00",
         "month": "2026-05",
         "netAmount": null,
         "office": null,
@@ -768,7 +768,7 @@
       "kind": "disclosure",
       "metadata": {
         "candidateId": "H4NJ01084",
-        "dateAccessed": "2026-06-01T18:19:22.414547+00:00",
+        "dateAccessed": "2026-06-01T19:40:07.840180+00:00",
         "month": "2026-05",
         "netAmount": null,
         "office": "House NJ-01",
@@ -958,7 +958,7 @@
       "kind": "disclosure_month",
       "metadata": {
         "candidateId": null,
-        "dateAccessed": "2026-06-01T18:19:22.414547+00:00",
+        "dateAccessed": "2026-06-01T19:40:07.840180+00:00",
         "month": "2026-05",
         "netAmount": null,
         "office": null,
@@ -3941,7 +3941,7 @@
       "kind": "disclosure",
       "metadata": {
         "candidateId": "H4ND00061",
-        "dateAccessed": "2026-06-01T18:19:22.414547+00:00",
+        "dateAccessed": "2026-06-01T19:40:07.840180+00:00",
         "month": "2026-04",
         "netAmount": null,
         "office": "House ND-00",
@@ -3960,7 +3960,7 @@
       "kind": "disclosure",
       "metadata": {
         "candidateId": "H0CA32101",
-        "dateAccessed": "2026-06-01T18:19:22.414547+00:00",
+        "dateAccessed": "2026-06-01T19:40:07.840180+00:00",
         "month": "2026-04",
         "netAmount": null,
         "office": "House CA-27",
@@ -4188,7 +4188,7 @@
       "kind": "disclosure",
       "metadata": {
         "candidateId": "H6ME02213",
-        "dateAccessed": "2026-06-01T18:19:22.414547+00:00",
+        "dateAccessed": "2026-06-01T19:40:07.840180+00:00",
         "month": "2026-04",
         "netAmount": null,
         "office": "House ME-02",
@@ -4454,7 +4454,7 @@
       "kind": "disclosure",
       "metadata": {
         "candidateId": "H2SC02059",
-        "dateAccessed": "2026-06-01T18:19:22.414547+00:00",
+        "dateAccessed": "2026-06-01T19:40:07.840180+00:00",
         "month": "2026-04",
         "netAmount": null,
         "office": "House SC-02",
@@ -4948,7 +4948,7 @@
       "kind": "disclosure_month",
       "metadata": {
         "candidateId": null,
-        "dateAccessed": "2026-06-01T18:19:22.414547+00:00",
+        "dateAccessed": "2026-06-01T19:40:07.840180+00:00",
         "month": "2026-04",
         "netAmount": null,
         "office": null,
@@ -6981,7 +6981,7 @@
       "kind": "disclosure_month",
       "metadata": {
         "candidateId": null,
-        "dateAccessed": "2026-06-01T18:19:22.414547+00:00",
+        "dateAccessed": "2026-06-01T19:40:07.840180+00:00",
         "month": "2026-04",
         "netAmount": null,
         "office": null,
@@ -7171,7 +7171,7 @@
       "kind": "disclosure",
       "metadata": {
         "candidateId": "H0FL15104",
-        "dateAccessed": "2026-06-01T18:19:22.414547+00:00",
+        "dateAccessed": "2026-06-01T19:40:07.840180+00:00",
         "month": "2026-03",
         "netAmount": null,
         "office": "House FL-15",
@@ -7437,7 +7437,7 @@
       "kind": "disclosure",
       "metadata": {
         "candidateId": "H2CA14162",
-        "dateAccessed": "2026-06-01T18:19:22.414547+00:00",
+        "dateAccessed": "2026-06-01T19:40:07.840180+00:00",
         "month": "2026-03",
         "netAmount": null,
         "office": "House CA-15",
@@ -7684,7 +7684,7 @@
       "kind": "disclosure_month",
       "metadata": {
         "candidateId": null,
-        "dateAccessed": "2026-06-01T18:19:22.414547+00:00",
+        "dateAccessed": "2026-06-01T19:40:07.840180+00:00",
         "month": "2026-03",
         "netAmount": null,
         "office": null,
@@ -7703,7 +7703,7 @@
       "kind": "disclosure",
       "metadata": {
         "candidateId": "H2TX23082",
-        "dateAccessed": "2026-06-01T18:19:22.414547+00:00",
+        "dateAccessed": "2026-06-01T19:40:07.840180+00:00",
         "month": "2026-03",
         "netAmount": null,
         "office": "House TX-28",
@@ -7741,7 +7741,7 @@
       "kind": "disclosure",
       "metadata": {
         "candidateId": "S2MA00170",
-        "dateAccessed": "2026-06-01T18:19:22.414547+00:00",
+        "dateAccessed": "2026-06-01T19:40:07.840180+00:00",
         "month": "2026-03",
         "netAmount": null,
         "office": "Senate MA",
@@ -7931,7 +7931,7 @@
       "kind": "disclosure_month",
       "metadata": {
         "candidateId": null,
-        "dateAccessed": "2026-06-01T18:19:22.414547+00:00",
+        "dateAccessed": "2026-06-01T19:40:07.840180+00:00",
         "month": "2026-03",
         "netAmount": null,
         "office": null,
@@ -8121,7 +8121,7 @@
       "kind": "disclosure",
       "metadata": {
         "candidateId": "H0FL15104",
-        "dateAccessed": "2026-06-01T18:19:22.414547+00:00",
+        "dateAccessed": "2026-06-01T19:40:07.840180+00:00",
         "month": "2026-02",
         "netAmount": null,
         "office": "House FL-15",
@@ -8444,7 +8444,7 @@
       "kind": "disclosure_month",
       "metadata": {
         "candidateId": null,
-        "dateAccessed": "2026-06-01T18:19:22.414547+00:00",
+        "dateAccessed": "2026-06-01T19:40:07.840180+00:00",
         "month": "2026-02",
         "netAmount": null,
         "office": null,
@@ -8463,7 +8463,7 @@
       "kind": "disclosure",
       "metadata": {
         "candidateId": "H2TX23082",
-        "dateAccessed": "2026-06-01T18:19:22.414547+00:00",
+        "dateAccessed": "2026-06-01T19:40:07.840180+00:00",
         "month": "2026-02",
         "netAmount": null,
         "office": "House TX-28",
@@ -8520,7 +8520,7 @@
       "kind": "disclosure",
       "metadata": {
         "candidateId": "S2MA00170",
-        "dateAccessed": "2026-06-01T18:19:22.414547+00:00",
+        "dateAccessed": "2026-06-01T19:40:07.840180+00:00",
         "month": "2026-02",
         "netAmount": null,
         "office": "Senate MA",
@@ -8786,7 +8786,7 @@
       "kind": "disclosure_month",
       "metadata": {
         "candidateId": null,
-        "dateAccessed": "2026-06-01T18:19:22.414547+00:00",
+        "dateAccessed": "2026-06-01T19:40:07.840180+00:00",
         "month": "2026-02",
         "netAmount": null,
         "office": null,
@@ -12472,7 +12472,7 @@
       "kind": "disclosure",
       "metadata": {
         "candidateId": "H2CA14162",
-        "dateAccessed": "2026-06-01T18:19:22.414547+00:00",
+        "dateAccessed": "2026-06-01T19:40:07.840180+00:00",
         "month": "2025-12",
         "netAmount": null,
         "office": "House CA-15",
@@ -12871,7 +12871,7 @@
       "kind": "disclosure_month",
       "metadata": {
         "candidateId": null,
-        "dateAccessed": "2026-06-01T18:19:22.414547+00:00",
+        "dateAccessed": "2026-06-01T19:40:07.840180+00:00",
         "month": "2025-12",
         "netAmount": null,
         "office": null,
@@ -19597,7 +19597,7 @@
       "kind": "disclosure",
       "metadata": {
         "candidateId": "H2CA14162",
-        "dateAccessed": "2026-06-01T18:19:22.414547+00:00",
+        "dateAccessed": "2026-06-01T19:40:07.840180+00:00",
         "month": "2025-10",
         "netAmount": null,
         "office": "House CA-15",
@@ -19692,7 +19692,7 @@
       "kind": "disclosure_month",
       "metadata": {
         "candidateId": null,
-        "dateAccessed": "2026-06-01T18:19:22.414547+00:00",
+        "dateAccessed": "2026-06-01T19:40:07.840180+00:00",
         "month": "2025-10",
         "netAmount": null,
         "office": null,
