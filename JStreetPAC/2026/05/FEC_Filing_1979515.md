@@ -1,0 +1,18 @@
+# FEC Filing 1979515 Mentioning JStreetPAC
+
+- PAC folder: JStreetPAC
+- Committee ID: C00441949
+- Committee name: JStreetPAC
+- Relationship to tracked committee: mentioned
+- Filer committee ID: C00795005
+- Filer committee name: Kevin Mullin for Congress
+- Foreign nation focus: Israel (Two-State Solution)
+- Filing date: 2026-05-26
+- Source type: electronic
+- Source daily file: 1979515.fec
+- Source URL: https://cg-519a459a-0ea3-42c2-b7bc-fa1143481f74.s3-us-gov-west-1.amazonaws.com/bulk-downloads/electronic/20260526.zip
+- FEC forms seen: F3A, HDR, SA11AI, SA11C, SB17, SB21, SD10, TEXT
+- Candidate IDs mentioned: None detected
+- Transaction-like records detected: 349
+- Total records: 576
+- Date accessed: 2026-06-01T16:41:18.794803+00:00

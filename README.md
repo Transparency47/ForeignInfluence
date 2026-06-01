@@ -4,19 +4,40 @@ This repository tracks large political action committees whose sole purpose is t
 
 The current dataset is organized by PAC, year, and month. Monthly folders contain one markdown file per politician, summarizing the FEC-reported transactions associated with that politician for that month. Each monthly folder also contains a `README.md` file with the monthly totals and a rollup of all politicians listed for that period, so GitHub displays the monthly summary automatically.
 
+Daily FEC filing scans are stored in the same `PAC/YYYY/MM/` folders as the monthly bulk records. These files identify electronic and paper reports that either were filed by a tracked committee or mention a tracked committee in the filing.
+
 Example layout:
 
 ```text
-AIPAC/
+PACName/
   2026/
     05/
       ChuckSchumer.md
+      FEC_Filing_1980153.md
+      Daily_Filings.md
       README.md
 ```
 
 ## Data Source
 
 The source data is FEC bulk data exported from FEC.gov, primarily `pas2` committee-to-candidate transaction files and `webk` committee summary files. Candidate names and office metadata are resolved from the FEC candidate master files. These are public records. This repository does not create or alter the underlying campaign finance reports; it restructures the public records into markdown for easier auditing, indexing, and long-term public access.
+
+The tracker currently includes these FEC committees:
+
+| Organization | FEC committee name | FEC committee ID | Focus |
+| --- | --- | --- | --- |
+| AIPAC PAC | American Israel Public Affairs Committee Political Action Committee | C00797670 | Israel |
+| United Democracy Project | United Democracy Project | C00799031 | Israel |
+| JStreetPAC | JStreetPAC | C00441949 | Israel (Two-State Solution) |
+| NORPAC | NORPAC | C00247403 | Israel |
+| DMFI PAC | Democratic Majority for Israel PAC | C00711341 | Israel |
+| USINPAC | United States India Political Action Committee | C00381699 | India |
+| Turkish Coalition | TC-USA PAC | C00434316 | Turkey |
+| Armenian National | Armenian National Committee PAC | C00465591 | Armenia |
+| Cuban American | Cuban American National Foundation PAC | C00155556 | Cuba |
+| Iranian American | Iranian American Political Action Committee | C00386763 | Iran (Diaspora interests) |
+
+Older FEC cycles are checked during import, but committees only appear in the repository for cycles where FEC bulk data contains matching records.
 
 ## Public Records And Takedown Notice
 
@@ -28,19 +49,19 @@ Do not submit a DMCA takedown request for this repository unless you have a vali
 
 The monthly `README.md` files include:
 
-- Total net reported amount for the month
-- Total positive reported amount
-- Total negative reported amount, such as refunds or reversals
+- Total net candidate-linked reported amount for the month
+- Total positive candidate-linked reported amount
+- Total negative candidate-linked reported amount, such as refunds or reversals
 - Total transaction count
 - A politician-by-politician dollar rollup
 
-Individual politician files include the transaction-level detail available in the FEC bulk export, including transaction date, amount, transaction type, election fields, and FEC filing image links where present.
+Individual politician files include the transaction-level detail available in the FEC bulk export, including source committee, date, date basis, amount, transaction type, election fields, and FEC filing image links where present. When FEC leaves a transaction date blank, the importer uses the filing image date so Super PAC independent-expenditure rows can still be placed into month folders. Candidate-linked amounts may include direct PAC contributions and Super PAC independent-expenditure rows; Super PAC spending is not money received directly by a candidate campaign.
 
 ## Automated Import
 
-The GitHub workflow at `.github/workflows/import-fec-bulk.yml` regenerates the mirror from FEC bulk data. It runs on a schedule and can also be run manually with a comma-separated cycle list. By default it imports 2016, 2018, 2020, 2022, 2024, and 2026.
+The GitHub workflow at `.github/workflows/import-fec-daily.yml` imports daily electronic and paper filings from the FEC daily bulk repositories. It runs automatically at 6am Eastern and can also be run manually with a date range or lookback window.
 
-The workflow downloads FEC `webk`, `pas2`, and candidate master files, writes the `AIPAC/` markdown tree, regenerates `listing.json`, verifies that monthly rollups are named `README.md`, checks for local path leaks, and commits generated changes back to `main`.
+The GitHub workflow at `.github/workflows/import-fec-bulk.yml` is a manual catch-up workflow for cycle bulk files. It downloads FEC `webk`, `pas2`, and candidate master files, writes the PAC markdown tree, regenerates `listing.json`, verifies that monthly rollups are named `README.md`, checks for local path leaks, and commits generated changes back to `main`.
 
 ## Notes
 

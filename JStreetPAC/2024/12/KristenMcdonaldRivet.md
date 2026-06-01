@@ -1,0 +1,20 @@
+# Kristen Mcdonald Rivet
+
+- PAC: JStreetPAC
+- Month: 2024-12
+- Candidate ID: H4MI08218
+- Office: House MI-08
+- Party: DEM
+- Source committees: JStreetPAC
+- Net candidate-linked reported amount: $352.00
+- Positive candidate-linked reported amount: $352.00
+- Negative candidate-linked reported amount: $0.00
+- Transactions: 1
+- Data source: FEC bulk PAS2 public records
+- Date accessed: 2026-06-01T16:41:11.073775+00:00
+
+## Transactions
+
+| Date | Date basis | Source committee | Amount | Transaction type | Recipient committee / payee | Election | FEC filing |
+| --- | --- | --- | ---: | --- | --- | --- | --- |
+| 2024-12-06 | transaction date | JStreetPAC | $352.00 | 24K | KRISTEN FOR MICHIGAN | G2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202501319748738830) |

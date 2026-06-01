@@ -5,16 +5,17 @@
 - Candidate ID: H8FL06148
 - Office: House FL-06
 - Party: REP
-- Net reported amount: $550.00
-- Positive reported amount: $550.00
-- Negative reported amount: $0.00
+- Source committees: American Israel Public Affairs Committee Political Action Committee
+- Net candidate-linked reported amount: $550.00
+- Positive candidate-linked reported amount: $550.00
+- Negative candidate-linked reported amount: $0.00
 - Transactions: 2
 - Data source: FEC bulk PAS2 public records
-- Date accessed: 2026-06-01T16:20:48.259764+00:00
+- Date accessed: 2026-06-01T16:41:11.073775+00:00
 
 ## Transactions
 
-| Date | Amount | Transaction type | Recipient committee / payee | Election | FEC filing |
-| --- | ---: | --- | --- | --- | --- |
-| 2023-10-08 | $50.00 | 24K | MICHAEL WALTZ FOR CONGRESS | G2023 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202311209599244882) |
-| 2023-10-15 | $500.00 | 24K | MICHAEL WALTZ FOR CONGRESS | G2023 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202311209599244882) |
+| Date | Date basis | Source committee | Amount | Transaction type | Recipient committee / payee | Election | FEC filing |
+| --- | --- | --- | ---: | --- | --- | --- | --- |
+| 2023-10-08 | transaction date | American Israel Public Affairs Committee Political Action Committee | $50.00 | 24K | MICHAEL WALTZ FOR CONGRESS | G2023 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202311209599244882) |
+| 2023-10-15 | transaction date | American Israel Public Affairs Committee Political Action Committee | $500.00 | 24K | MICHAEL WALTZ FOR CONGRESS | G2023 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202311209599244882) |

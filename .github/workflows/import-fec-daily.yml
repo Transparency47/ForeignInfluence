@@ -1,0 +1,109 @@
+name: Import FEC Daily Filings
+
+on:
+  workflow_dispatch:
+    inputs:
+      start_date:
+        description: "Optional start date, YYYY-MM-DD."
+        required: false
+        type: string
+      end_date:
+        description: "Optional end date, YYYY-MM-DD."
+        required: false
+        type: string
+      lookback_days:
+        description: "Days to scan when no explicit date range is supplied."
+        required: false
+        default: "7"
+        type: string
+  schedule:
+    - cron: "0 10,11 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: import-fec-daily
+  cancel-in-progress: false
+
+jobs:
+  import:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run only at 6am Eastern
+        if: github.event_name == 'schedule'
+        run: |
+          set -euo pipefail
+          if [[ "$(TZ=America/New_York date +%H)" != "06" ]]; then
+            echo "Not 6am Eastern; skipping duplicate UTC schedule."
+            echo "RUN_IMPORT=false" >> "$GITHUB_ENV"
+          else
+            echo "RUN_IMPORT=true" >> "$GITHUB_ENV"
+          fi
+
+      - name: Check out repository
+        if: github.event_name != 'schedule' || env.RUN_IMPORT == 'true'
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        if: github.event_name != 'schedule' || env.RUN_IMPORT == 'true'
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Import daily FEC filings
+        if: github.event_name != 'schedule' || env.RUN_IMPORT == 'true'
+        env:
+          START_DATE: ${{ inputs.start_date || '' }}
+          END_DATE: ${{ inputs.end_date || '' }}
+          LOOKBACK_DAYS: ${{ inputs.lookback_days || '7' }}
+        run: |
+          set -euo pipefail
+          args=(--lookback-days "$LOOKBACK_DAYS")
+          if [[ -n "$START_DATE" ]]; then
+            args+=(--start-date "$START_DATE")
+          fi
+          if [[ -n "$END_DATE" ]]; then
+            args+=(--end-date "$END_DATE")
+          fi
+          python Scripts/import_fec_daily.py "${args[@]}"
+
+      - name: Generate listing
+        if: github.event_name != 'schedule' || env.RUN_IMPORT == 'true'
+        run: python Scripts/generate_listing.py
+
+      - name: Verify generated output
+        if: github.event_name != 'schedule' || env.RUN_IMPORT == 'true'
+        run: |
+          set -euo pipefail
+          test -f listing.json
+          if [[ -d Reports ]]; then
+            echo "Daily filings must use the PAC/YYYY/MM structure, not Reports/." >&2
+            exit 1
+          fi
+          if grep -R -nE '/Users/|Local source|sourcePath|govinfoBulkSourcePath' README.md Scripts listing.json AIPAC UnitedDemocracyProject JStreetPAC NORPAC DMFIPAC USINPAC TurkishCoalition ArmenianNational CubanAmerican IranianAmerican 2>/dev/null; then
+            echo "Local path leak detected." >&2
+            exit 1
+          fi
+
+      - name: Commit generated changes
+        if: github.event_name != 'schedule' || env.RUN_IMPORT == 'true'
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          if [[ -z "$(git status --porcelain)" ]]; then
+            echo "No generated changes to commit."
+            exit 0
+          fi
+
+          git add listing.json
+          for dir in AIPAC UnitedDemocracyProject JStreetPAC NORPAC DMFIPAC USINPAC TurkishCoalition ArmenianNational CubanAmerican IranianAmerican; do
+            [[ -e "$dir" ]] && git add "$dir"
+          done
+          git commit -m "Import FEC daily filings"
+          git push

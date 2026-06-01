@@ -1,0 +1,39 @@
+# Emilia Sykes
+
+- PAC: JStreetPAC
+- Month: 2024-09
+- Candidate ID: H2OH13264
+- Office: House OH-13
+- Party: DEM
+- Source committees: JStreetPAC
+- Net candidate-linked reported amount: $15,075.00
+- Positive candidate-linked reported amount: $15,075.00
+- Negative candidate-linked reported amount: $0.00
+- Transactions: 20
+- Data source: FEC bulk PAS2 public records
+- Date accessed: 2026-06-01T16:41:11.073775+00:00
+
+## Transactions
+
+| Date | Date basis | Source committee | Amount | Transaction type | Recipient committee / payee | Election | FEC filing |
+| --- | --- | --- | ---: | --- | --- | --- | --- |
+| 2024-09-03 | transaction date | JStreetPAC | $20.00 | 24K | EMILIA SYKES FOR CONGRESS | G2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202410209699279126) |
+| 2024-09-03 | transaction date | JStreetPAC | $2,000.00 | 24K | EMILIA SYKES FOR CONGRESS | G2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202410209699279126) |
+| 2024-09-03 | transaction date | JStreetPAC | $100.00 | 24K | EMILIA SYKES FOR CONGRESS | G2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202410209699279126) |
+| 2024-09-05 | transaction date | JStreetPAC | $150.00 | 24K | EMILIA SYKES FOR CONGRESS | G2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202410209699279127) |
+| 2024-09-05 | transaction date | JStreetPAC | $500.00 | 24K | EMILIA SYKES FOR CONGRESS | G2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202410209699279127) |
+| 2024-09-05 | transaction date | JStreetPAC | $1,000.00 | 24K | EMILIA SYKES FOR CONGRESS | G2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202410209699279127) |
+| 2024-09-05 | transaction date | JStreetPAC | $25.00 | 24K | EMILIA SYKES FOR CONGRESS | G2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202410209699279128) |
+| 2024-09-10 | transaction date | JStreetPAC | $100.00 | 24K | EMILIA SYKES FOR CONGRESS | G2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202410209699279128) |
+| 2024-09-10 | transaction date | JStreetPAC | $1,000.00 | 24K | EMILIA SYKES FOR CONGRESS | G2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202410209699279128) |
+| 2024-09-10 | transaction date | JStreetPAC | $2,300.00 | 24K | EMILIA SYKES FOR CONGRESS | G2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202410209699279129) |
+| 2024-09-10 | transaction date | JStreetPAC | $2,300.00 | 24K | EMILIA SYKES FOR CONGRESS | G2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202410209699279129) |
+| 2024-09-10 | transaction date | JStreetPAC | $10.00 | 24K | EMILIA SYKES FOR CONGRESS | G2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202410209699279129) |
+| 2024-09-18 | transaction date | JStreetPAC | $1,000.00 | 24K | EMILIA SYKES FOR CONGRESS | G2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202410209699279130) |
+| 2024-09-18 | transaction date | JStreetPAC | $2,500.00 | 24K | EMILIA SYKES FOR CONGRESS | G2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202410209699279130) |
+| 2024-09-18 | transaction date | JStreetPAC | $1,000.00 | 24K | EMILIA SYKES FOR CONGRESS | G2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202410209699279130) |
+| 2024-09-19 | transaction date | JStreetPAC | $20.00 | 24K | EMILIA SYKES FOR CONGRESS | G2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202410209699279131) |
+| 2024-09-26 | transaction date | JStreetPAC | $50.00 | 24K | EMILIA SYKES FOR CONGRESS | G2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202410209699279131) |
+| 2024-09-26 | transaction date | JStreetPAC | $250.00 | 24K | EMILIA SYKES FOR CONGRESS | G2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202410209699279131) |
+| 2024-09-30 | transaction date | JStreetPAC | $500.00 | 24K | EMILIA SYKES FOR CONGRESS | G2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202410209699279132) |
+| 2024-09-30 | transaction date | JStreetPAC | $250.00 | 24K | EMILIA SYKES FOR CONGRESS | G2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202410209699279132) |

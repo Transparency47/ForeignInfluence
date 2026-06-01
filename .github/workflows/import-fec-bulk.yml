@@ -1,4 +1,4 @@
-name: Import FEC Bulk
+name: Import FEC Bulk Catch-Up
 
 on:
   workflow_dispatch:
@@ -8,15 +8,6 @@ on:
         required: false
         default: "2016,2018,2020,2022,2024,2026"
         type: string
-  schedule:
-    - cron: "17 8 * * 1"
-  push:
-    branches:
-      - main
-    paths:
-      - "Scripts/import_fec_bulk.py"
-      - "Scripts/generate_listing.py"
-      - ".github/workflows/import-fec-bulk.yml"
 
 permissions:
   contents: write
@@ -52,11 +43,15 @@ jobs:
           set -euo pipefail
           test -f listing.json
           test -d AIPAC
-          if find AIPAC -name metadata.md -print -quit | grep -q .; then
+          if [[ -d Reports ]]; then
+            echo "Generated output must use the PAC/YYYY/MM structure, not Reports/." >&2
+            exit 1
+          fi
+          if find AIPAC UnitedDemocracyProject JStreetPAC NORPAC DMFIPAC USINPAC TurkishCoalition ArmenianNational CubanAmerican IranianAmerican -name metadata.md -print -quit 2>/dev/null | grep -q .; then
             echo "Monthly metadata.md files should be README.md for GitHub rendering." >&2
             exit 1
           fi
-          if grep -R -nE '/Users/|Local source|sourcePath|govinfoBulkSourcePath' README.md AIPAC Scripts listing.json; then
+          if grep -R -nE '/Users/|Local source|sourcePath|govinfoBulkSourcePath' README.md Scripts listing.json AIPAC UnitedDemocracyProject JStreetPAC NORPAC DMFIPAC USINPAC TurkishCoalition ArmenianNational CubanAmerican IranianAmerican 2>/dev/null; then
             echo "Local path leak detected." >&2
             exit 1
           fi
@@ -73,6 +68,9 @@ jobs:
             exit 0
           fi
 
-          git add AIPAC listing.json
+          git add listing.json
+          for dir in AIPAC UnitedDemocracyProject JStreetPAC NORPAC DMFIPAC USINPAC TurkishCoalition ArmenianNational CubanAmerican IranianAmerican; do
+            [[ -e "$dir" ]] && git add "$dir"
+          done
           git commit -m "Import FEC bulk data"
           git push

@@ -5,15 +5,16 @@
 - Candidate ID: H2NC06114
 - Office: House NC-04
 - Party: DEM
-- Net reported amount: $1.00
-- Positive reported amount: $1.00
-- Negative reported amount: $0.00
+- Source committees: American Israel Public Affairs Committee Political Action Committee
+- Net candidate-linked reported amount: $1.00
+- Positive candidate-linked reported amount: $1.00
+- Negative candidate-linked reported amount: $0.00
 - Transactions: 1
 - Data source: FEC bulk PAS2 public records
-- Date accessed: 2026-06-01T16:20:48.259764+00:00
+- Date accessed: 2026-06-01T16:41:11.073775+00:00
 
 ## Transactions
 
-| Date | Amount | Transaction type | Recipient committee / payee | Election | FEC filing |
-| --- | ---: | --- | --- | --- | --- |
-| 2024-04-17 | $1.00 | 24K | FOUSHEE FOR CONGRESS | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576705) |
+| Date | Date basis | Source committee | Amount | Transaction type | Recipient committee / payee | Election | FEC filing |
+| --- | --- | --- | ---: | --- | --- | --- | --- |
+| 2024-04-17 | transaction date | American Israel Public Affairs Committee Political Action Committee | $1.00 | 24K | FOUSHEE FOR CONGRESS | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576705) |

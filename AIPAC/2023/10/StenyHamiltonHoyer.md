@@ -5,39 +5,40 @@
 - Candidate ID: H2MD05155
 - Office: House MD-05
 - Party: DEM
-- Net reported amount: $30,300.00
-- Positive reported amount: $30,300.00
-- Negative reported amount: $0.00
+- Source committees: American Israel Public Affairs Committee Political Action Committee
+- Net candidate-linked reported amount: $30,300.00
+- Positive candidate-linked reported amount: $30,300.00
+- Negative candidate-linked reported amount: $0.00
 - Transactions: 25
 - Data source: FEC bulk PAS2 public records
-- Date accessed: 2026-06-01T16:20:48.259764+00:00
+- Date accessed: 2026-06-01T16:41:11.073775+00:00
 
 ## Transactions
 
-| Date | Amount | Transaction type | Recipient committee / payee | Election | FEC filing |
-| --- | ---: | --- | --- | --- | --- |
-| 2023-10-11 | $1,500.00 | 24K | HOYER FOR CONGRESS | P2023 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202311209599245008) |
-| 2023-10-11 | $1,000.00 | 24K | HOYER FOR CONGRESS | P2023 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202311209599245008) |
-| 2023-10-11 | $2,000.00 | 24K | HOYER FOR CONGRESS | P2023 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202311209599245009) |
-| 2023-10-11 | $3,300.00 | 24K | HOYER FOR CONGRESS | P2023 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202311209599245009) |
-| 2023-10-11 | $1,000.00 | 24K | HOYER FOR CONGRESS | P2023 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202311209599245010) |
-| 2023-10-11 | $1,000.00 | 24K | HOYER FOR CONGRESS | P2023 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202311209599245010) |
-| 2023-10-11 | $1,000.00 | 24K | HOYER FOR CONGRESS | P2023 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202311209599245010) |
-| 2023-10-11 | $500.00 | 24K | HOYER FOR CONGRESS | P2023 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202311209599245011) |
-| 2023-10-11 | $1,000.00 | 24K | HOYER FOR CONGRESS | P2023 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202311209599245011) |
-| 2023-10-11 | $1,000.00 | 24K | HOYER FOR CONGRESS | P2023 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202311209599245012) |
-| 2023-10-11 | $1,500.00 | 24K | HOYER FOR CONGRESS | G2023 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202311209599245012) |
-| 2023-10-11 | $500.00 | 24K | HOYER FOR CONGRESS | G2023 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202311209599245012) |
-| 2023-10-11 | $1,000.00 | 24K | HOYER FOR CONGRESS | G2023 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202311209599245538) |
-| 2023-10-11 | $1,000.00 | 24K | HOYER FOR CONGRESS | G2023 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202311209599245538) |
-| 2023-10-11 | $1,000.00 | 24K | HOYER FOR CONGRESS | G2023 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202311209599245539) |
-| 2023-10-11 | $1,000.00 | 24K | HOYER FOR CONGRESS | G2023 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202311209599245539) |
-| 2023-10-11 | $2,000.00 | 24K | HOYER FOR CONGRESS | G2023 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202311209599245540) |
-| 2023-10-11 | $1,000.00 | 24K | HOYER FOR CONGRESS | G2023 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202311209599245540) |
-| 2023-10-11 | $500.00 | 24K | HOYER FOR CONGRESS | G2023 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202311209599245540) |
-| 2023-10-11 | $1,000.00 | 24K | HOYER FOR CONGRESS | G2023 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202311209599245541) |
-| 2023-10-13 | $1,500.00 | 24K | HOYER FOR CONGRESS | G2023 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202311209599245541) |
-| 2023-10-18 | $1,000.00 | 24K | HOYER FOR CONGRESS | P2023 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202311209599245011) |
-| 2023-10-18 | $1,000.00 | 24K | HOYER FOR CONGRESS | G2023 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202311209599245539) |
-| 2023-10-18 | $2,000.00 | 24K | HOYER FOR CONGRESS | G2023 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202311209599245541) |
-| 2023-10-25 | $1,000.00 | 24K | HOYER FOR CONGRESS | P2023 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202311209599245009) |
+| Date | Date basis | Source committee | Amount | Transaction type | Recipient committee / payee | Election | FEC filing |
+| --- | --- | --- | ---: | --- | --- | --- | --- |
+| 2023-10-11 | transaction date | American Israel Public Affairs Committee Political Action Committee | $1,500.00 | 24K | HOYER FOR CONGRESS | P2023 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202311209599245008) |
+| 2023-10-11 | transaction date | American Israel Public Affairs Committee Political Action Committee | $1,000.00 | 24K | HOYER FOR CONGRESS | P2023 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202311209599245008) |
+| 2023-10-11 | transaction date | American Israel Public Affairs Committee Political Action Committee | $2,000.00 | 24K | HOYER FOR CONGRESS | P2023 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202311209599245009) |
+| 2023-10-11 | transaction date | American Israel Public Affairs Committee Political Action Committee | $3,300.00 | 24K | HOYER FOR CONGRESS | P2023 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202311209599245009) |
+| 2023-10-11 | transaction date | American Israel Public Affairs Committee Political Action Committee | $1,000.00 | 24K | HOYER FOR CONGRESS | P2023 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202311209599245010) |
+| 2023-10-11 | transaction date | American Israel Public Affairs Committee Political Action Committee | $1,000.00 | 24K | HOYER FOR CONGRESS | P2023 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202311209599245010) |
+| 2023-10-11 | transaction date | American Israel Public Affairs Committee Political Action Committee | $1,000.00 | 24K | HOYER FOR CONGRESS | P2023 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202311209599245010) |
+| 2023-10-11 | transaction date | American Israel Public Affairs Committee Political Action Committee | $500.00 | 24K | HOYER FOR CONGRESS | P2023 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202311209599245011) |
+| 2023-10-11 | transaction date | American Israel Public Affairs Committee Political Action Committee | $1,000.00 | 24K | HOYER FOR CONGRESS | P2023 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202311209599245011) |
+| 2023-10-11 | transaction date | American Israel Public Affairs Committee Political Action Committee | $1,000.00 | 24K | HOYER FOR CONGRESS | P2023 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202311209599245012) |
+| 2023-10-11 | transaction date | American Israel Public Affairs Committee Political Action Committee | $1,500.00 | 24K | HOYER FOR CONGRESS | G2023 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202311209599245012) |
+| 2023-10-11 | transaction date | American Israel Public Affairs Committee Political Action Committee | $500.00 | 24K | HOYER FOR CONGRESS | G2023 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202311209599245012) |
+| 2023-10-11 | transaction date | American Israel Public Affairs Committee Political Action Committee | $1,000.00 | 24K | HOYER FOR CONGRESS | G2023 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202311209599245538) |
+| 2023-10-11 | transaction date | American Israel Public Affairs Committee Political Action Committee | $1,000.00 | 24K | HOYER FOR CONGRESS | G2023 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202311209599245538) |
+| 2023-10-11 | transaction date | American Israel Public Affairs Committee Political Action Committee | $1,000.00 | 24K | HOYER FOR CONGRESS | G2023 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202311209599245539) |
+| 2023-10-11 | transaction date | American Israel Public Affairs Committee Political Action Committee | $1,000.00 | 24K | HOYER FOR CONGRESS | G2023 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202311209599245539) |
+| 2023-10-11 | transaction date | American Israel Public Affairs Committee Political Action Committee | $2,000.00 | 24K | HOYER FOR CONGRESS | G2023 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202311209599245540) |
+| 2023-10-11 | transaction date | American Israel Public Affairs Committee Political Action Committee | $1,000.00 | 24K | HOYER FOR CONGRESS | G2023 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202311209599245540) |
+| 2023-10-11 | transaction date | American Israel Public Affairs Committee Political Action Committee | $500.00 | 24K | HOYER FOR CONGRESS | G2023 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202311209599245540) |
+| 2023-10-11 | transaction date | American Israel Public Affairs Committee Political Action Committee | $1,000.00 | 24K | HOYER FOR CONGRESS | G2023 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202311209599245541) |
+| 2023-10-13 | transaction date | American Israel Public Affairs Committee Political Action Committee | $1,500.00 | 24K | HOYER FOR CONGRESS | G2023 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202311209599245541) |
+| 2023-10-18 | transaction date | American Israel Public Affairs Committee Political Action Committee | $1,000.00 | 24K | HOYER FOR CONGRESS | P2023 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202311209599245011) |
+| 2023-10-18 | transaction date | American Israel Public Affairs Committee Political Action Committee | $1,000.00 | 24K | HOYER FOR CONGRESS | G2023 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202311209599245539) |
+| 2023-10-18 | transaction date | American Israel Public Affairs Committee Political Action Committee | $2,000.00 | 24K | HOYER FOR CONGRESS | G2023 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202311209599245541) |
+| 2023-10-25 | transaction date | American Israel Public Affairs Committee Political Action Committee | $1,000.00 | 24K | HOYER FOR CONGRESS | P2023 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202311209599245009) |

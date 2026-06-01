@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Import FEC bulk PAC records into the ForeignInfluence mirror."""
+"""Import FEC bulk PAC records into the ForeignInfluence tracker."""
 
 from __future__ import annotations
 
@@ -24,6 +24,27 @@ ROOT_DIR = Path(__file__).resolve().parents[1]
 DEFAULT_CYCLES = (2016, 2018, 2020, 2022, 2024, 2026)
 PAC_IDS = {
     "C00797670": "AIPAC",
+    "C00799031": "UnitedDemocracyProject",
+    "C00441949": "JStreetPAC",
+    "C00247403": "NORPAC",
+    "C00711341": "DMFIPAC",
+    "C00381699": "USINPAC",
+    "C00434316": "TurkishCoalition",
+    "C00465591": "ArmenianNational",
+    "C00155556": "CubanAmerican",
+    "C00386763": "IranianAmerican",
+}
+COMMITTEE_NAMES = {
+    "C00797670": "American Israel Public Affairs Committee Political Action Committee",
+    "C00799031": "United Democracy Project",
+    "C00441949": "JStreetPAC",
+    "C00247403": "NORPAC",
+    "C00711341": "Democratic Majority for Israel PAC",
+    "C00381699": "United States India Political Action Committee",
+    "C00434316": "TC-USA PAC",
+    "C00465591": "Armenian National Committee PAC",
+    "C00155556": "Cuban American National Foundation PAC",
+    "C00386763": "Iranian American Political Action Committee",
 }
 FEC_BASE = "https://www.fec.gov/files/bulk-downloads"
 
@@ -158,6 +179,26 @@ def parse_fec_date(value: str) -> dt.date | None:
     return None
 
 
+def parse_image_date(value: str) -> dt.date | None:
+    value = (value or "").strip()
+    if len(value) < 8 or not value[:8].isdigit():
+        return None
+    try:
+        return dt.datetime.strptime(value[:8], "%Y%m%d").date()
+    except ValueError:
+        return None
+
+
+def row_date(row: dict[str, str]) -> tuple[dt.date | None, str]:
+    transaction_date = parse_fec_date(row.get("transaction_date", ""))
+    if transaction_date:
+        return transaction_date, "transaction date"
+    image_date = parse_image_date(row.get("image_number", ""))
+    if image_date:
+        return image_date, "filing image date"
+    return None, ""
+
+
 def ascii_slug(value: str, fallback: str = "Unknown") -> str:
     normalized = unicodedata.normalize("NFKD", value).encode("ascii", "ignore").decode("ascii")
     normalized = re.sub(r"[^A-Za-z0-9]+", "", normalized)
@@ -267,13 +308,18 @@ def fec_image_url(image_number: str) -> str:
     return f"https://docquery.fec.gov/cgi-bin/fecimg/?{image_number}" if image_number else ""
 
 
+def committee_name(row: dict[str, str]) -> str:
+    committee_id = row.get("committee_id", "")
+    return COMMITTEE_NAMES.get(committee_id, committee_id)
+
+
 def transaction_table(rows: list[dict[str, str]]) -> list[str]:
     lines = [
-        "| Date | Amount | Transaction type | Recipient committee / payee | Election | FEC filing |",
-        "| --- | ---: | --- | --- | --- | --- |",
+        "| Date | Date basis | Source committee | Amount | Transaction type | Recipient committee / payee | Election | FEC filing |",
+        "| --- | --- | --- | ---: | --- | --- | --- | --- |",
     ]
-    for row in sorted(rows, key=lambda item: (item.get("transaction_date", ""), item.get("sub_id", ""))):
-        date = parse_fec_date(row.get("transaction_date", ""))
+    for row in sorted(rows, key=lambda item: (row_date(item)[0] or dt.date.min, item.get("sub_id", ""))):
+        date, date_basis = row_date(row)
         date_text = date.isoformat() if date else row.get("transaction_date", "")
         amount = money(parse_amount(row.get("transaction_amount", "")))
         filing = fec_image_url(row.get("image_number", ""))
@@ -281,6 +327,8 @@ def transaction_table(rows: list[dict[str, str]]) -> list[str]:
         lines.append(
             "| "
             f"{date_text} | "
+            f"{date_basis} | "
+            f"{committee_name(row)} | "
             f"{amount} | "
             f"{row.get('transaction_type', '')} | "
             f"{row.get('name', '')} | "
@@ -292,6 +340,7 @@ def transaction_table(rows: list[dict[str, str]]) -> list[str]:
 
 def write_candidate_file(out_dir: Path, bucket: Bucket, accessed: str) -> None:
     candidate = bucket.candidate
+    source_committees = sorted({committee_name(row) for row in bucket.rows})
     lines = [
         f"# {candidate.display_name}",
         "",
@@ -300,9 +349,10 @@ def write_candidate_file(out_dir: Path, bucket: Bucket, accessed: str) -> None:
         f"- Candidate ID: {candidate.candidate_id}",
         f"- Office: {candidate.office}",
         f"- Party: {candidate.party}",
-        f"- Net reported amount: {money(bucket.net)}",
-        f"- Positive reported amount: {money(bucket.positive)}",
-        f"- Negative reported amount: {money(bucket.negative)}",
+        f"- Source committees: {', '.join(source_committees)}",
+        f"- Net candidate-linked reported amount: {money(bucket.net)}",
+        f"- Positive candidate-linked reported amount: {money(bucket.positive)}",
+        f"- Negative candidate-linked reported amount: {money(bucket.negative)}",
         f"- Transactions: {len(bucket.rows)}",
         "- Data source: FEC bulk PAS2 public records",
         f"- Date accessed: {accessed}",
@@ -315,8 +365,8 @@ def write_candidate_file(out_dir: Path, bucket: Bucket, accessed: str) -> None:
     (out_dir / f"{candidate.file_stem}.md").write_text("\n".join(lines), encoding="utf-8")
 
 
-def webk_summary_lines(summary: dict[str, str] | None) -> list[str]:
-    if not summary:
+def webk_summary_lines(summaries: list[dict[str, str]] | None) -> list[str]:
+    if not summaries:
         return []
     labels = [
         ("committee_name", "Committee name"),
@@ -328,11 +378,17 @@ def webk_summary_lines(summary: dict[str, str] | None) -> list[str]:
         ("cash_on_hand_end", "Cash on hand"),
     ]
     lines = ["", "## Committee Summary From FEC WEBK", ""]
-    for field, label in labels:
-        value = summary.get(field, "")
-        if field not in {"committee_name", "coverage_end_date"}:
-            value = money(parse_amount(value))
-        lines.append(f"- {label}: {value}")
+    for summary in summaries:
+        lines.append(f"### {summary.get('committee_name', 'Committee')}")
+        lines.append("")
+        for field, label in labels:
+            if field == "committee_name":
+                continue
+            value = summary.get(field, "")
+            if field != "coverage_end_date":
+                value = money(parse_amount(value))
+            lines.append(f"- {label}: {value}")
+        lines.append("")
     return lines
 
 
@@ -343,44 +399,48 @@ def write_month_readme(
     month: str,
     buckets: list[Bucket],
     accessed: str,
-    webk_summary: dict[str, str] | None,
+    webk_summaries: list[dict[str, str]] | None,
 ) -> None:
     all_rows = [row for bucket in buckets for row in bucket.rows]
     amounts = [parse_amount(row.get("transaction_amount", "")) for row in all_rows]
     net = sum(amounts, Decimal("0"))
     positive = sum((amount for amount in amounts if amount > 0), Decimal("0"))
     negative = sum((amount for amount in amounts if amount < 0), Decimal("0"))
+    source_committees = sorted({committee_name(row) for row in all_rows})
     lines = [
         f"# {pac} {year}-{month} Metadata",
         "",
         f"- PAC: {pac}",
         f"- Month: {year}-{month}",
+        f"- Source committees: {', '.join(source_committees)}",
         "- Data source: FEC bulk PAS2 public records",
-        f"- Total net reported amount: {money(net)}",
-        f"- Total positive reported amount: {money(positive)}",
-        f"- Total negative reported amount: {money(negative)}",
+        f"- Total net candidate-linked reported amount: {money(net)}",
+        f"- Total positive candidate-linked reported amount: {money(positive)}",
+        f"- Total negative candidate-linked reported amount: {money(negative)}",
         f"- Politicians listed: {len(buckets)}",
         f"- Transactions: {len(all_rows)}",
         f"- Date accessed: {accessed}",
     ]
-    lines.extend(webk_summary_lines(webk_summary))
+    lines.extend(webk_summary_lines(webk_summaries))
     lines.extend(
         [
             "",
             "## Politicians",
             "",
-            "| Politician | Candidate ID | Office | Party | Net amount | Positive amount | Negative amount | Transactions | File |",
-            "| --- | --- | --- | --- | ---: | ---: | ---: | ---: | --- |",
+            "| Politician | Candidate ID | Office | Party | Source committees | Net amount | Positive amount | Negative amount | Transactions | File |",
+            "| --- | --- | --- | --- | --- | ---: | ---: | ---: | ---: | --- |",
         ]
     )
     for bucket in sorted(buckets, key=lambda item: (item.net, item.candidate.display_name), reverse=True):
         file_name = f"{bucket.candidate.file_stem}.md"
+        bucket_committees = ", ".join(sorted({committee_name(row) for row in bucket.rows}))
         lines.append(
             "| "
             f"{bucket.candidate.display_name} | "
             f"{bucket.candidate.candidate_id} | "
             f"{bucket.candidate.office} | "
             f"{bucket.candidate.party} | "
+            f"{bucket_committees} | "
             f"{money(bucket.net)} | "
             f"{money(bucket.positive)} | "
             f"{money(bucket.negative)} | "
@@ -392,7 +452,7 @@ def write_month_readme(
 
 
 def load_webk(cycles: Iterable[int], cache_dir: Path) -> dict[tuple[str, str, str], dict[str, str]]:
-    summaries: dict[tuple[str, str, str], dict[str, str]] = {}
+    summaries: dict[tuple[str, str, str], list[dict[str, str]]] = defaultdict(list)
     for cycle in cycles:
         path = download(zip_url("webk", cycle), cache_dir)
         for row in rows_from_zip(path, WEBK_COLUMNS):
@@ -402,7 +462,7 @@ def load_webk(cycles: Iterable[int], cache_dir: Path) -> dict[tuple[str, str, st
             coverage = parse_fec_date(row.get("coverage_end_date", ""))
             if not coverage:
                 continue
-            summaries[(pac, f"{coverage.year:04d}", f"{coverage.month:02d}")] = row
+            summaries[(pac, f"{coverage.year:04d}", f"{coverage.month:02d}")].append(row)
     return summaries
 
 
@@ -418,7 +478,7 @@ def import_bulk(cycles: Iterable[int], cache_dir: Path, clean: bool = True) -> d
         for row in rows_from_zip(path, PAS2_COLUMNS):
             pac = PAC_IDS.get(row.get("committee_id", ""))
             candidate_id = row.get("candidate_id", "")
-            date = parse_fec_date(row.get("transaction_date", ""))
+            date, _date_basis = row_date(row)
             if not pac or not candidate_id or not date:
                 skipped += 1
                 continue

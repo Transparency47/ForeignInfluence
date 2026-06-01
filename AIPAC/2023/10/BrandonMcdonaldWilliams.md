@@ -5,20 +5,21 @@
 - Candidate ID: H2NY22212
 - Office: House NY-22
 - Party: REP
-- Net reported amount: $10,694.00
-- Positive reported amount: $10,694.00
-- Negative reported amount: $0.00
+- Source committees: American Israel Public Affairs Committee Political Action Committee
+- Net candidate-linked reported amount: $10,694.00
+- Positive candidate-linked reported amount: $10,694.00
+- Negative candidate-linked reported amount: $0.00
 - Transactions: 6
 - Data source: FEC bulk PAS2 public records
-- Date accessed: 2026-06-01T16:20:48.259764+00:00
+- Date accessed: 2026-06-01T16:41:11.073775+00:00
 
 ## Transactions
 
-| Date | Amount | Transaction type | Recipient committee / payee | Election | FEC filing |
-| --- | ---: | --- | --- | --- | --- |
-| 2023-10-15 | $1,250.00 | 24K | BRANDON FOR CONGRESS NY22 | G2023 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202311209599245352) |
-| 2023-10-16 | $5,000.00 | 24K | BRANDON FOR CONGRESS NY22 | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202311209599245352) |
-| 2023-10-29 | $1,111.00 | 24K | BRANDON FOR CONGRESS NY22 | G2023 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202311209599245351) |
-| 2023-10-29 | $1,111.00 | 24K | BRANDON FOR CONGRESS NY22 | G2023 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202311209599245351) |
-| 2023-10-29 | $1,111.00 | 24K | BRANDON FOR CONGRESS NY22 | G2023 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202311209599245351) |
-| 2023-10-29 | $1,111.00 | 24K | BRANDON FOR CONGRESS NY22 | G2023 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202311209599245352) |
+| Date | Date basis | Source committee | Amount | Transaction type | Recipient committee / payee | Election | FEC filing |
+| --- | --- | --- | ---: | --- | --- | --- | --- |
+| 2023-10-15 | transaction date | American Israel Public Affairs Committee Political Action Committee | $1,250.00 | 24K | BRANDON FOR CONGRESS NY22 | G2023 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202311209599245352) |
+| 2023-10-16 | transaction date | American Israel Public Affairs Committee Political Action Committee | $5,000.00 | 24K | BRANDON FOR CONGRESS NY22 | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202311209599245352) |
+| 2023-10-29 | transaction date | American Israel Public Affairs Committee Political Action Committee | $1,111.00 | 24K | BRANDON FOR CONGRESS NY22 | G2023 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202311209599245351) |
+| 2023-10-29 | transaction date | American Israel Public Affairs Committee Political Action Committee | $1,111.00 | 24K | BRANDON FOR CONGRESS NY22 | G2023 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202311209599245351) |
+| 2023-10-29 | transaction date | American Israel Public Affairs Committee Political Action Committee | $1,111.00 | 24K | BRANDON FOR CONGRESS NY22 | G2023 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202311209599245351) |
+| 2023-10-29 | transaction date | American Israel Public Affairs Committee Political Action Committee | $1,111.00 | 24K | BRANDON FOR CONGRESS NY22 | G2023 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202311209599245352) |

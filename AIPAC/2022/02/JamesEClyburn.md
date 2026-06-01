@@ -5,16 +5,17 @@
 - Candidate ID: H2SC02042
 - Office: House SC-06
 - Party: DEM
-- Net reported amount: $5,800.00
-- Positive reported amount: $5,800.00
-- Negative reported amount: $0.00
+- Source committees: American Israel Public Affairs Committee Political Action Committee
+- Net candidate-linked reported amount: $5,800.00
+- Positive candidate-linked reported amount: $5,800.00
+- Negative candidate-linked reported amount: $0.00
 - Transactions: 2
 - Data source: FEC bulk PAS2 public records
-- Date accessed: 2026-06-01T16:20:48.259764+00:00
+- Date accessed: 2026-06-01T16:41:11.073775+00:00
 
 ## Transactions
 
-| Date | Amount | Transaction type | Recipient committee / payee | Election | FEC filing |
-| --- | ---: | --- | --- | --- | --- |
-| 2022-02-07 | $2,900.00 | 24K | FRIENDS OF JIM CLYBURN | P2022 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202212079547180766) |
-| 2022-02-07 | $2,900.00 | 24K | FRIENDS OF JIM CLYBURN | G2022 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202212079547180944) |
+| Date | Date basis | Source committee | Amount | Transaction type | Recipient committee / payee | Election | FEC filing |
+| --- | --- | --- | ---: | --- | --- | --- | --- |
+| 2022-02-07 | transaction date | American Israel Public Affairs Committee Political Action Committee | $2,900.00 | 24K | FRIENDS OF JIM CLYBURN | P2022 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202212079547180766) |
+| 2022-02-07 | transaction date | American Israel Public Affairs Committee Political Action Committee | $2,900.00 | 24K | FRIENDS OF JIM CLYBURN | G2022 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202212079547180944) |

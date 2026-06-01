@@ -5,597 +5,598 @@
 - Candidate ID: H4MO01134
 - Office: House MO-01
 - Party: DEM
-- Net reported amount: $274,725.00
-- Positive reported amount: $275,975.00
-- Negative reported amount: -$1,250.00
+- Source committees: American Israel Public Affairs Committee Political Action Committee
+- Net candidate-linked reported amount: $274,725.00
+- Positive candidate-linked reported amount: $275,975.00
+- Negative candidate-linked reported amount: -$1,250.00
 - Transactions: 583
 - Data source: FEC bulk PAS2 public records
-- Date accessed: 2026-06-01T16:20:48.259764+00:00
+- Date accessed: 2026-06-01T16:41:11.073775+00:00
 
 ## Transactions
 
-| Date | Amount | Transaction type | Recipient committee / payee | Election | FEC filing |
-| --- | ---: | --- | --- | --- | --- |
-| 2024-04-03 | $500.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576104) |
-| 2024-04-03 | $100.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576105) |
-| 2024-04-03 | $25.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576108) |
-| 2024-04-03 | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576122) |
-| 2024-04-03 | $25.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576125) |
-| 2024-04-03 | $10.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576129) |
-| 2024-04-03 | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576131) |
-| 2024-04-03 | $100.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576133) |
-| 2024-04-03 | $18.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576137) |
-| 2024-04-03 | $100.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576140) |
-| 2024-04-03 | $50.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576144) |
-| 2024-04-03 | $500.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576144) |
-| 2024-04-03 | $1,000.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576145) |
-| 2024-04-03 | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576148) |
-| 2024-04-03 | $50.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576149) |
-| 2024-04-03 | $150.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576151) |
-| 2024-04-03 | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576155) |
-| 2024-04-03 | $200.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576158) |
-| 2024-04-03 | $150.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576159) |
-| 2024-04-03 | $150.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576159) |
-| 2024-04-03 | $150.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576163) |
-| 2024-04-03 | $50.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576166) |
-| 2024-04-03 | $50.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576167) |
-| 2024-04-03 | $150.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576167) |
-| 2024-04-03 | $100.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576173) |
-| 2024-04-03 | $500.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576177) |
-| 2024-04-03 | $500.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576177) |
-| 2024-04-03 | $50.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576179) |
-| 2024-04-03 | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576187) |
-| 2024-04-03 | $50.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576203) |
-| 2024-04-03 | $25.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576204) |
-| 2024-04-03 | $150.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576207) |
-| 2024-04-03 | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576215) |
-| 2024-04-03 | $50.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576215) |
-| 2024-04-03 | $100.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576219) |
-| 2024-04-03 | $150.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576221) |
-| 2024-04-03 | $25.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576222) |
-| 2024-04-03 | $100.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576222) |
-| 2024-04-03 | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576223) |
-| 2024-04-03 | $150.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576223) |
-| 2024-04-03 | $1,000.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576225) |
-| 2024-04-03 | $750.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576225) |
-| 2024-04-03 | $150.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576229) |
-| 2024-04-03 | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576229) |
-| 2024-04-03 | $50.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576237) |
-| 2024-04-03 | $80.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576239) |
-| 2024-04-03 | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576243) |
-| 2024-04-03 | $25.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576253) |
-| 2024-04-03 | $26.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576254) |
-| 2024-04-03 | $25.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576257) |
-| 2024-04-03 | $150.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576258) |
-| 2024-04-03 | $100.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576260) |
-| 2024-04-03 | $50.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576263) |
-| 2024-04-03 | $25.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576264) |
-| 2024-04-03 | $50.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576265) |
-| 2024-04-03 | $9.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576267) |
-| 2024-04-03 | $500.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576274) |
-| 2024-04-03 | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576275) |
-| 2024-04-03 | $100.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576276) |
-| 2024-04-03 | $50.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576277) |
-| 2024-04-03 | $3,300.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576278) |
-| 2024-04-03 | $1,000.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576284) |
-| 2024-04-03 | $150.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576286) |
-| 2024-04-03 | $50.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576289) |
-| 2024-04-03 | $100.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576294) |
-| 2024-04-03 | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576298) |
-| 2024-04-03 | $75.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576300) |
-| 2024-04-03 | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576301) |
-| 2024-04-03 | $150.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576307) |
-| 2024-04-03 | $200.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576309) |
-| 2024-04-03 | $500.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576309) |
-| 2024-04-03 | $150.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576318) |
-| 2024-04-03 | $25.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576322) |
-| 2024-04-03 | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576327) |
-| 2024-04-03 | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576333) |
-| 2024-04-03 | $50.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576336) |
-| 2024-04-03 | $25.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576339) |
-| 2024-04-03 | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576340) |
-| 2024-04-03 | $180.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576341) |
-| 2024-04-03 | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576343) |
-| 2024-04-03 | $25.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576356) |
-| 2024-04-03 | $100.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576359) |
-| 2024-04-03 | $100.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576359) |
-| 2024-04-03 | $500.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576360) |
-| 2024-04-03 | $150.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576361) |
-| 2024-04-03 | $50.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576363) |
-| 2024-04-03 | $500.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576373) |
-| 2024-04-03 | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576375) |
-| 2024-04-03 | $300.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576377) |
-| 2024-04-03 | $500.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576377) |
-| 2024-04-03 | $150.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576379) |
-| 2024-04-03 | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576380) |
-| 2024-04-03 | $10.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576388) |
-| 2024-04-03 | $150.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576389) |
-| 2024-04-03 | $150.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576389) |
-| 2024-04-03 | $36.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576390) |
-| 2024-04-03 | $150.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576391) |
-| 2024-04-03 | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576391) |
-| 2024-04-03 | $50.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576397) |
-| 2024-04-03 | $50.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576407) |
-| 2024-04-03 | $150.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576408) |
-| 2024-04-03 | $50.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576415) |
-| 2024-04-03 | $100.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576416) |
-| 2024-04-03 | -$500.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576416) |
-| 2024-04-03 | $100.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576420) |
-| 2024-04-03 | $50.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576421) |
-| 2024-04-03 | $50.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576422) |
-| 2024-04-03 | $150.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576424) |
-| 2024-04-03 | $180.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576427) |
-| 2024-04-03 | $150.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576435) |
-| 2024-04-03 | $150.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576436) |
-| 2024-04-03 | $100.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576442) |
-| 2024-04-03 | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576446) |
-| 2024-04-03 | $500.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576447) |
-| 2024-04-03 | $100.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576447) |
-| 2024-04-03 | $25.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576454) |
-| 2024-04-03 | $100.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576455) |
-| 2024-04-03 | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576455) |
-| 2024-04-03 | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576462) |
-| 2024-04-03 | $180.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576465) |
-| 2024-04-03 | $500.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576470) |
-| 2024-04-03 | $150.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576474) |
-| 2024-04-03 | $2,000.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576475) |
-| 2024-04-03 | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576476) |
-| 2024-04-03 | $100.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576476) |
-| 2024-04-03 | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576477) |
-| 2024-04-03 | $150.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576479) |
-| 2024-04-03 | $100.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576480) |
-| 2024-04-03 | $10.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576482) |
-| 2024-04-03 | $150.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576488) |
-| 2024-04-03 | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576495) |
-| 2024-04-03 | $100.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576497) |
-| 2024-04-03 | $18.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576498) |
-| 2024-04-03 | $100.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576500) |
-| 2024-04-03 | $10.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576504) |
-| 2024-04-03 | $150.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576510) |
-| 2024-04-03 | $18.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576514) |
-| 2024-04-03 | $500.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576515) |
-| 2024-04-03 | $150.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576517) |
-| 2024-04-03 | $100.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576518) |
-| 2024-04-03 | $100.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576520) |
-| 2024-04-03 | $150.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576520) |
-| 2024-04-03 | $3,300.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576520) |
-| 2024-04-03 | $150.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576523) |
-| 2024-04-03 | $150.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576525) |
-| 2024-04-03 | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576529) |
-| 2024-04-03 | $500.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576531) |
-| 2024-04-03 | $36.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576545) |
-| 2024-04-03 | $500.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576548) |
-| 2024-04-03 | $500.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576549) |
-| 2024-04-03 | $500.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576550) |
-| 2024-04-03 | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576553) |
-| 2024-04-03 | $150.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576555) |
-| 2024-04-03 | $50.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576564) |
-| 2024-04-03 | $100.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576564) |
-| 2024-04-03 | $150.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576569) |
-| 2024-04-03 | $500.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576571) |
-| 2024-04-03 | $25.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576574) |
-| 2024-04-03 | $50.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576575) |
-| 2024-04-03 | $100.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576576) |
-| 2024-04-03 | $50.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576578) |
-| 2024-04-03 | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576581) |
-| 2024-04-03 | $100.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576584) |
-| 2024-04-03 | $25.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576584) |
-| 2024-04-03 | $150.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576586) |
-| 2024-04-03 | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576586) |
-| 2024-04-03 | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576594) |
-| 2024-04-03 | $50.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576596) |
-| 2024-04-03 | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576599) |
-| 2024-04-03 | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576602) |
-| 2024-04-03 | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576603) |
-| 2024-04-03 | $25.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576604) |
-| 2024-04-03 | $500.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576604) |
-| 2024-04-03 | $10.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576604) |
-| 2024-04-03 | $50.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576607) |
-| 2024-04-03 | $50.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576608) |
-| 2024-04-03 | $500.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576608) |
-| 2024-04-03 | $50.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576611) |
-| 2024-04-03 | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576612) |
-| 2024-04-03 | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576614) |
-| 2024-04-03 | $50.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576615) |
-| 2024-04-03 | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576616) |
-| 2024-04-03 | $150.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576627) |
-| 2024-04-03 | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576628) |
-| 2024-04-03 | $50.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576628) |
-| 2024-04-03 | $150.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576629) |
-| 2024-04-03 | $150.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576630) |
-| 2024-04-03 | $150.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576634) |
-| 2024-04-03 | $90.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576635) |
-| 2024-04-03 | $25.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576642) |
-| 2024-04-03 | $150.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576647) |
-| 2024-04-03 | $500.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576647) |
-| 2024-04-03 | $100.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576651) |
-| 2024-04-03 | $100.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576651) |
-| 2024-04-03 | $2,000.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576652) |
-| 2024-04-03 | $150.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576653) |
-| 2024-04-03 | $100.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576655) |
-| 2024-04-03 | $25.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576656) |
-| 2024-04-03 | $100.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576656) |
-| 2024-04-03 | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576658) |
-| 2024-04-03 | $150.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576664) |
-| 2024-04-03 | $25.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576665) |
-| 2024-04-03 | $15.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576666) |
-| 2024-04-03 | $100.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576668) |
-| 2024-04-03 | $150.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576691) |
-| 2024-04-03 | $100.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576693) |
-| 2024-04-03 | $25.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576693) |
-| 2024-04-03 | $100.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576694) |
-| 2024-04-03 | $10.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576696) |
-| 2024-04-03 | $50.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576700) |
-| 2024-04-03 | $1,000.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576701) |
-| 2024-04-03 | $500.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576709) |
-| 2024-04-03 | $100.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576709) |
-| 2024-04-03 | $1,000.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576711) |
-| 2024-04-03 | $50.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576713) |
-| 2024-04-03 | $150.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576724) |
-| 2024-04-03 | $100.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576725) |
-| 2024-04-03 | $100.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576727) |
-| 2024-04-03 | $100.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576731) |
-| 2024-04-03 | $150.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576732) |
-| 2024-04-03 | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576734) |
-| 2024-04-03 | $100.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576737) |
-| 2024-04-03 | $50.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576740) |
-| 2024-04-03 | $150.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576741) |
-| 2024-04-03 | $100.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576744) |
-| 2024-04-03 | $500.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576745) |
-| 2024-04-03 | $150.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576752) |
-| 2024-04-03 | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576757) |
-| 2024-04-03 | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576757) |
-| 2024-04-03 | $108.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576761) |
-| 2024-04-03 | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576762) |
-| 2024-04-03 | $500.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576763) |
-| 2024-04-03 | $25.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576764) |
-| 2024-04-03 | $150.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576765) |
-| 2024-04-03 | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576769) |
-| 2024-04-03 | $25.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576772) |
-| 2024-04-03 | $5.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576774) |
-| 2024-04-03 | $90.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576776) |
-| 2024-04-03 | $100.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576778) |
-| 2024-04-03 | $54.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576785) |
-| 2024-04-03 | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576789) |
-| 2024-04-03 | $50.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576789) |
-| 2024-04-03 | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576792) |
-| 2024-04-03 | $100.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576794) |
-| 2024-04-03 | $100.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576795) |
-| 2024-04-03 | $750.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576806) |
-| 2024-04-03 | $100.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576809) |
-| 2024-04-03 | $20.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576810) |
-| 2024-04-03 | $150.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576823) |
-| 2024-04-03 | $150.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576825) |
-| 2024-04-03 | $150.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576826) |
-| 2024-04-03 | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576826) |
-| 2024-04-03 | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576827) |
-| 2024-04-03 | $25.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576834) |
-| 2024-04-03 | $25.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576837) |
-| 2024-04-03 | $1,000.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576839) |
-| 2024-04-03 | $1,000.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576841) |
-| 2024-04-03 | $50.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576846) |
-| 2024-04-03 | $50.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576846) |
-| 2024-04-03 | $150.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576847) |
-| 2024-04-03 | $150.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576849) |
-| 2024-04-03 | $150.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576852) |
-| 2024-04-03 | $100.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576858) |
-| 2024-04-03 | $500.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576861) |
-| 2024-04-03 | $25.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576865) |
-| 2024-04-03 | $500.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576868) |
-| 2024-04-03 | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576868) |
-| 2024-04-03 | $5.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576870) |
-| 2024-04-03 | $25.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576879) |
-| 2024-04-03 | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576883) |
-| 2024-04-03 | $100.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576885) |
-| 2024-04-03 | $100.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576887) |
-| 2024-04-03 | $1,000.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576893) |
-| 2024-04-03 | $36.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576894) |
-| 2024-04-03 | $150.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576894) |
-| 2024-04-03 | $40.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576899) |
-| 2024-04-03 | $5.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576900) |
-| 2024-04-03 | $2,500.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576900) |
-| 2024-04-03 | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576902) |
-| 2024-04-03 | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576904) |
-| 2024-04-03 | $72.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576907) |
-| 2024-04-03 | $50.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576911) |
-| 2024-04-03 | $1,000.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576914) |
-| 2024-04-03 | $150.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576916) |
-| 2024-04-03 | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576917) |
-| 2024-04-03 | $150.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576918) |
-| 2024-04-03 | $1,000.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576923) |
-| 2024-04-03 | $150.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576926) |
-| 2024-04-03 | $500.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576927) |
-| 2024-04-03 | $125.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576928) |
-| 2024-04-03 | $100.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576935) |
-| 2024-04-03 | $1,000.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576936) |
-| 2024-04-03 | $100.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576936) |
-| 2024-04-03 | $150.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576937) |
-| 2024-04-03 | $100.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576947) |
-| 2024-04-03 | $125.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576947) |
-| 2024-04-03 | $150.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576954) |
-| 2024-04-03 | $25.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576956) |
-| 2024-04-03 | $500.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576958) |
-| 2024-04-03 | $125.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576962) |
-| 2024-04-03 | $35.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576963) |
-| 2024-04-03 | $150.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576968) |
-| 2024-04-03 | $100.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576974) |
-| 2024-04-03 | $100.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576977) |
-| 2024-04-03 | $150.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576978) |
-| 2024-04-03 | $20.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576978) |
-| 2024-04-03 | $50.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576980) |
-| 2024-04-03 | $1,000.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576981) |
-| 2024-04-03 | $50.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576985) |
-| 2024-04-03 | $50.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576988) |
-| 2024-04-03 | $150.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576990) |
-| 2024-04-03 | $500.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576997) |
-| 2024-04-03 | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576999) |
-| 2024-04-03 | $125.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648577001) |
-| 2024-04-03 | $500.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648577009) |
-| 2024-04-03 | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648577012) |
-| 2024-04-03 | $150.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648577013) |
-| 2024-04-03 | $50.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648577018) |
-| 2024-04-03 | $20.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648577022) |
-| 2024-04-03 | $150.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648577027) |
-| 2024-04-03 | $1,000.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648577028) |
-| 2024-04-03 | $150.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648577037) |
-| 2024-04-03 | $150.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648577045) |
-| 2024-04-03 | $150.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648577048) |
-| 2024-04-03 | $10.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648577049) |
-| 2024-04-03 | $150.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648577050) |
-| 2024-04-03 | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648577055) |
-| 2024-04-03 | $500.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648577056) |
-| 2024-04-03 | $36.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648577057) |
-| 2024-04-03 | $50.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648577062) |
-| 2024-04-03 | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648577062) |
-| 2024-04-03 | $150.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648577063) |
-| 2024-04-03 | $150.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648577064) |
-| 2024-04-03 | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648577065) |
-| 2024-04-03 | $50.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648577068) |
-| 2024-04-03 | $150.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648577069) |
-| 2024-04-03 | $15.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648577071) |
-| 2024-04-03 | $100.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648577074) |
-| 2024-04-03 | $500.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648577074) |
-| 2024-04-03 | $25.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648577075) |
-| 2024-04-03 | $50.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648577079) |
-| 2024-04-03 | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648577081) |
-| 2024-04-03 | $1,000.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648577082) |
-| 2024-04-03 | $25.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648577090) |
-| 2024-04-03 | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648577092) |
-| 2024-04-03 | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648577094) |
-| 2024-04-03 | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648577095) |
-| 2024-04-03 | $150.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648577095) |
-| 2024-04-03 | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648577104) |
-| 2024-04-03 | $5.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648577106) |
-| 2024-04-03 | $1,000.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648577107) |
-| 2024-04-03 | $50.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648577109) |
-| 2024-04-03 | $50.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648577118) |
-| 2024-04-10 | $500.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576107) |
-| 2024-04-10 | $1,000.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576110) |
-| 2024-04-10 | $500.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576115) |
-| 2024-04-10 | $1,000.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576117) |
-| 2024-04-10 | $1,000.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576122) |
-| 2024-04-10 | $20.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576126) |
-| 2024-04-10 | $500.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576133) |
-| 2024-04-10 | $100.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576147) |
-| 2024-04-10 | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576162) |
-| 2024-04-10 | $1,000.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576170) |
-| 2024-04-10 | $500.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576186) |
-| 2024-04-10 | $50.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576190) |
-| 2024-04-10 | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576191) |
-| 2024-04-10 | $54.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576200) |
-| 2024-04-10 | $10.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576201) |
-| 2024-04-10 | $100.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576204) |
-| 2024-04-10 | $500.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576215) |
-| 2024-04-10 | $3,300.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576220) |
-| 2024-04-10 | $100.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576241) |
-| 2024-04-10 | $50.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576248) |
-| 2024-04-10 | $15.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576256) |
-| 2024-04-10 | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576291) |
-| 2024-04-10 | $1,200.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576320) |
-| 2024-04-10 | $1,000.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576322) |
-| 2024-04-10 | $100.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576338) |
-| 2024-04-10 | $100.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576346) |
-| 2024-04-10 | $150.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576363) |
-| 2024-04-10 | $500.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576380) |
-| 2024-04-10 | $54.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576405) |
-| 2024-04-10 | $500.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576439) |
-| 2024-04-10 | $2,000.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576459) |
-| 2024-04-10 | $100.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576468) |
-| 2024-04-10 | $750.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576471) |
-| 2024-04-10 | $1,000.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576474) |
-| 2024-04-10 | $500.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576486) |
-| 2024-04-10 | $500.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576487) |
-| 2024-04-10 | $500.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576489) |
-| 2024-04-10 | $1,000.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576490) |
-| 2024-04-10 | $150.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576494) |
-| 2024-04-10 | $450.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576502) |
-| 2024-04-10 | $6,600.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576506) |
-| 2024-04-10 | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576516) |
-| 2024-04-10 | $150.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576517) |
-| 2024-04-10 | $150.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576523) |
-| 2024-04-10 | $500.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576541) |
-| 2024-04-10 | -$750.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576543) |
-| 2024-04-10 | $1,000.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576544) |
-| 2024-04-10 | $500.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576551) |
-| 2024-04-10 | $1,000.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576562) |
-| 2024-04-10 | $100.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576582) |
-| 2024-04-10 | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576591) |
-| 2024-04-10 | $1,000.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576615) |
-| 2024-04-10 | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576632) |
-| 2024-04-10 | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576641) |
-| 2024-04-10 | $3,300.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576647) |
-| 2024-04-10 | $50.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576653) |
-| 2024-04-10 | $25.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576660) |
-| 2024-04-10 | $1,000.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576667) |
-| 2024-04-10 | $1,000.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576683) |
-| 2024-04-10 | $500.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576686) |
-| 2024-04-10 | $150.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576701) |
-| 2024-04-10 | $1,000.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576713) |
-| 2024-04-10 | $180.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576714) |
-| 2024-04-10 | $2,000.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576717) |
-| 2024-04-10 | $50.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576726) |
-| 2024-04-10 | $1,000.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576730) |
-| 2024-04-10 | $1,000.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576740) |
-| 2024-04-10 | $100.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576764) |
-| 2024-04-10 | $500.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576775) |
-| 2024-04-10 | $100.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576786) |
-| 2024-04-10 | $1,000.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576787) |
-| 2024-04-10 | $1,500.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576793) |
-| 2024-04-10 | $500.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576794) |
-| 2024-04-10 | $100.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576805) |
-| 2024-04-10 | $500.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576815) |
-| 2024-04-10 | $1,000.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576823) |
-| 2024-04-10 | $150.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576830) |
-| 2024-04-10 | $1,000.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576836) |
-| 2024-04-10 | $1,000.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576840) |
-| 2024-04-10 | $500.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576886) |
-| 2024-04-10 | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576895) |
-| 2024-04-10 | $150.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576905) |
-| 2024-04-10 | $1,000.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576908) |
-| 2024-04-10 | $1,000.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576910) |
-| 2024-04-10 | $500.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576919) |
-| 2024-04-10 | $100.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576925) |
-| 2024-04-10 | $36.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576930) |
-| 2024-04-10 | $100.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576931) |
-| 2024-04-10 | $1,500.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576937) |
-| 2024-04-10 | $18.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576940) |
-| 2024-04-10 | $1,000.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576946) |
-| 2024-04-10 | $2,000.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576974) |
-| 2024-04-10 | $1,000.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576983) |
-| 2024-04-10 | $3,300.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648577004) |
-| 2024-04-10 | $25.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648577032) |
-| 2024-04-10 | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648577038) |
-| 2024-04-10 | $1,000.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648577041) |
-| 2024-04-10 | $1,000.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648577059) |
-| 2024-04-10 | $500.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648577070) |
-| 2024-04-10 | $150.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648577079) |
-| 2024-04-10 | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648577101) |
-| 2024-04-10 | $500.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648577118) |
-| 2024-04-12 | $5,000.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576630) |
-| 2024-04-17 | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576108) |
-| 2024-04-17 | $1,000.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576123) |
-| 2024-04-17 | $750.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576136) |
-| 2024-04-17 | $1,000.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576156) |
-| 2024-04-17 | $500.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576165) |
-| 2024-04-17 | $500.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576227) |
-| 2024-04-17 | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576228) |
-| 2024-04-17 | $50.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576278) |
-| 2024-04-17 | $72.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576294) |
-| 2024-04-17 | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576305) |
-| 2024-04-17 | $500.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576329) |
-| 2024-04-17 | $50.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576330) |
-| 2024-04-17 | $500.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576362) |
-| 2024-04-17 | $30.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576385) |
-| 2024-04-17 | $500.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576402) |
-| 2024-04-17 | $1,000.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576425) |
-| 2024-04-17 | $1,000.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576429) |
-| 2024-04-17 | $2,000.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576430) |
-| 2024-04-17 | $2,000.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576472) |
-| 2024-04-17 | $100.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576475) |
-| 2024-04-17 | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576496) |
-| 2024-04-17 | $500.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576504) |
-| 2024-04-17 | $3,300.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576507) |
-| 2024-04-17 | $500.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576517) |
-| 2024-04-17 | $5,000.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576563) |
-| 2024-04-17 | $1,000.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576565) |
-| 2024-04-17 | $1,500.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576590) |
-| 2024-04-17 | $1,000.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576593) |
-| 2024-04-17 | $1,000.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576607) |
-| 2024-04-17 | $50.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576637) |
-| 2024-04-17 | $2,000.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576652) |
-| 2024-04-17 | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576660) |
-| 2024-04-17 | $3,300.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576671) |
-| 2024-04-17 | $5,000.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576673) |
-| 2024-04-17 | $1,000.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576691) |
-| 2024-04-17 | $1,000.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576718) |
-| 2024-04-17 | $1,000.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576737) |
-| 2024-04-17 | $500.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576740) |
-| 2024-04-17 | $1,000.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576773) |
-| 2024-04-17 | $1,000.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576774) |
-| 2024-04-17 | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576799) |
-| 2024-04-17 | $1,000.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576833) |
-| 2024-04-17 | $500.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576853) |
-| 2024-04-17 | $1,000.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576867) |
-| 2024-04-17 | $25.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576880) |
-| 2024-04-17 | $150.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576892) |
-| 2024-04-17 | $3,300.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576912) |
-| 2024-04-17 | $200.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576939) |
-| 2024-04-17 | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576952) |
-| 2024-04-17 | $1,000.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576967) |
-| 2024-04-17 | $18.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648577020) |
-| 2024-04-17 | $2,400.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648577036) |
-| 2024-04-17 | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648577038) |
-| 2024-04-17 | $100.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648577060) |
-| 2024-04-17 | $500.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648577089) |
-| 2024-04-17 | $500.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648577097) |
-| 2024-04-17 | $1,000.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648577104) |
-| 2024-04-19 | $1,000.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576125) |
-| 2024-04-19 | $1,500.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576176) |
-| 2024-04-19 | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576208) |
-| 2024-04-19 | $1,000.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576243) |
-| 2024-04-19 | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576365) |
-| 2024-04-19 | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576398) |
-| 2024-04-24 | $36.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576115) |
-| 2024-04-24 | $1,000.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576153) |
-| 2024-04-24 | $3,300.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576161) |
-| 2024-04-24 | $1,000.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576174) |
-| 2024-04-24 | $100.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576211) |
-| 2024-04-24 | $1,500.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576270) |
-| 2024-04-24 | $1,000.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576293) |
-| 2024-04-24 | $500.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576296) |
-| 2024-04-24 | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576304) |
-| 2024-04-24 | $500.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576324) |
-| 2024-04-24 | $500.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576339) |
-| 2024-04-24 | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576347) |
-| 2024-04-24 | $180.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576352) |
-| 2024-04-24 | $1,800.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576352) |
-| 2024-04-24 | $300.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576361) |
-| 2024-04-24 | $100.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576371) |
-| 2024-04-24 | $1,250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576395) |
-| 2024-04-24 | $1,000.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576405) |
-| 2024-04-24 | $500.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576456) |
-| 2024-04-24 | $18.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576471) |
-| 2024-04-24 | $3,000.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576496) |
-| 2024-04-24 | $1,500.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576499) |
-| 2024-04-24 | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576502) |
-| 2024-04-24 | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576507) |
-| 2024-04-24 | $1,500.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576514) |
-| 2024-04-24 | $3,300.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576518) |
-| 2024-04-24 | $500.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576545) |
-| 2024-04-24 | $1,000.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576572) |
-| 2024-04-24 | $1,500.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576618) |
-| 2024-04-24 | $1,500.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576622) |
-| 2024-04-24 | $750.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576636) |
-| 2024-04-24 | $1,000.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576645) |
-| 2024-04-24 | $500.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576657) |
-| 2024-04-24 | $100.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576661) |
-| 2024-04-24 | $1,800.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576666) |
-| 2024-04-24 | $500.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576692) |
-| 2024-04-24 | $50.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576749) |
-| 2024-04-24 | $2,000.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576764) |
-| 2024-04-24 | $90.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576768) |
-| 2024-04-24 | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576779) |
-| 2024-04-24 | $100.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576783) |
-| 2024-04-24 | $1,500.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576788) |
-| 2024-04-24 | $100.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576802) |
-| 2024-04-24 | $500.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576838) |
-| 2024-04-24 | $2,500.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576860) |
-| 2024-04-24 | $272.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576873) |
-| 2024-04-24 | $100.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576892) |
-| 2024-04-24 | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576954) |
-| 2024-04-24 | $1,000.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576992) |
-| 2024-04-24 | $100.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576993) |
-| 2024-04-24 | $3,300.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576996) |
-| 2024-04-24 | $6,600.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648577001) |
-| 2024-04-24 | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648577008) |
-| 2024-04-24 | $25.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648577021) |
-| 2024-04-24 | $1,000.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648577031) |
-| 2024-04-24 | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648577033) |
-| 2024-04-24 | $500.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648577052) |
-| 2024-04-24 | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648577074) |
-| 2024-04-24 | $100.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648577077) |
-| 2024-04-24 | $1,000.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648577087) |
-| 2024-04-24 | $2,000.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648577088) |
-| 2024-04-24 | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648577093) |
-| 2024-04-24 | $2,000.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648577098) |
-| 2024-04-26 | $1,000.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576836) |
+| Date | Date basis | Source committee | Amount | Transaction type | Recipient committee / payee | Election | FEC filing |
+| --- | --- | --- | ---: | --- | --- | --- | --- |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $500.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576104) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $100.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576105) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $25.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576108) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576122) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $25.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576125) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $10.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576129) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576131) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $100.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576133) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $18.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576137) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $100.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576140) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $50.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576144) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $500.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576144) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $1,000.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576145) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576148) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $50.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576149) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $150.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576151) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576155) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $200.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576158) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $150.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576159) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $150.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576159) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $150.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576163) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $50.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576166) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $50.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576167) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $150.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576167) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $100.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576173) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $500.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576177) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $500.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576177) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $50.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576179) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576187) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $50.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576203) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $25.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576204) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $150.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576207) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576215) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $50.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576215) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $100.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576219) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $150.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576221) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $25.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576222) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $100.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576222) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576223) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $150.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576223) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $1,000.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576225) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $750.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576225) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $150.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576229) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576229) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $50.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576237) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $80.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576239) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576243) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $25.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576253) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $26.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576254) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $25.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576257) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $150.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576258) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $100.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576260) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $50.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576263) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $25.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576264) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $50.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576265) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $9.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576267) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $500.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576274) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576275) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $100.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576276) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $50.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576277) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $3,300.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576278) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $1,000.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576284) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $150.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576286) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $50.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576289) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $100.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576294) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576298) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $75.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576300) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576301) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $150.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576307) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $200.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576309) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $500.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576309) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $150.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576318) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $25.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576322) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576327) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576333) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $50.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576336) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $25.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576339) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576340) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $180.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576341) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576343) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $25.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576356) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $100.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576359) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $100.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576359) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $500.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576360) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $150.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576361) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $50.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576363) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $500.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576373) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576375) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $300.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576377) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $500.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576377) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $150.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576379) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576380) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $10.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576388) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $150.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576389) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $150.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576389) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $36.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576390) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $150.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576391) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576391) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $50.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576397) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $50.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576407) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $150.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576408) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $50.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576415) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $100.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576416) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | -$500.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576416) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $100.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576420) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $50.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576421) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $50.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576422) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $150.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576424) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $180.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576427) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $150.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576435) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $150.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576436) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $100.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576442) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576446) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $500.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576447) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $100.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576447) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $25.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576454) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $100.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576455) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576455) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576462) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $180.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576465) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $500.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576470) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $150.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576474) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $2,000.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576475) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576476) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $100.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576476) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576477) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $150.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576479) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $100.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576480) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $10.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576482) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $150.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576488) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576495) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $100.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576497) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $18.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576498) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $100.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576500) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $10.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576504) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $150.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576510) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $18.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576514) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $500.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576515) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $150.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576517) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $100.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576518) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $100.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576520) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $150.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576520) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $3,300.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576520) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $150.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576523) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $150.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576525) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576529) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $500.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576531) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $36.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576545) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $500.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576548) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $500.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576549) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $500.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576550) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576553) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $150.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576555) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $50.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576564) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $100.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576564) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $150.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576569) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $500.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576571) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $25.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576574) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $50.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576575) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $100.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576576) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $50.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576578) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576581) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $100.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576584) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $25.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576584) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $150.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576586) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576586) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576594) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $50.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576596) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576599) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576602) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576603) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $25.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576604) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $500.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576604) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $10.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576604) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $50.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576607) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $50.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576608) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $500.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576608) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $50.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576611) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576612) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576614) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $50.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576615) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576616) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $150.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576627) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576628) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $50.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576628) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $150.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576629) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $150.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576630) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $150.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576634) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $90.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576635) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $25.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576642) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $150.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576647) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $500.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576647) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $100.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576651) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $100.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576651) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $2,000.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576652) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $150.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576653) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $100.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576655) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $25.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576656) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $100.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576656) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576658) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $150.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576664) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $25.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576665) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $15.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576666) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $100.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576668) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $150.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576691) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $100.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576693) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $25.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576693) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $100.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576694) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $10.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576696) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $50.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576700) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $1,000.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576701) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $500.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576709) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $100.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576709) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $1,000.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576711) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $50.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576713) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $150.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576724) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $100.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576725) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $100.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576727) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $100.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576731) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $150.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576732) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576734) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $100.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576737) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $50.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576740) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $150.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576741) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $100.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576744) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $500.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576745) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $150.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576752) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576757) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576757) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $108.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576761) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576762) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $500.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576763) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $25.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576764) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $150.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576765) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576769) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $25.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576772) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $5.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576774) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $90.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576776) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $100.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576778) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $54.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576785) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576789) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $50.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576789) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576792) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $100.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576794) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $100.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576795) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $750.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576806) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $100.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576809) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $20.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576810) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $150.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576823) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $150.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576825) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $150.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576826) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576826) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576827) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $25.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576834) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $25.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576837) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $1,000.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576839) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $1,000.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576841) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $50.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576846) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $50.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576846) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $150.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576847) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $150.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576849) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $150.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576852) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $100.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576858) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $500.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576861) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $25.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576865) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $500.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576868) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576868) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $5.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576870) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $25.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576879) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576883) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $100.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576885) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $100.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576887) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $1,000.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576893) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $36.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576894) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $150.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576894) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $40.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576899) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $5.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576900) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $2,500.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576900) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576902) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576904) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $72.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576907) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $50.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576911) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $1,000.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576914) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $150.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576916) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576917) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $150.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576918) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $1,000.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576923) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $150.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576926) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $500.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576927) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $125.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576928) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $100.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576935) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $1,000.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576936) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $100.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576936) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $150.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576937) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $100.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576947) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $125.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576947) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $150.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576954) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $25.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576956) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $500.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576958) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $125.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576962) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $35.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576963) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $150.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576968) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $100.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576974) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $100.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576977) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $150.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576978) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $20.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576978) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $50.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576980) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $1,000.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576981) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $50.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576985) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $50.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576988) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $150.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576990) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $500.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576997) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576999) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $125.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648577001) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $500.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648577009) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648577012) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $150.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648577013) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $50.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648577018) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $20.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648577022) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $150.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648577027) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $1,000.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648577028) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $150.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648577037) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $150.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648577045) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $150.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648577048) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $10.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648577049) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $150.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648577050) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648577055) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $500.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648577056) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $36.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648577057) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $50.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648577062) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648577062) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $150.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648577063) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $150.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648577064) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648577065) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $50.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648577068) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $150.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648577069) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $15.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648577071) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $100.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648577074) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $500.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648577074) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $25.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648577075) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $50.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648577079) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648577081) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $1,000.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648577082) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $25.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648577090) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648577092) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648577094) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648577095) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $150.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648577095) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648577104) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $5.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648577106) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $1,000.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648577107) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $50.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648577109) |
+| 2024-04-03 | transaction date | American Israel Public Affairs Committee Political Action Committee | $50.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648577118) |
+| 2024-04-10 | transaction date | American Israel Public Affairs Committee Political Action Committee | $500.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576107) |
+| 2024-04-10 | transaction date | American Israel Public Affairs Committee Political Action Committee | $1,000.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576110) |
+| 2024-04-10 | transaction date | American Israel Public Affairs Committee Political Action Committee | $500.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576115) |
+| 2024-04-10 | transaction date | American Israel Public Affairs Committee Political Action Committee | $1,000.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576117) |
+| 2024-04-10 | transaction date | American Israel Public Affairs Committee Political Action Committee | $1,000.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576122) |
+| 2024-04-10 | transaction date | American Israel Public Affairs Committee Political Action Committee | $20.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576126) |
+| 2024-04-10 | transaction date | American Israel Public Affairs Committee Political Action Committee | $500.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576133) |
+| 2024-04-10 | transaction date | American Israel Public Affairs Committee Political Action Committee | $100.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576147) |
+| 2024-04-10 | transaction date | American Israel Public Affairs Committee Political Action Committee | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576162) |
+| 2024-04-10 | transaction date | American Israel Public Affairs Committee Political Action Committee | $1,000.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576170) |
+| 2024-04-10 | transaction date | American Israel Public Affairs Committee Political Action Committee | $500.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576186) |
+| 2024-04-10 | transaction date | American Israel Public Affairs Committee Political Action Committee | $50.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576190) |
+| 2024-04-10 | transaction date | American Israel Public Affairs Committee Political Action Committee | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576191) |
+| 2024-04-10 | transaction date | American Israel Public Affairs Committee Political Action Committee | $54.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576200) |
+| 2024-04-10 | transaction date | American Israel Public Affairs Committee Political Action Committee | $10.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576201) |
+| 2024-04-10 | transaction date | American Israel Public Affairs Committee Political Action Committee | $100.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576204) |
+| 2024-04-10 | transaction date | American Israel Public Affairs Committee Political Action Committee | $500.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576215) |
+| 2024-04-10 | transaction date | American Israel Public Affairs Committee Political Action Committee | $3,300.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576220) |
+| 2024-04-10 | transaction date | American Israel Public Affairs Committee Political Action Committee | $100.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576241) |
+| 2024-04-10 | transaction date | American Israel Public Affairs Committee Political Action Committee | $50.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576248) |
+| 2024-04-10 | transaction date | American Israel Public Affairs Committee Political Action Committee | $15.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576256) |
+| 2024-04-10 | transaction date | American Israel Public Affairs Committee Political Action Committee | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576291) |
+| 2024-04-10 | transaction date | American Israel Public Affairs Committee Political Action Committee | $1,200.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576320) |
+| 2024-04-10 | transaction date | American Israel Public Affairs Committee Political Action Committee | $1,000.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576322) |
+| 2024-04-10 | transaction date | American Israel Public Affairs Committee Political Action Committee | $100.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576338) |
+| 2024-04-10 | transaction date | American Israel Public Affairs Committee Political Action Committee | $100.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576346) |
+| 2024-04-10 | transaction date | American Israel Public Affairs Committee Political Action Committee | $150.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576363) |
+| 2024-04-10 | transaction date | American Israel Public Affairs Committee Political Action Committee | $500.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576380) |
+| 2024-04-10 | transaction date | American Israel Public Affairs Committee Political Action Committee | $54.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576405) |
+| 2024-04-10 | transaction date | American Israel Public Affairs Committee Political Action Committee | $500.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576439) |
+| 2024-04-10 | transaction date | American Israel Public Affairs Committee Political Action Committee | $2,000.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576459) |
+| 2024-04-10 | transaction date | American Israel Public Affairs Committee Political Action Committee | $100.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576468) |
+| 2024-04-10 | transaction date | American Israel Public Affairs Committee Political Action Committee | $750.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576471) |
+| 2024-04-10 | transaction date | American Israel Public Affairs Committee Political Action Committee | $1,000.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576474) |
+| 2024-04-10 | transaction date | American Israel Public Affairs Committee Political Action Committee | $500.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576486) |
+| 2024-04-10 | transaction date | American Israel Public Affairs Committee Political Action Committee | $500.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576487) |
+| 2024-04-10 | transaction date | American Israel Public Affairs Committee Political Action Committee | $500.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576489) |
+| 2024-04-10 | transaction date | American Israel Public Affairs Committee Political Action Committee | $1,000.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576490) |
+| 2024-04-10 | transaction date | American Israel Public Affairs Committee Political Action Committee | $150.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576494) |
+| 2024-04-10 | transaction date | American Israel Public Affairs Committee Political Action Committee | $450.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576502) |
+| 2024-04-10 | transaction date | American Israel Public Affairs Committee Political Action Committee | $6,600.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576506) |
+| 2024-04-10 | transaction date | American Israel Public Affairs Committee Political Action Committee | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576516) |
+| 2024-04-10 | transaction date | American Israel Public Affairs Committee Political Action Committee | $150.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576517) |
+| 2024-04-10 | transaction date | American Israel Public Affairs Committee Political Action Committee | $150.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576523) |
+| 2024-04-10 | transaction date | American Israel Public Affairs Committee Political Action Committee | $500.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576541) |
+| 2024-04-10 | transaction date | American Israel Public Affairs Committee Political Action Committee | -$750.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576543) |
+| 2024-04-10 | transaction date | American Israel Public Affairs Committee Political Action Committee | $1,000.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576544) |
+| 2024-04-10 | transaction date | American Israel Public Affairs Committee Political Action Committee | $500.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576551) |
+| 2024-04-10 | transaction date | American Israel Public Affairs Committee Political Action Committee | $1,000.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576562) |
+| 2024-04-10 | transaction date | American Israel Public Affairs Committee Political Action Committee | $100.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576582) |
+| 2024-04-10 | transaction date | American Israel Public Affairs Committee Political Action Committee | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576591) |
+| 2024-04-10 | transaction date | American Israel Public Affairs Committee Political Action Committee | $1,000.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576615) |
+| 2024-04-10 | transaction date | American Israel Public Affairs Committee Political Action Committee | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576632) |
+| 2024-04-10 | transaction date | American Israel Public Affairs Committee Political Action Committee | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576641) |
+| 2024-04-10 | transaction date | American Israel Public Affairs Committee Political Action Committee | $3,300.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576647) |
+| 2024-04-10 | transaction date | American Israel Public Affairs Committee Political Action Committee | $50.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576653) |
+| 2024-04-10 | transaction date | American Israel Public Affairs Committee Political Action Committee | $25.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576660) |
+| 2024-04-10 | transaction date | American Israel Public Affairs Committee Political Action Committee | $1,000.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576667) |
+| 2024-04-10 | transaction date | American Israel Public Affairs Committee Political Action Committee | $1,000.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576683) |
+| 2024-04-10 | transaction date | American Israel Public Affairs Committee Political Action Committee | $500.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576686) |
+| 2024-04-10 | transaction date | American Israel Public Affairs Committee Political Action Committee | $150.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576701) |
+| 2024-04-10 | transaction date | American Israel Public Affairs Committee Political Action Committee | $1,000.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576713) |
+| 2024-04-10 | transaction date | American Israel Public Affairs Committee Political Action Committee | $180.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576714) |
+| 2024-04-10 | transaction date | American Israel Public Affairs Committee Political Action Committee | $2,000.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576717) |
+| 2024-04-10 | transaction date | American Israel Public Affairs Committee Political Action Committee | $50.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576726) |
+| 2024-04-10 | transaction date | American Israel Public Affairs Committee Political Action Committee | $1,000.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576730) |
+| 2024-04-10 | transaction date | American Israel Public Affairs Committee Political Action Committee | $1,000.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576740) |
+| 2024-04-10 | transaction date | American Israel Public Affairs Committee Political Action Committee | $100.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576764) |
+| 2024-04-10 | transaction date | American Israel Public Affairs Committee Political Action Committee | $500.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576775) |
+| 2024-04-10 | transaction date | American Israel Public Affairs Committee Political Action Committee | $100.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576786) |
+| 2024-04-10 | transaction date | American Israel Public Affairs Committee Political Action Committee | $1,000.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576787) |
+| 2024-04-10 | transaction date | American Israel Public Affairs Committee Political Action Committee | $1,500.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576793) |
+| 2024-04-10 | transaction date | American Israel Public Affairs Committee Political Action Committee | $500.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576794) |
+| 2024-04-10 | transaction date | American Israel Public Affairs Committee Political Action Committee | $100.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576805) |
+| 2024-04-10 | transaction date | American Israel Public Affairs Committee Political Action Committee | $500.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576815) |
+| 2024-04-10 | transaction date | American Israel Public Affairs Committee Political Action Committee | $1,000.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576823) |
+| 2024-04-10 | transaction date | American Israel Public Affairs Committee Political Action Committee | $150.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576830) |
+| 2024-04-10 | transaction date | American Israel Public Affairs Committee Political Action Committee | $1,000.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576836) |
+| 2024-04-10 | transaction date | American Israel Public Affairs Committee Political Action Committee | $1,000.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576840) |
+| 2024-04-10 | transaction date | American Israel Public Affairs Committee Political Action Committee | $500.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576886) |
+| 2024-04-10 | transaction date | American Israel Public Affairs Committee Political Action Committee | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576895) |
+| 2024-04-10 | transaction date | American Israel Public Affairs Committee Political Action Committee | $150.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576905) |
+| 2024-04-10 | transaction date | American Israel Public Affairs Committee Political Action Committee | $1,000.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576908) |
+| 2024-04-10 | transaction date | American Israel Public Affairs Committee Political Action Committee | $1,000.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576910) |
+| 2024-04-10 | transaction date | American Israel Public Affairs Committee Political Action Committee | $500.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576919) |
+| 2024-04-10 | transaction date | American Israel Public Affairs Committee Political Action Committee | $100.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576925) |
+| 2024-04-10 | transaction date | American Israel Public Affairs Committee Political Action Committee | $36.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576930) |
+| 2024-04-10 | transaction date | American Israel Public Affairs Committee Political Action Committee | $100.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576931) |
+| 2024-04-10 | transaction date | American Israel Public Affairs Committee Political Action Committee | $1,500.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576937) |
+| 2024-04-10 | transaction date | American Israel Public Affairs Committee Political Action Committee | $18.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576940) |
+| 2024-04-10 | transaction date | American Israel Public Affairs Committee Political Action Committee | $1,000.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576946) |
+| 2024-04-10 | transaction date | American Israel Public Affairs Committee Political Action Committee | $2,000.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576974) |
+| 2024-04-10 | transaction date | American Israel Public Affairs Committee Political Action Committee | $1,000.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576983) |
+| 2024-04-10 | transaction date | American Israel Public Affairs Committee Political Action Committee | $3,300.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648577004) |
+| 2024-04-10 | transaction date | American Israel Public Affairs Committee Political Action Committee | $25.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648577032) |
+| 2024-04-10 | transaction date | American Israel Public Affairs Committee Political Action Committee | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648577038) |
+| 2024-04-10 | transaction date | American Israel Public Affairs Committee Political Action Committee | $1,000.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648577041) |
+| 2024-04-10 | transaction date | American Israel Public Affairs Committee Political Action Committee | $1,000.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648577059) |
+| 2024-04-10 | transaction date | American Israel Public Affairs Committee Political Action Committee | $500.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648577070) |
+| 2024-04-10 | transaction date | American Israel Public Affairs Committee Political Action Committee | $150.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648577079) |
+| 2024-04-10 | transaction date | American Israel Public Affairs Committee Political Action Committee | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648577101) |
+| 2024-04-10 | transaction date | American Israel Public Affairs Committee Political Action Committee | $500.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648577118) |
+| 2024-04-12 | transaction date | American Israel Public Affairs Committee Political Action Committee | $5,000.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576630) |
+| 2024-04-17 | transaction date | American Israel Public Affairs Committee Political Action Committee | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576108) |
+| 2024-04-17 | transaction date | American Israel Public Affairs Committee Political Action Committee | $1,000.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576123) |
+| 2024-04-17 | transaction date | American Israel Public Affairs Committee Political Action Committee | $750.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576136) |
+| 2024-04-17 | transaction date | American Israel Public Affairs Committee Political Action Committee | $1,000.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576156) |
+| 2024-04-17 | transaction date | American Israel Public Affairs Committee Political Action Committee | $500.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576165) |
+| 2024-04-17 | transaction date | American Israel Public Affairs Committee Political Action Committee | $500.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576227) |
+| 2024-04-17 | transaction date | American Israel Public Affairs Committee Political Action Committee | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576228) |
+| 2024-04-17 | transaction date | American Israel Public Affairs Committee Political Action Committee | $50.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576278) |
+| 2024-04-17 | transaction date | American Israel Public Affairs Committee Political Action Committee | $72.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576294) |
+| 2024-04-17 | transaction date | American Israel Public Affairs Committee Political Action Committee | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576305) |
+| 2024-04-17 | transaction date | American Israel Public Affairs Committee Political Action Committee | $500.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576329) |
+| 2024-04-17 | transaction date | American Israel Public Affairs Committee Political Action Committee | $50.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576330) |
+| 2024-04-17 | transaction date | American Israel Public Affairs Committee Political Action Committee | $500.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576362) |
+| 2024-04-17 | transaction date | American Israel Public Affairs Committee Political Action Committee | $30.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576385) |
+| 2024-04-17 | transaction date | American Israel Public Affairs Committee Political Action Committee | $500.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576402) |
+| 2024-04-17 | transaction date | American Israel Public Affairs Committee Political Action Committee | $1,000.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576425) |
+| 2024-04-17 | transaction date | American Israel Public Affairs Committee Political Action Committee | $1,000.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576429) |
+| 2024-04-17 | transaction date | American Israel Public Affairs Committee Political Action Committee | $2,000.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576430) |
+| 2024-04-17 | transaction date | American Israel Public Affairs Committee Political Action Committee | $2,000.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576472) |
+| 2024-04-17 | transaction date | American Israel Public Affairs Committee Political Action Committee | $100.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576475) |
+| 2024-04-17 | transaction date | American Israel Public Affairs Committee Political Action Committee | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576496) |
+| 2024-04-17 | transaction date | American Israel Public Affairs Committee Political Action Committee | $500.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576504) |
+| 2024-04-17 | transaction date | American Israel Public Affairs Committee Political Action Committee | $3,300.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576507) |
+| 2024-04-17 | transaction date | American Israel Public Affairs Committee Political Action Committee | $500.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576517) |
+| 2024-04-17 | transaction date | American Israel Public Affairs Committee Political Action Committee | $5,000.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576563) |
+| 2024-04-17 | transaction date | American Israel Public Affairs Committee Political Action Committee | $1,000.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576565) |
+| 2024-04-17 | transaction date | American Israel Public Affairs Committee Political Action Committee | $1,500.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576590) |
+| 2024-04-17 | transaction date | American Israel Public Affairs Committee Political Action Committee | $1,000.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576593) |
+| 2024-04-17 | transaction date | American Israel Public Affairs Committee Political Action Committee | $1,000.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576607) |
+| 2024-04-17 | transaction date | American Israel Public Affairs Committee Political Action Committee | $50.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576637) |
+| 2024-04-17 | transaction date | American Israel Public Affairs Committee Political Action Committee | $2,000.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576652) |
+| 2024-04-17 | transaction date | American Israel Public Affairs Committee Political Action Committee | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576660) |
+| 2024-04-17 | transaction date | American Israel Public Affairs Committee Political Action Committee | $3,300.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576671) |
+| 2024-04-17 | transaction date | American Israel Public Affairs Committee Political Action Committee | $5,000.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576673) |
+| 2024-04-17 | transaction date | American Israel Public Affairs Committee Political Action Committee | $1,000.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576691) |
+| 2024-04-17 | transaction date | American Israel Public Affairs Committee Political Action Committee | $1,000.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576718) |
+| 2024-04-17 | transaction date | American Israel Public Affairs Committee Political Action Committee | $1,000.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576737) |
+| 2024-04-17 | transaction date | American Israel Public Affairs Committee Political Action Committee | $500.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576740) |
+| 2024-04-17 | transaction date | American Israel Public Affairs Committee Political Action Committee | $1,000.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576773) |
+| 2024-04-17 | transaction date | American Israel Public Affairs Committee Political Action Committee | $1,000.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576774) |
+| 2024-04-17 | transaction date | American Israel Public Affairs Committee Political Action Committee | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576799) |
+| 2024-04-17 | transaction date | American Israel Public Affairs Committee Political Action Committee | $1,000.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576833) |
+| 2024-04-17 | transaction date | American Israel Public Affairs Committee Political Action Committee | $500.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576853) |
+| 2024-04-17 | transaction date | American Israel Public Affairs Committee Political Action Committee | $1,000.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576867) |
+| 2024-04-17 | transaction date | American Israel Public Affairs Committee Political Action Committee | $25.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576880) |
+| 2024-04-17 | transaction date | American Israel Public Affairs Committee Political Action Committee | $150.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576892) |
+| 2024-04-17 | transaction date | American Israel Public Affairs Committee Political Action Committee | $3,300.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576912) |
+| 2024-04-17 | transaction date | American Israel Public Affairs Committee Political Action Committee | $200.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576939) |
+| 2024-04-17 | transaction date | American Israel Public Affairs Committee Political Action Committee | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576952) |
+| 2024-04-17 | transaction date | American Israel Public Affairs Committee Political Action Committee | $1,000.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576967) |
+| 2024-04-17 | transaction date | American Israel Public Affairs Committee Political Action Committee | $18.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648577020) |
+| 2024-04-17 | transaction date | American Israel Public Affairs Committee Political Action Committee | $2,400.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648577036) |
+| 2024-04-17 | transaction date | American Israel Public Affairs Committee Political Action Committee | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648577038) |
+| 2024-04-17 | transaction date | American Israel Public Affairs Committee Political Action Committee | $100.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648577060) |
+| 2024-04-17 | transaction date | American Israel Public Affairs Committee Political Action Committee | $500.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648577089) |
+| 2024-04-17 | transaction date | American Israel Public Affairs Committee Political Action Committee | $500.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648577097) |
+| 2024-04-17 | transaction date | American Israel Public Affairs Committee Political Action Committee | $1,000.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648577104) |
+| 2024-04-19 | transaction date | American Israel Public Affairs Committee Political Action Committee | $1,000.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576125) |
+| 2024-04-19 | transaction date | American Israel Public Affairs Committee Political Action Committee | $1,500.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576176) |
+| 2024-04-19 | transaction date | American Israel Public Affairs Committee Political Action Committee | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576208) |
+| 2024-04-19 | transaction date | American Israel Public Affairs Committee Political Action Committee | $1,000.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576243) |
+| 2024-04-19 | transaction date | American Israel Public Affairs Committee Political Action Committee | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576365) |
+| 2024-04-19 | transaction date | American Israel Public Affairs Committee Political Action Committee | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576398) |
+| 2024-04-24 | transaction date | American Israel Public Affairs Committee Political Action Committee | $36.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576115) |
+| 2024-04-24 | transaction date | American Israel Public Affairs Committee Political Action Committee | $1,000.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576153) |
+| 2024-04-24 | transaction date | American Israel Public Affairs Committee Political Action Committee | $3,300.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576161) |
+| 2024-04-24 | transaction date | American Israel Public Affairs Committee Political Action Committee | $1,000.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576174) |
+| 2024-04-24 | transaction date | American Israel Public Affairs Committee Political Action Committee | $100.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576211) |
+| 2024-04-24 | transaction date | American Israel Public Affairs Committee Political Action Committee | $1,500.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576270) |
+| 2024-04-24 | transaction date | American Israel Public Affairs Committee Political Action Committee | $1,000.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576293) |
+| 2024-04-24 | transaction date | American Israel Public Affairs Committee Political Action Committee | $500.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576296) |
+| 2024-04-24 | transaction date | American Israel Public Affairs Committee Political Action Committee | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576304) |
+| 2024-04-24 | transaction date | American Israel Public Affairs Committee Political Action Committee | $500.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576324) |
+| 2024-04-24 | transaction date | American Israel Public Affairs Committee Political Action Committee | $500.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576339) |
+| 2024-04-24 | transaction date | American Israel Public Affairs Committee Political Action Committee | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576347) |
+| 2024-04-24 | transaction date | American Israel Public Affairs Committee Political Action Committee | $180.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576352) |
+| 2024-04-24 | transaction date | American Israel Public Affairs Committee Political Action Committee | $1,800.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576352) |
+| 2024-04-24 | transaction date | American Israel Public Affairs Committee Political Action Committee | $300.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576361) |
+| 2024-04-24 | transaction date | American Israel Public Affairs Committee Political Action Committee | $100.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576371) |
+| 2024-04-24 | transaction date | American Israel Public Affairs Committee Political Action Committee | $1,250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576395) |
+| 2024-04-24 | transaction date | American Israel Public Affairs Committee Political Action Committee | $1,000.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576405) |
+| 2024-04-24 | transaction date | American Israel Public Affairs Committee Political Action Committee | $500.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576456) |
+| 2024-04-24 | transaction date | American Israel Public Affairs Committee Political Action Committee | $18.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576471) |
+| 2024-04-24 | transaction date | American Israel Public Affairs Committee Political Action Committee | $3,000.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576496) |
+| 2024-04-24 | transaction date | American Israel Public Affairs Committee Political Action Committee | $1,500.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576499) |
+| 2024-04-24 | transaction date | American Israel Public Affairs Committee Political Action Committee | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576502) |
+| 2024-04-24 | transaction date | American Israel Public Affairs Committee Political Action Committee | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576507) |
+| 2024-04-24 | transaction date | American Israel Public Affairs Committee Political Action Committee | $1,500.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576514) |
+| 2024-04-24 | transaction date | American Israel Public Affairs Committee Political Action Committee | $3,300.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576518) |
+| 2024-04-24 | transaction date | American Israel Public Affairs Committee Political Action Committee | $500.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576545) |
+| 2024-04-24 | transaction date | American Israel Public Affairs Committee Political Action Committee | $1,000.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576572) |
+| 2024-04-24 | transaction date | American Israel Public Affairs Committee Political Action Committee | $1,500.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576618) |
+| 2024-04-24 | transaction date | American Israel Public Affairs Committee Political Action Committee | $1,500.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576622) |
+| 2024-04-24 | transaction date | American Israel Public Affairs Committee Political Action Committee | $750.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576636) |
+| 2024-04-24 | transaction date | American Israel Public Affairs Committee Political Action Committee | $1,000.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576645) |
+| 2024-04-24 | transaction date | American Israel Public Affairs Committee Political Action Committee | $500.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576657) |
+| 2024-04-24 | transaction date | American Israel Public Affairs Committee Political Action Committee | $100.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576661) |
+| 2024-04-24 | transaction date | American Israel Public Affairs Committee Political Action Committee | $1,800.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576666) |
+| 2024-04-24 | transaction date | American Israel Public Affairs Committee Political Action Committee | $500.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576692) |
+| 2024-04-24 | transaction date | American Israel Public Affairs Committee Political Action Committee | $50.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576749) |
+| 2024-04-24 | transaction date | American Israel Public Affairs Committee Political Action Committee | $2,000.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576764) |
+| 2024-04-24 | transaction date | American Israel Public Affairs Committee Political Action Committee | $90.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576768) |
+| 2024-04-24 | transaction date | American Israel Public Affairs Committee Political Action Committee | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576779) |
+| 2024-04-24 | transaction date | American Israel Public Affairs Committee Political Action Committee | $100.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576783) |
+| 2024-04-24 | transaction date | American Israel Public Affairs Committee Political Action Committee | $1,500.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576788) |
+| 2024-04-24 | transaction date | American Israel Public Affairs Committee Political Action Committee | $100.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576802) |
+| 2024-04-24 | transaction date | American Israel Public Affairs Committee Political Action Committee | $500.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576838) |
+| 2024-04-24 | transaction date | American Israel Public Affairs Committee Political Action Committee | $2,500.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576860) |
+| 2024-04-24 | transaction date | American Israel Public Affairs Committee Political Action Committee | $272.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576873) |
+| 2024-04-24 | transaction date | American Israel Public Affairs Committee Political Action Committee | $100.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576892) |
+| 2024-04-24 | transaction date | American Israel Public Affairs Committee Political Action Committee | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576954) |
+| 2024-04-24 | transaction date | American Israel Public Affairs Committee Political Action Committee | $1,000.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576992) |
+| 2024-04-24 | transaction date | American Israel Public Affairs Committee Political Action Committee | $100.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576993) |
+| 2024-04-24 | transaction date | American Israel Public Affairs Committee Political Action Committee | $3,300.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576996) |
+| 2024-04-24 | transaction date | American Israel Public Affairs Committee Political Action Committee | $6,600.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648577001) |
+| 2024-04-24 | transaction date | American Israel Public Affairs Committee Political Action Committee | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648577008) |
+| 2024-04-24 | transaction date | American Israel Public Affairs Committee Political Action Committee | $25.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648577021) |
+| 2024-04-24 | transaction date | American Israel Public Affairs Committee Political Action Committee | $1,000.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648577031) |
+| 2024-04-24 | transaction date | American Israel Public Affairs Committee Political Action Committee | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648577033) |
+| 2024-04-24 | transaction date | American Israel Public Affairs Committee Political Action Committee | $500.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648577052) |
+| 2024-04-24 | transaction date | American Israel Public Affairs Committee Political Action Committee | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648577074) |
+| 2024-04-24 | transaction date | American Israel Public Affairs Committee Political Action Committee | $100.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648577077) |
+| 2024-04-24 | transaction date | American Israel Public Affairs Committee Political Action Committee | $1,000.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648577087) |
+| 2024-04-24 | transaction date | American Israel Public Affairs Committee Political Action Committee | $2,000.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648577088) |
+| 2024-04-24 | transaction date | American Israel Public Affairs Committee Political Action Committee | $250.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648577093) |
+| 2024-04-24 | transaction date | American Israel Public Affairs Committee Political Action Committee | $2,000.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648577098) |
+| 2024-04-26 | transaction date | American Israel Public Affairs Committee Political Action Committee | $1,000.00 | 24K | BELLFORMISSOURI | P2024 | [image](https://docquery.fec.gov/cgi-bin/fecimg/?202405209648576836) |
