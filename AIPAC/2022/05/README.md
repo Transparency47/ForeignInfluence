@@ -8,7 +8,7 @@
 - Total negative reported amount: -$11,600.00
 - Politicians listed: 7
 - Transactions: 9
-- Date accessed: 2026-06-01T16:17:27.922434+00:00
+- Date accessed: 2026-06-01T16:20:48.259764+00:00
 
 ## Politicians
 
