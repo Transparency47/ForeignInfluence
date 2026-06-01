@@ -18,23 +18,18 @@ from typing import Iterable
 
 from import_fec_bulk import (
     Bucket,
-    CN_COLUMNS,
     COMMITTEE_NAMES,
     CandidateProfile,
-    DEFAULT_CYCLES,
-    fallback_profile,
-    load_candidates,
-    load_webk,
-    rows_from_zip,
+    ascii_slug,
+    display_from_fec_name,
     write_candidate_file,
     write_month_readme,
-    zip_url,
-    download as download_bulk_file,
 )
 
 
 ROOT_DIR = Path(__file__).resolve().parents[1]
 FEC_DAILY_BASE = "https://cg-519a459a-0ea3-42c2-b7bc-fa1143481f74.s3-us-gov-west-1.amazonaws.com/bulk-downloads"
+FEC_CYCLE_BASE = "https://www.fec.gov/files/bulk-downloads"
 
 TRACKED_COMMITTEES = {
     "C00797670": {
@@ -205,18 +200,6 @@ def filer_info(records: list[list[str]]) -> tuple[str, str]:
     return "", ""
 
 
-def load_principal_committees(cycles: Iterable[int], cache_dir: Path) -> dict[str, str]:
-    principals: dict[str, str] = {}
-    for cycle in cycles:
-        path = download_bulk_file(zip_url("cn", cycle), cache_dir)
-        for row in rows_from_zip(path, CN_COLUMNS):
-            committee_id = row.get("principal_committee_id", "")
-            candidate_id = row.get("candidate_id", "")
-            if committee_id and candidate_id:
-                principals.setdefault(committee_id, candidate_id)
-    return principals
-
-
 def field(record: list[str], index: int) -> str:
     return record[index] if index < len(record) else ""
 
@@ -233,19 +216,153 @@ def record_committee_ids(record: list[str]) -> set[str]:
     return {value for value in record if value in TRACKED_COMMITTEES}
 
 
-def record_candidate_id(record: list[str], filing_candidate_ids: set[str], filer_committee_id: str, principal_committees: dict[str, str]) -> str:
+def normalized_words(value: str) -> set[str]:
+    words = set(re.findall(r"[a-z0-9]+", value.lower()))
+    stop = {
+        "a",
+        "and",
+        "campaign",
+        "committee",
+        "congress",
+        "elect",
+        "for",
+        "forcongress",
+        "friends",
+        "inc",
+        "senate",
+        "the",
+        "to",
+        "us",
+    }
+    return {word for word in words if word not in stop}
+
+
+def candidate_from_filer_name(filer_name: str, candidates: dict[str, CandidateProfile]) -> str:
+    filer_words = normalized_words(filer_name)
+    if not filer_words:
+        return ""
+    filer_lower = filer_name.lower()
+    matches: list[tuple[int, str]] = []
+    for candidate_id, candidate in candidates.items():
+        ordered_words = re.findall(r"[a-z0-9]+", candidate.display_name.lower())
+        candidate_words = normalized_words(candidate.display_name)
+        if not candidate_words:
+            continue
+        overlap = candidate_words & filer_words
+        last_name = ordered_words[-1] if ordered_words else ""
+        office = candidate.office.lower()
+        office_matches = (
+            ("senate" in office and ("senate" in filer_words or "senator" in filer_words))
+            or ("house" in office and ("congress" in filer_words or "house" in filer_words))
+        )
+        if candidate_words.issubset(filer_words):
+            matches.append((100 + len(overlap), candidate_id))
+        elif len(overlap) >= 2:
+            matches.append((50 + len(overlap), candidate_id))
+        elif last_name and last_name in filer_words and office_matches:
+            matches.append((25, candidate_id))
+        elif last_name and len(last_name) > 5 and last_name in filer_lower and len(overlap) == 1:
+            matches.append((10, candidate_id))
+    if not matches:
+        return ""
+    matches.sort(reverse=True)
+    if len(matches) > 1 and matches[0][0] == matches[1][0]:
+        return ""
+    return matches[0][1]
+
+
+def record_candidate_id(record: list[str], filing_candidate_ids: set[str], filer_committee_name: str, candidates: dict[str, CandidateProfile]) -> str:
     for value in record:
         if re.fullmatch(r"[HSP]\d[A-Z]{2}\d{5}", value):
             return value
-    if filer_committee_id in principal_committees:
-        return principal_committees[filer_committee_id]
     if len(filing_candidate_ids) == 1:
         return next(iter(filing_candidate_ids))
+    from_filer = candidate_from_filer_name(filer_committee_name, candidates)
+    if from_filer:
+        return from_filer
     return ""
 
 
 def daily_image_number(day: dt.date, filing_id: str) -> str:
     return ""
+
+
+def cycle_for_year(year: int) -> int:
+    return year if year % 2 == 0 else year + 1
+
+
+def cycles_for_range(start: dt.date, end: dt.date) -> tuple[int, ...]:
+    return tuple(sorted({cycle_for_year(year) for year in range(start.year, end.year + 1)}))
+
+
+def weball_url(cycle: int) -> str:
+    return f"{FEC_CYCLE_BASE}/{cycle}/weball{str(cycle)[-2:]}.zip"
+
+
+def office_from_candidate_id(candidate_id: str, state: str, district: str) -> str:
+    if candidate_id.startswith("S"):
+        return f"Senate {state}".strip()
+    if candidate_id.startswith("H"):
+        return f"House {state}-{district}".strip("-")
+    if candidate_id.startswith("P"):
+        return "President"
+    return ""
+
+
+def load_existing_candidates() -> dict[str, CandidateProfile]:
+    candidates: dict[str, CandidateProfile] = {}
+    for folder in {committee["folder"] for committee in TRACKED_COMMITTEES.values()}:
+        folder_path = ROOT_DIR / folder
+        if not folder_path.exists():
+            continue
+        for path in folder_path.glob("*/*/*.md"):
+            if path.name == "README.md" or path.name.startswith("FEC_Filing_") or path.name == "Daily_Filings.md":
+                continue
+            markdown = path.read_text(encoding="utf-8", errors="replace")
+            candidate_id = metadata_value(markdown, "Candidate ID")
+            if not candidate_id or candidate_id in candidates:
+                continue
+            candidates[candidate_id] = CandidateProfile(
+                candidate_id=candidate_id,
+                display_name=first_heading(markdown) or path.stem,
+                file_stem=path.stem,
+                office=metadata_value(markdown, "Office"),
+                party=metadata_value(markdown, "Party"),
+            )
+    return candidates
+
+
+def load_weball_candidates(cycles: Iterable[int], cache_dir: Path, candidates: dict[str, CandidateProfile]) -> None:
+    used_stems = {profile.file_stem: candidate_id for candidate_id, profile in candidates.items()}
+    for cycle in cycles:
+        path = download(weball_url(cycle), cache_dir / "weball")
+        if not path:
+            continue
+        with zipfile.ZipFile(path) as archive:
+            names = [name for name in archive.namelist() if not name.endswith("/")]
+            if not names:
+                continue
+            with archive.open(names[0]) as raw:
+                text = io.TextIOWrapper(raw, encoding="utf-8", errors="replace", newline="")
+                for line in text:
+                    parts = line.rstrip("\n").split("|")
+                    candidate_id = parts[0] if len(parts) > 0 else ""
+                    if not candidate_id or candidate_id in candidates:
+                        continue
+                    display = display_from_fec_name(parts[1] if len(parts) > 1 else "") or f"Candidate {candidate_id}"
+                    stem = ascii_slug(display, candidate_id)
+                    if stem in used_stems and used_stems[stem] != candidate_id:
+                        stem = f"{stem}_{candidate_id}"
+                    used_stems[stem] = candidate_id
+                    state = parts[18] if len(parts) > 18 else ""
+                    district = parts[19] if len(parts) > 19 else ""
+                    candidates[candidate_id] = CandidateProfile(
+                        candidate_id=candidate_id,
+                        display_name=display,
+                        file_stem=stem,
+                        office=office_from_candidate_id(candidate_id, state, district),
+                        party=parts[4] if len(parts) > 4 else "",
+                    )
 
 
 def looks_like_date(value: str) -> bool:
@@ -382,7 +499,6 @@ def dedupe_rows(rows: list[dict[str, str]]) -> list[dict[str, str]]:
             row.get("transaction_amount", ""),
             row.get("transaction_type", ""),
             row.get("name", ""),
-            row.get("transaction_id", "") or row.get("sub_id", ""),
         )
         if key in seen:
             continue
@@ -397,7 +513,7 @@ def transaction_rows_from_file(
     day: dt.date,
     name: str,
     records: list[list[str]],
-    principal_committees: dict[str, str],
+    candidates: dict[str, CandidateProfile],
 ) -> list[DailyTransaction]:
     filing_id = filing_id_from_name(name)
     filer_committee_id, filer_committee_name = filer_info(records)
@@ -411,7 +527,7 @@ def transaction_rows_from_file(
             committee_ids.add(filer_committee_id)
         if not committee_ids:
             continue
-        candidate_id = record_candidate_id(record, filing_candidate_ids, filer_committee_id, principal_committees)
+        candidate_id = record_candidate_id(record, filing_candidate_ids, filer_committee_name, candidates)
         if not candidate_id:
             continue
         date_value, amount_value = transaction_date_amount(record)
@@ -495,10 +611,8 @@ def import_daily(start: dt.date, end: dt.date, cache_dir: Path) -> dict[str, int
     downloaded = 0
     missing = 0
     nofiles = 0
-    candidates = load_candidates(DEFAULT_CYCLES, cache_dir / "bulk")
-    principal_committees = load_principal_committees(DEFAULT_CYCLES, cache_dir / "bulk")
-    webk = load_webk(DEFAULT_CYCLES, cache_dir / "bulk")
-    used_stems = {profile.file_stem: candidate_id for candidate_id, profile in candidates.items()}
+    candidates = load_existing_candidates()
+    load_weball_candidates(cycles_for_range(start, end), cache_dir, candidates)
     for day in date_range(start, end):
         for kind in ("electronic", "paper"):
             for file_name in file_names_for(kind, day):
@@ -513,13 +627,17 @@ def import_daily(start: dt.date, end: dt.date, cache_dir: Path) -> dict[str, int
                     continue
                 for member_name, records in read_zip_records(path):
                     summaries.extend(summarize_file(kind, url, day, member_name, records))
-                    transactions.extend(transaction_rows_from_file(kind, url, day, member_name, records, principal_committees))
+                    transactions.extend(transaction_rows_from_file(kind, url, day, member_name, records, candidates))
                 break
     buckets: dict[tuple[str, str, str, str], Bucket] = {}
     for transaction in transactions:
         candidate = candidates.get(transaction.candidate_id)
         if not candidate:
-            candidate = fallback_profile(transaction.candidate_id, transaction.row, used_stems)
+            candidate = CandidateProfile(
+                candidate_id=transaction.candidate_id,
+                display_name=f"Candidate {transaction.candidate_id}",
+                file_stem=transaction.candidate_id,
+            )
             candidates[transaction.candidate_id] = candidate
         row_date = dt.datetime.strptime(transaction.row["transaction_date"], "%m%d%Y").date()
         key = (transaction.folder, f"{row_date.year:04d}", f"{row_date.month:02d}", transaction.candidate_id)
@@ -543,7 +661,7 @@ def import_daily(start: dt.date, end: dt.date, cache_dir: Path) -> dict[str, int
             bucket = bucket_from_candidate_file(path, folder, year, month, candidates)
             if bucket:
                 month_buckets.append(bucket)
-        write_month_readme(out_dir, folder, year, month, month_buckets, accessed, webk.get((folder, year, month)))
+        write_month_readme(out_dir, folder, year, month, month_buckets, accessed, None)
 
     return {
         "downloadedDailyFiles": downloaded,
