@@ -4,12 +4,12 @@
 - Month: 2025-12
 - Source committees: JStreetPAC
 - Data source: FEC public records
-- Total net candidate-linked reported amount: $289,401.00
-- Total positive candidate-linked reported amount: $289,401.00
+- Total net candidate-linked reported amount: $286,901.00
+- Total positive candidate-linked reported amount: $286,901.00
 - Total negative candidate-linked reported amount: $0.00
 - Politicians listed: 67
-- Transactions: 516
-- Date accessed: 2026-06-01T17:09:55.226402+00:00
+- Transactions: 515
+- Date accessed: 2026-06-01T17:26:50.927388+00:00
 
 ## Politicians
 
@@ -26,12 +26,12 @@
 | Marcy C Hon Kaptur | H2OH09031 | House OH-09 | DEM | JStreetPAC | $9,520.00 | $9,520.00 | $0.00 | 10 | [MarcyCHonKaptur.md](MarcyCHonKaptur.md) |
 | Joanna Mendoza | H6AZ06099 | House AZ-06 | DEM | JStreetPAC | $8,456.00 | $8,456.00 | $0.00 | 10 | [JoannaMendoza.md](JoannaMendoza.md) |
 | Chrissy Houlahan | H8PA06087 | House PA-06 | DEM | JStreetPAC | $7,718.00 | $7,718.00 | $0.00 | 27 | [ChrissyHoulahan.md](ChrissyHoulahan.md) |
-| Kevin Mullin | H2CA14162 | House CA-15 | DEM | JStreetPAC | $7,500.00 | $7,500.00 | $0.00 | 3 | [KevinMullin.md](KevinMullin.md) |
 | Andrea Salinas | H2OR06066 | House OR-06 | DEM | JStreetPAC | $7,178.00 | $7,178.00 | $0.00 | 44 | [AndreaSalinas.md](AndreaSalinas.md) |
 | Veronica Escobar | H8TX16109 | House TX-16 | DEM | JStreetPAC | $7,000.00 | $7,000.00 | $0.00 | 2 | [VeronicaEscobar.md](VeronicaEscobar.md) |
 | Christopher Deluzio | H2PA17103 | House PA-17 | DEM | JStreetPAC | $6,746.00 | $6,746.00 | $0.00 | 45 | [ChristopherDeluzio.md](ChristopherDeluzio.md) |
 | Mike Levin | H8CA49058 | House CA-49 | DEM | JStreetPAC | $5,600.00 | $5,600.00 | $0.00 | 10 | [MikeLevin.md](MikeLevin.md) |
 | T. Jonathan Ossoff | S8GA00180 | Senate GA | DEM | JStreetPAC | $5,394.00 | $5,394.00 | $0.00 | 23 | [TJonathanOssoff_S8GA00180.md](TJonathanOssoff_S8GA00180.md) |
+| Kevin Mullin | H2CA14162 | House CA-15 | DEM | JStreetPAC | $5,000.00 | $5,000.00 | $0.00 | 2 | [KevinMullin.md](KevinMullin.md) |
 | Jeffrey Alan Merkley | S8OR00207 | Senate OR | DEM | JStreetPAC | $4,450.00 | $4,450.00 | $0.00 | 4 | [JeffreyAlanMerkley.md](JeffreyAlanMerkley.md) |
 | Sydney Kamlager | H2CA37304 | House CA-37 | DEM | JStreetPAC | $3,750.00 | $3,750.00 | $0.00 | 6 | [SydneyKamlager.md](SydneyKamlager.md) |
 | Eric Sorensen | H2IL17147 | House IL-17 | DEM | JStreetPAC | $3,400.00 | $3,400.00 | $0.00 | 8 | [EricSorensen.md](EricSorensen.md) |
