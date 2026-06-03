@@ -4,12 +4,12 @@
 - Month: 2026-03
 - Source committees: JStreetPAC
 - Data source: FEC public records
-- Total net candidate-linked reported amount: $20,000.38
-- Total positive candidate-linked reported amount: $20,000.38
+- Total net candidate-linked reported amount: $24,414.67
+- Total positive candidate-linked reported amount: $24,414.67
 - Total negative candidate-linked reported amount: $0.00
-- Politicians listed: 9
-- Transactions: 12
-- Date accessed: 2026-06-01T19:40:07.840180+00:00
+- Politicians listed: 10
+- Transactions: 22
+- Date accessed: 2026-06-03T00:38:32.747178+00:00
 
 ## Politicians
 
@@ -17,6 +17,7 @@
 | --- | --- | --- | --- | --- | ---: | ---: | ---: | ---: | --- |
 | Jake Auchincloss | H0MA04192 | House MA-04 | DEM | JStreetPAC | $5,000.00 | $5,000.00 | $0.00 | 1 | [JakeAuchincloss.md](JakeAuchincloss.md) |
 | Christopher A Coons | S0DE00092 | Senate DE | DEM | JStreetPAC | $5,000.00 | $5,000.00 | $0.00 | 1 | [ChristopherACoons.md](ChristopherACoons.md) |
+| Diana L Degette | H6CO01141 | House CO-01 | DEM | JStreetPAC | $4,414.29 | $4,414.29 | $0.00 | 10 | [DianaLDegette.md](DianaLDegette.md) |
 | Robert James Peters | H6IL02298 | House IL-02 | DEM | JStreetPAC | $2,500.00 | $2,500.00 | $0.00 | 1 | [RobertJamesPeters.md](RobertJamesPeters.md) |
 | Greg Casar | H2TX35144 | House TX-35 | DEM | JStreetPAC | $2,500.00 | $2,500.00 | $0.00 | 1 | [GregCasar.md](GregCasar.md) |
 | Sydney Kamlager | H2CA37304 | House CA-37 | DEM | JStreetPAC | $2,000.00 | $2,000.00 | $0.00 | 2 | [SydneyKamlager.md](SydneyKamlager.md) |

@@ -3,13 +3,13 @@
 - PAC: AIPAC
 - Month: 2024-09
 - Source committees: American Israel Public Affairs Committee Political Action Committee
-- Data source: FEC bulk PAS2 public records
-- Total net candidate-linked reported amount: $402,000.00
-- Total positive candidate-linked reported amount: $402,000.00
+- Data source: FEC public records
+- Total net candidate-linked reported amount: $405,500.00
+- Total positive candidate-linked reported amount: $405,500.00
 - Total negative candidate-linked reported amount: $0.00
-- Politicians listed: 77
-- Transactions: 83
-- Date accessed: 2026-06-01T16:41:11.073775+00:00
+- Politicians listed: 78
+- Transactions: 85
+- Date accessed: 2026-06-03T00:38:32.747178+00:00
 
 ## Politicians
 
@@ -29,7 +29,7 @@
 | Suhas Subramanyam | H4VA10279 | House VA-10 | DEM | American Israel Public Affairs Committee Political Action Committee | $5,000.00 | $5,000.00 | $0.00 | 1 | [SuhasSubramanyam.md](SuhasSubramanyam.md) |
 | Steve Womack | H0AR03055 | House AR-03 | REP | American Israel Public Affairs Committee Political Action Committee | $5,000.00 | $5,000.00 | $0.00 | 1 | [SteveWomack.md](SteveWomack.md) |
 | Sheldon II Whitehouse | S6RI00221 | Senate RI | DEM | American Israel Public Affairs Committee Political Action Committee | $5,000.00 | $5,000.00 | $0.00 | 1 | [SheldonIIWhitehouse.md](SheldonIIWhitehouse.md) |
-| Self For Congress | H2TX03290 |  |  | American Israel Public Affairs Committee Political Action Committee | $5,000.00 | $5,000.00 | $0.00 | 1 | [SelfForCongress.md](SelfForCongress.md) |
+| Self For Congress | H2TX03290 | - Party: | - Source committees: American Israel Public Affairs Committee Political Action Committee | American Israel Public Affairs Committee Political Action Committee | $5,000.00 | $5,000.00 | $0.00 | 1 | [SelfForCongress.md](SelfForCongress.md) |
 | Sanford D Bishop | H2GA02031 | House GA-02 | DEM | American Israel Public Affairs Committee Political Action Committee | $5,000.00 | $5,000.00 | $0.00 | 1 | [SanfordDBishop.md](SanfordDBishop.md) |
 | Ronny Lynn Jackson | H0TX13228 | House TX-13 | REP | American Israel Public Affairs Committee Political Action Committee | $5,000.00 | $5,000.00 | $0.00 | 1 | [RonnyLynnJackson.md](RonnyLynnJackson.md) |
 | Ritchie John Torres | H0NY15160 | House NY-15 | DEM | American Israel Public Affairs Committee Political Action Committee | $5,000.00 | $5,000.00 | $0.00 | 1 | [RitchieJohnTorres.md](RitchieJohnTorres.md) |
@@ -37,7 +37,7 @@
 | Pete Stauber | H8MN08043 | House MN-08 | REP | American Israel Public Affairs Committee Political Action Committee | $5,000.00 | $5,000.00 | $0.00 | 1 | [PeteStauber.md](PeteStauber.md) |
 | Pete Sessions | H2TX03126 | House TX-32 | REP | American Israel Public Affairs Committee Political Action Committee | $5,000.00 | $5,000.00 | $0.00 | 1 | [PeteSessions.md](PeteSessions.md) |
 | Patrick Fallon | H0TX04219 | House TX-04 | REP | American Israel Public Affairs Committee Political Action Committee | $5,000.00 | $5,000.00 | $0.00 | 1 | [PatrickFallon.md](PatrickFallon.md) |
-| Pat Ryan For Congress | H2NY18103 |  |  | American Israel Public Affairs Committee Political Action Committee | $5,000.00 | $5,000.00 | $0.00 | 1 | [PatRyanForCongress.md](PatRyanForCongress.md) |
+| Pat Ryan For Congress | H2NY18103 | - Party: | - Source committees: American Israel Public Affairs Committee Political Action Committee | American Israel Public Affairs Committee Political Action Committee | $5,000.00 | $5,000.00 | $0.00 | 1 | [PatRyanForCongress.md](PatRyanForCongress.md) |
 | Nathaniel Quentin Moran | H2TX01112 | House TX-01 | REP | American Israel Public Affairs Committee Political Action Committee | $5,000.00 | $5,000.00 | $0.00 | 1 | [NathanielQuentinMoran.md](NathanielQuentinMoran.md) |
 | Morgan Joe Luttrell | H2TX08182 | House TX-08 | REP | American Israel Public Affairs Committee Political Action Committee | $5,000.00 | $5,000.00 | $0.00 | 1 | [MorganJoeLuttrell.md](MorganJoeLuttrell.md) |
 | Mike Quigley | H0IL05096 | House IL-05 | DEM | American Israel Public Affairs Committee Political Action Committee | $5,000.00 | $5,000.00 | $0.00 | 1 | [MikeQuigley.md](MikeQuigley.md) |
@@ -90,5 +90,6 @@
 | Aaron P Bean | H2FL04211 | House FL-04 | REP | American Israel Public Affairs Committee Political Action Committee | $5,000.00 | $5,000.00 | $0.00 | 1 | [AaronPBean.md](AaronPBean.md) |
 | Grace Meng | H2NY06116 | House NY-06 | DEM | American Israel Public Affairs Committee Political Action Committee | $4,500.00 | $4,500.00 | $0.00 | 1 | [GraceMeng.md](GraceMeng.md) |
 | Brandon Gill | H4TX26149 | House TX-26 | REP | American Israel Public Affairs Committee Political Action Committee | $4,000.00 | $4,000.00 | $0.00 | 1 | [BrandonGill.md](BrandonGill.md) |
+| Pete Ricketts For Senate | S4NE00173 | - Party: | - Source committees: American Israel Public Affairs Committee Political Action Committee | American Israel Public Affairs Committee Political Action Committee | $3,500.00 | $3,500.00 | $0.00 | 2 | [PeteRickettsForSenate.md](PeteRickettsForSenate.md) |
 | Hakeem Jeffries | H2NY10092 | House NY-08 | DEM | American Israel Public Affairs Committee Political Action Committee | $2,500.00 | $2,500.00 | $0.00 | 1 | [HakeemJeffries.md](HakeemJeffries.md) |
 | Laura Friedman | H4CA30149 | House CA-30 | DEM | American Israel Public Affairs Committee Political Action Committee | $1,000.00 | $1,000.00 | $0.00 | 1 | [LauraFriedman.md](LauraFriedman.md) |

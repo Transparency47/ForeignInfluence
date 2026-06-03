@@ -1,13 +1,13 @@
-# Joe The Hon Wilson
+# Thomas Earl Emmer
 
 - PAC: AIPAC
-- Month: 2026-05
-- Candidate ID: H2SC02059
-- Office: House SC-02
+- Month: 2026-02
+- Candidate ID: H4MN06087
+- Office: House MN-06
 - Party: REP
 - Source committees: American Israel Public Affairs Committee Political Action Committee
-- Net candidate-linked reported amount: $250.00
-- Positive candidate-linked reported amount: $250.00
+- Net candidate-linked reported amount: $5,000.00
+- Positive candidate-linked reported amount: $5,000.00
 - Negative candidate-linked reported amount: $0.00
 - Transactions: 1
 - Data source: FEC public records
@@ -17,4 +17,4 @@
 
 | Date | Date basis | Source committee | Amount | Transaction type | Recipient committee / payee | Election | FEC filing |
 | --- | --- | --- | ---: | --- | --- | --- | --- |
-| 2026-05-17 | transaction date | American Israel Public Affairs Committee Political Action Committee | $250.00 | SA11AI | Joe Wilson for Congress |  |  |
+| 2026-02-23 | transaction date | American Israel Public Affairs Committee Political Action Committee | $5,000.00 | SA11C | THE PAT HARRIGAN COMMITTEE |  |  |

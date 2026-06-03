@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-01T19:40:36.961316+00:00",
+  "generatedAt": "2026-06-03T00:38:59.485313+00:00",
   "records": [
     {
       "category": "JStreetPAC",
@@ -46,7 +46,7 @@
       "kind": "disclosure",
       "metadata": {
         "candidateId": "H8SC04250",
-        "dateAccessed": "2026-06-01T19:40:07.840180+00:00",
+        "dateAccessed": "2026-06-03T00:38:32.747178+00:00",
         "month": "2026-05",
         "netAmount": null,
         "office": "House SC-04",
@@ -103,12 +103,12 @@
       "kind": "disclosure_month",
       "metadata": {
         "candidateId": null,
-        "dateAccessed": "2026-06-01T18:19:22.414547+00:00",
+        "dateAccessed": "2026-06-03T00:38:32.747178+00:00",
         "month": "2026-05",
         "netAmount": null,
         "office": null,
         "pac": "UnitedDemocracyProject",
-        "transactionCount": "8"
+        "transactionCount": "10"
       },
       "path": "UnitedDemocracyProject/2026/05/README.md",
       "sourceUrl": "https://www.fec.gov/",
@@ -464,7 +464,7 @@
       "kind": "disclosure",
       "metadata": {
         "candidateId": "H4ND00061",
-        "dateAccessed": "2026-06-01T19:40:07.840180+00:00",
+        "dateAccessed": "2026-06-03T00:38:32.747178+00:00",
         "month": "2026-05",
         "netAmount": null,
         "office": "House ND-00",
@@ -540,7 +540,7 @@
       "kind": "disclosure",
       "metadata": {
         "candidateId": "H2OK02315",
-        "dateAccessed": "2026-06-01T19:40:07.840180+00:00",
+        "dateAccessed": "2026-06-03T00:38:32.747178+00:00",
         "month": "2026-05",
         "netAmount": null,
         "office": "House OK-02",
@@ -559,7 +559,7 @@
       "kind": "disclosure",
       "metadata": {
         "candidateId": "H6ME02213",
-        "dateAccessed": "2026-06-01T19:40:07.840180+00:00",
+        "dateAccessed": "2026-06-03T00:38:32.747178+00:00",
         "month": "2026-05",
         "netAmount": null,
         "office": "House ME-02",
@@ -597,7 +597,7 @@
       "kind": "disclosure",
       "metadata": {
         "candidateId": "H2SC02059",
-        "dateAccessed": "2026-06-01T19:40:07.840180+00:00",
+        "dateAccessed": "2026-06-03T00:38:32.747178+00:00",
         "month": "2026-05",
         "netAmount": null,
         "office": "House SC-02",
@@ -616,7 +616,7 @@
       "kind": "disclosure",
       "metadata": {
         "candidateId": "H8CA34266",
-        "dateAccessed": "2026-06-01T19:40:07.840180+00:00",
+        "dateAccessed": "2026-06-03T00:38:32.747178+00:00",
         "month": "2026-05",
         "netAmount": null,
         "office": "House CA-34",
@@ -635,7 +635,7 @@
       "kind": "disclosure",
       "metadata": {
         "candidateId": "H0CA08135",
-        "dateAccessed": "2026-06-01T19:40:07.840180+00:00",
+        "dateAccessed": "2026-06-03T00:38:32.747178+00:00",
         "month": "2026-05",
         "netAmount": null,
         "office": "House CA-08",
@@ -654,7 +654,7 @@
       "kind": "disclosure_month",
       "metadata": {
         "candidateId": null,
-        "dateAccessed": "2026-06-01T19:40:07.840180+00:00",
+        "dateAccessed": "2026-06-03T00:38:32.747178+00:00",
         "month": "2026-05",
         "netAmount": null,
         "office": null,
@@ -768,7 +768,7 @@
       "kind": "disclosure",
       "metadata": {
         "candidateId": "H4NJ01084",
-        "dateAccessed": "2026-06-01T19:40:07.840180+00:00",
+        "dateAccessed": "2026-06-03T00:38:32.747178+00:00",
         "month": "2026-05",
         "netAmount": null,
         "office": "House NJ-01",
@@ -920,12 +920,12 @@
       "kind": "disclosure",
       "metadata": {
         "candidateId": "H6MD05321",
-        "dateAccessed": "2026-06-01T18:19:22.414547+00:00",
+        "dateAccessed": "2026-06-03T00:38:32.747178+00:00",
         "month": "2026-05",
         "netAmount": null,
         "office": "House MD-05",
         "pac": "UnitedDemocracyProject",
-        "transactionCount": "1"
+        "transactionCount": "3"
       },
       "path": "UnitedDemocracyProject/2026/05/AdrianBoafo.md",
       "sourceUrl": "https://www.fec.gov/",
@@ -958,7 +958,7 @@
       "kind": "disclosure_month",
       "metadata": {
         "candidateId": null,
-        "dateAccessed": "2026-06-01T19:40:07.840180+00:00",
+        "dateAccessed": "2026-06-03T00:38:32.747178+00:00",
         "month": "2026-05",
         "netAmount": null,
         "office": null,
@@ -1946,7 +1946,7 @@
       "kind": "disclosure",
       "metadata": {
         "candidateId": "H8CA11116",
-        "dateAccessed": "2026-06-01T18:19:22.414547+00:00",
+        "dateAccessed": "2026-06-03T00:38:32.747178+00:00",
         "month": "2026-04",
         "netAmount": null,
         "office": "House CA-11",
@@ -3941,7 +3941,7 @@
       "kind": "disclosure",
       "metadata": {
         "candidateId": "H4ND00061",
-        "dateAccessed": "2026-06-01T19:40:07.840180+00:00",
+        "dateAccessed": "2026-06-03T00:38:32.747178+00:00",
         "month": "2026-04",
         "netAmount": null,
         "office": "House ND-00",
@@ -3960,7 +3960,7 @@
       "kind": "disclosure",
       "metadata": {
         "candidateId": "H0CA32101",
-        "dateAccessed": "2026-06-01T19:40:07.840180+00:00",
+        "dateAccessed": "2026-06-03T00:38:32.747178+00:00",
         "month": "2026-04",
         "netAmount": null,
         "office": "House CA-27",
@@ -4188,7 +4188,7 @@
       "kind": "disclosure",
       "metadata": {
         "candidateId": "H6ME02213",
-        "dateAccessed": "2026-06-01T19:40:07.840180+00:00",
+        "dateAccessed": "2026-06-03T00:38:32.747178+00:00",
         "month": "2026-04",
         "netAmount": null,
         "office": "House ME-02",
@@ -4454,7 +4454,7 @@
       "kind": "disclosure",
       "metadata": {
         "candidateId": "H2SC02059",
-        "dateAccessed": "2026-06-01T19:40:07.840180+00:00",
+        "dateAccessed": "2026-06-03T00:38:32.747178+00:00",
         "month": "2026-04",
         "netAmount": null,
         "office": "House SC-02",
@@ -4948,7 +4948,7 @@
       "kind": "disclosure_month",
       "metadata": {
         "candidateId": null,
-        "dateAccessed": "2026-06-01T19:40:07.840180+00:00",
+        "dateAccessed": "2026-06-03T00:38:32.747178+00:00",
         "month": "2026-04",
         "netAmount": null,
         "office": null,
@@ -6981,7 +6981,7 @@
       "kind": "disclosure_month",
       "metadata": {
         "candidateId": null,
-        "dateAccessed": "2026-06-01T19:40:07.840180+00:00",
+        "dateAccessed": "2026-06-03T00:38:32.747178+00:00",
         "month": "2026-04",
         "netAmount": null,
         "office": null,
@@ -7684,12 +7684,12 @@
       "kind": "disclosure_month",
       "metadata": {
         "candidateId": null,
-        "dateAccessed": "2026-06-01T19:40:07.840180+00:00",
+        "dateAccessed": "2026-06-03T00:38:32.747178+00:00",
         "month": "2026-03",
         "netAmount": null,
         "office": null,
         "pac": "JStreetPAC",
-        "transactionCount": "12"
+        "transactionCount": "22"
       },
       "path": "JStreetPAC/2026/03/README.md",
       "sourceUrl": "https://www.fec.gov/",
@@ -7752,6 +7752,25 @@
       "sourceUrl": "https://www.fec.gov/",
       "summary": null,
       "title": "Elizabeth Warren"
+    },
+    {
+      "category": "JStreetPAC",
+      "date": "2026-03-01",
+      "id": "foreign_influence:e97cd1d019e4a4db",
+      "kind": "disclosure",
+      "metadata": {
+        "candidateId": "H6CO01141",
+        "dateAccessed": "2026-06-03T00:38:32.747178+00:00",
+        "month": "2026-03",
+        "netAmount": null,
+        "office": "House CO-01",
+        "pac": "JStreetPAC",
+        "transactionCount": "10"
+      },
+      "path": "JStreetPAC/2026/03/DianaLDegette.md",
+      "sourceUrl": "https://www.fec.gov/",
+      "summary": null,
+      "title": "Diana L Degette"
     },
     {
       "category": "AIPAC",
@@ -7908,6 +7927,25 @@
     {
       "category": "AIPAC",
       "date": "2026-03-01",
+      "id": "foreign_influence:9b0ddf62d1eb353e",
+      "kind": "disclosure",
+      "metadata": {
+        "candidateId": "H4NC13116",
+        "dateAccessed": "2026-06-03T00:38:32.747178+00:00",
+        "month": "2026-03",
+        "netAmount": null,
+        "office": "House NC-13",
+        "pac": "AIPAC",
+        "transactionCount": "1"
+      },
+      "path": "AIPAC/2026/03/BradKnott.md",
+      "sourceUrl": "https://www.fec.gov/",
+      "summary": null,
+      "title": "Brad Knott"
+    },
+    {
+      "category": "AIPAC",
+      "date": "2026-03-01",
       "id": "foreign_influence:e04738311764207c",
       "kind": "disclosure",
       "metadata": {
@@ -7931,12 +7969,12 @@
       "kind": "disclosure_month",
       "metadata": {
         "candidateId": null,
-        "dateAccessed": "2026-06-01T19:40:07.840180+00:00",
+        "dateAccessed": "2026-06-03T00:38:32.747178+00:00",
         "month": "2026-03",
         "netAmount": null,
         "office": null,
         "pac": "AIPAC",
-        "transactionCount": "94"
+        "transactionCount": "95"
       },
       "path": "AIPAC/2026/03/README.md",
       "sourceUrl": "https://www.fec.gov/",
@@ -8037,6 +8075,25 @@
       "sourceUrl": "https://www.fec.gov/",
       "summary": null,
       "title": "Tom Malinowski"
+    },
+    {
+      "category": "AIPAC",
+      "date": "2026-02-01",
+      "id": "foreign_influence:d7f21a1f1a9b97d8",
+      "kind": "disclosure",
+      "metadata": {
+        "candidateId": "H4MN06087",
+        "dateAccessed": "2026-06-03T00:38:32.747178+00:00",
+        "month": "2026-02",
+        "netAmount": null,
+        "office": "House MN-06",
+        "pac": "AIPAC",
+        "transactionCount": "1"
+      },
+      "path": "AIPAC/2026/02/ThomasEarlEmmer.md",
+      "sourceUrl": "https://www.fec.gov/",
+      "summary": null,
+      "title": "Thomas Earl Emmer"
     },
     {
       "category": "JStreetPAC",
@@ -8444,12 +8501,12 @@
       "kind": "disclosure_month",
       "metadata": {
         "candidateId": null,
-        "dateAccessed": "2026-06-01T19:40:07.840180+00:00",
+        "dateAccessed": "2026-06-03T00:38:32.747178+00:00",
         "month": "2026-02",
         "netAmount": null,
         "office": null,
         "pac": "JStreetPAC",
-        "transactionCount": "6"
+        "transactionCount": "8"
       },
       "path": "JStreetPAC/2026/02/README.md",
       "sourceUrl": "https://www.fec.gov/",
@@ -8590,6 +8647,25 @@
       "title": "Don Davis"
     },
     {
+      "category": "JStreetPAC",
+      "date": "2026-02-01",
+      "id": "foreign_influence:321999b1f52075bd",
+      "kind": "disclosure",
+      "metadata": {
+        "candidateId": "H6CO01141",
+        "dateAccessed": "2026-06-03T00:38:32.747178+00:00",
+        "month": "2026-02",
+        "netAmount": null,
+        "office": "House CO-01",
+        "pac": "JStreetPAC",
+        "transactionCount": "2"
+      },
+      "path": "JStreetPAC/2026/02/DianaLDegette.md",
+      "sourceUrl": "https://www.fec.gov/",
+      "summary": null,
+      "title": "Diana L Degette"
+    },
+    {
       "category": "AIPAC",
       "date": "2026-02-01",
       "id": "foreign_influence:b474105d70158a80",
@@ -8672,12 +8748,12 @@
       "kind": "disclosure",
       "metadata": {
         "candidateId": "H4NC13116",
-        "dateAccessed": "2026-06-01T16:41:11.073775+00:00",
+        "dateAccessed": "2026-06-03T00:38:32.747178+00:00",
         "month": "2026-02",
         "netAmount": null,
         "office": "House NC-13",
         "pac": "AIPAC",
-        "transactionCount": "1"
+        "transactionCount": "2"
       },
       "path": "AIPAC/2026/02/BradKnott.md",
       "sourceUrl": "https://www.fec.gov/",
@@ -8786,12 +8862,12 @@
       "kind": "disclosure_month",
       "metadata": {
         "candidateId": null,
-        "dateAccessed": "2026-06-01T19:40:07.840180+00:00",
+        "dateAccessed": "2026-06-03T00:38:32.747178+00:00",
         "month": "2026-02",
         "netAmount": null,
         "office": null,
         "pac": "AIPAC",
-        "transactionCount": "53"
+        "transactionCount": "55"
       },
       "path": "AIPAC/2026/02/README.md",
       "sourceUrl": "https://www.fec.gov/",
@@ -10667,12 +10743,12 @@
       "kind": "disclosure_month",
       "metadata": {
         "candidateId": null,
-        "dateAccessed": "2026-06-01T18:19:22.414547+00:00",
+        "dateAccessed": "2026-06-03T00:38:32.747178+00:00",
         "month": "2026-01",
         "netAmount": null,
         "office": null,
         "pac": "JStreetPAC",
-        "transactionCount": "8"
+        "transactionCount": "11"
       },
       "path": "JStreetPAC/2026/01/README.md",
       "sourceUrl": "https://www.fec.gov/",
@@ -11039,6 +11115,25 @@
       "sourceUrl": "https://www.fec.gov/",
       "summary": null,
       "title": "Dina Titus"
+    },
+    {
+      "category": "JStreetPAC",
+      "date": "2026-01-01",
+      "id": "foreign_influence:f750bbe688d750da",
+      "kind": "disclosure",
+      "metadata": {
+        "candidateId": "H6CO01141",
+        "dateAccessed": "2026-06-03T00:38:32.747178+00:00",
+        "month": "2026-01",
+        "netAmount": null,
+        "office": "House CO-01",
+        "pac": "JStreetPAC",
+        "transactionCount": "3"
+      },
+      "path": "JStreetPAC/2026/01/DianaLDegette.md",
+      "sourceUrl": "https://www.fec.gov/",
+      "summary": null,
+      "title": "Diana L Degette"
     },
     {
       "category": "AIPAC",
@@ -14999,12 +15094,12 @@
       "kind": "disclosure",
       "metadata": {
         "candidateId": "S4NE00173",
-        "dateAccessed": "2026-06-01T16:41:11.073775+00:00",
+        "dateAccessed": "2026-06-03T00:38:32.747178+00:00",
         "month": "2025-11",
         "netAmount": null,
         "office": "- Party:",
         "pac": "AIPAC",
-        "transactionCount": "1"
+        "transactionCount": "8"
       },
       "path": "AIPAC/2025/11/PeteRickettsForSenate.md",
       "sourceUrl": "https://www.fec.gov/",
@@ -19179,12 +19274,12 @@
       "kind": "disclosure_month",
       "metadata": {
         "candidateId": null,
-        "dateAccessed": "2026-06-01T18:19:22.414547+00:00",
+        "dateAccessed": "2026-06-03T00:38:32.747178+00:00",
         "month": "2025-11",
         "netAmount": null,
         "office": null,
         "pac": "AIPAC",
-        "transactionCount": "572"
+        "transactionCount": "579"
       },
       "path": "AIPAC/2025/11/README.md",
       "sourceUrl": "https://www.fec.gov/",
@@ -19399,6 +19494,25 @@
       "sourceUrl": "https://www.fec.gov/",
       "summary": null,
       "title": "Richard Dean Mccormick"
+    },
+    {
+      "category": "AIPAC",
+      "date": "2025-10-01",
+      "id": "foreign_influence:70fabf6d91895021",
+      "kind": "disclosure",
+      "metadata": {
+        "candidateId": "S4NE00173",
+        "dateAccessed": "2026-06-03T00:38:32.747178+00:00",
+        "month": "2025-10",
+        "netAmount": null,
+        "office": "- Party:",
+        "pac": "AIPAC",
+        "transactionCount": "10"
+      },
+      "path": "AIPAC/2025/10/PeteRickettsForSenate.md",
+      "sourceUrl": "https://www.fec.gov/",
+      "summary": null,
+      "title": "Pete Ricketts For Senate"
     },
     {
       "category": "AIPAC",
@@ -19977,12 +20091,12 @@
       "kind": "disclosure_month",
       "metadata": {
         "candidateId": null,
-        "dateAccessed": "2026-06-01T18:19:22.414547+00:00",
+        "dateAccessed": "2026-06-03T00:38:32.747178+00:00",
         "month": "2025-10",
         "netAmount": null,
         "office": null,
         "pac": "AIPAC",
-        "transactionCount": "80"
+        "transactionCount": "90"
       },
       "path": "AIPAC/2025/10/README.md",
       "sourceUrl": "https://www.fec.gov/",
@@ -32625,6 +32739,25 @@
       "title": "Pete Sessions"
     },
     {
+      "category": "AIPAC",
+      "date": "2024-09-01",
+      "id": "foreign_influence:333e003253dc0eb1",
+      "kind": "disclosure",
+      "metadata": {
+        "candidateId": "S4NE00173",
+        "dateAccessed": "2026-06-03T00:38:32.747178+00:00",
+        "month": "2024-09",
+        "netAmount": null,
+        "office": "- Party:",
+        "pac": "AIPAC",
+        "transactionCount": "2"
+      },
+      "path": "AIPAC/2024/09/PeteRickettsForSenate.md",
+      "sourceUrl": "https://www.fec.gov/",
+      "summary": null,
+      "title": "Pete Ricketts For Senate"
+    },
+    {
       "category": "JStreetPAC",
       "date": "2024-09-01",
       "id": "foreign_influence:9e02328065aa32c8",
@@ -35348,12 +35481,12 @@
       "kind": "disclosure_month",
       "metadata": {
         "candidateId": null,
-        "dateAccessed": "2026-06-01T16:41:11.073775+00:00",
+        "dateAccessed": "2026-06-03T00:38:32.747178+00:00",
         "month": "2024-09",
         "netAmount": null,
         "office": null,
         "pac": "AIPAC",
-        "transactionCount": "83"
+        "transactionCount": "85"
       },
       "path": "AIPAC/2024/09/README.md",
       "sourceUrl": "https://www.fec.gov/",
@@ -46212,6 +46345,25 @@
     {
       "category": "AIPAC",
       "date": "2024-03-01",
+      "id": "foreign_influence:e5eece60cbbc5e23",
+      "kind": "disclosure",
+      "metadata": {
+        "candidateId": "S4NE00173",
+        "dateAccessed": "2026-06-03T00:38:32.747178+00:00",
+        "month": "2024-03",
+        "netAmount": null,
+        "office": "- Party:",
+        "pac": "AIPAC",
+        "transactionCount": "6"
+      },
+      "path": "AIPAC/2024/03/PeteRickettsForSenate.md",
+      "sourceUrl": "https://www.fec.gov/",
+      "summary": null,
+      "title": "Pete Ricketts For Senate"
+    },
+    {
+      "category": "AIPAC",
+      "date": "2024-03-01",
       "id": "foreign_influence:ca9fa6676a36728f",
       "kind": "disclosure",
       "metadata": {
@@ -47204,12 +47356,12 @@
       "kind": "disclosure_month",
       "metadata": {
         "candidateId": null,
-        "dateAccessed": "2026-06-01T16:41:11.073775+00:00",
+        "dateAccessed": "2026-06-03T00:38:32.747178+00:00",
         "month": "2024-03",
         "netAmount": null,
         "office": null,
         "pac": "AIPAC",
-        "transactionCount": "27"
+        "transactionCount": "33"
       },
       "path": "AIPAC/2024/03/README.md",
       "sourceUrl": "https://www.fec.gov/",
@@ -47272,6 +47424,25 @@
       "sourceUrl": "https://www.fec.gov/",
       "summary": null,
       "title": "Tim Sheehy"
+    },
+    {
+      "category": "AIPAC",
+      "date": "2024-02-01",
+      "id": "foreign_influence:109621475462ae01",
+      "kind": "disclosure",
+      "metadata": {
+        "candidateId": "S4NE00173",
+        "dateAccessed": "2026-06-03T00:38:32.747178+00:00",
+        "month": "2024-02",
+        "netAmount": null,
+        "office": "- Party:",
+        "pac": "AIPAC",
+        "transactionCount": "6"
+      },
+      "path": "AIPAC/2024/02/PeteRickettsForSenate.md",
+      "sourceUrl": "https://www.fec.gov/",
+      "summary": null,
+      "title": "Pete Ricketts For Senate"
     },
     {
       "category": "NORPAC",
@@ -47451,12 +47622,12 @@
       "kind": "disclosure_month",
       "metadata": {
         "candidateId": null,
-        "dateAccessed": "2026-06-01T16:41:11.073775+00:00",
+        "dateAccessed": "2026-06-03T00:38:32.747178+00:00",
         "month": "2024-02",
         "netAmount": null,
         "office": null,
         "pac": "AIPAC",
-        "transactionCount": "3"
+        "transactionCount": "9"
       },
       "path": "AIPAC/2024/02/README.md",
       "sourceUrl": "https://www.fec.gov/",
@@ -47785,6 +47956,25 @@
       "sourceUrl": "https://www.fec.gov/",
       "summary": null,
       "title": "Pete Sessions"
+    },
+    {
+      "category": "AIPAC",
+      "date": "2024-01-01",
+      "id": "foreign_influence:d2395595049840cb",
+      "kind": "disclosure",
+      "metadata": {
+        "candidateId": "S4NE00173",
+        "dateAccessed": "2026-06-03T00:38:32.747178+00:00",
+        "month": "2024-01",
+        "netAmount": null,
+        "office": "- Party:",
+        "pac": "AIPAC",
+        "transactionCount": "11"
+      },
+      "path": "AIPAC/2024/01/PeteRickettsForSenate.md",
+      "sourceUrl": "https://www.fec.gov/",
+      "summary": null,
+      "title": "Pete Ricketts For Senate"
     },
     {
       "category": "AIPAC",
@@ -48477,12 +48667,12 @@
       "kind": "disclosure_month",
       "metadata": {
         "candidateId": null,
-        "dateAccessed": "2026-06-01T16:41:11.073775+00:00",
+        "dateAccessed": "2026-06-03T00:38:32.747178+00:00",
         "month": "2024-01",
         "netAmount": null,
         "office": null,
         "pac": "AIPAC",
-        "transactionCount": "49"
+        "transactionCount": "60"
       },
       "path": "AIPAC/2024/01/README.md",
       "sourceUrl": "https://www.fec.gov/",

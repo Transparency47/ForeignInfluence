@@ -4,12 +4,12 @@
 - Month: 2026-02
 - Source committees: American Israel Public Affairs Committee Political Action Committee
 - Data source: FEC public records
-- Total net candidate-linked reported amount: $211,751.95
-- Total positive candidate-linked reported amount: $211,751.95
+- Total net candidate-linked reported amount: $221,751.95
+- Total positive candidate-linked reported amount: $221,751.95
 - Total negative candidate-linked reported amount: $0.00
-- Politicians listed: 37
-- Transactions: 53
-- Date accessed: 2026-06-01T19:40:07.840180+00:00
+- Politicians listed: 38
+- Transactions: 55
+- Date accessed: 2026-06-03T00:38:32.747178+00:00
 
 ## Politicians
 
@@ -21,8 +21,10 @@
 | Vicente Gonzalez | H6TX15162 | House TX-15 | DEM | American Israel Public Affairs Committee Political Action Committee | $10,250.00 | $10,250.00 | $0.00 | 3 | [VicenteGonzalez.md](VicenteGonzalez.md) |
 | Steven Daines | S2MT00096 | Senate MT | REP | American Israel Public Affairs Committee Political Action Committee | $10,000.00 | $10,000.00 | $0.00 | 2 | [StevenDaines_S2MT00096.md](StevenDaines_S2MT00096.md) |
 | Henry Cuellar | H2TX23082 | House TX-28 | DEM | American Israel Public Affairs Committee Political Action Committee | $10,000.00 | $10,000.00 | $0.00 | 2 | [HenryCuellar.md](HenryCuellar.md) |
+| Brad Knott | H4NC13116 | House NC-13 | REP | American Israel Public Affairs Committee Political Action Committee | $10,000.00 | $10,000.00 | $0.00 | 2 | [BradKnott.md](BradKnott.md) |
 | Elizabeth Ann Van Duyne | H0TX24209 | House TX-24 | REP | American Israel Public Affairs Committee Political Action Committee | $6,001.00 | $6,001.00 | $0.00 | 2 | [ElizabethAnnVanDuyne.md](ElizabethAnnVanDuyne.md) |
 | Wesley Bell | H4MO01134 | House MO-01 | DEM | American Israel Public Affairs Committee Political Action Committee | $5,000.00 | $5,000.00 | $0.00 | 1 | [WesleyBell.md](WesleyBell.md) |
+| Thomas Earl Emmer | H4MN06087 | House MN-06 | REP | American Israel Public Affairs Committee Political Action Committee | $5,000.00 | $5,000.00 | $0.00 | 1 | [ThomasEarlEmmer.md](ThomasEarlEmmer.md) |
 | Ronny Lynn Jackson | H0TX13228 | House TX-13 | REP | American Israel Public Affairs Committee Political Action Committee | $5,000.00 | $5,000.00 | $0.00 | 1 | [RonnyLynnJackson.md](RonnyLynnJackson.md) |
 | Roger Williams | H2TX33040 | House TX-25 | REP | American Israel Public Affairs Committee Political Action Committee | $5,000.00 | $5,000.00 | $0.00 | 1 | [RogerWilliams.md](RogerWilliams.md) |
 | Richard L Hudson | H2NC08185 | House NC-08 | REP | American Israel Public Affairs Committee Political Action Committee | $5,000.00 | $5,000.00 | $0.00 | 1 | [RichardLHudson.md](RichardLHudson.md) |
@@ -44,7 +46,6 @@
 | Craig Goldman | H4TX12065 | House TX-12 | REP | American Israel Public Affairs Committee Political Action Committee | $5,000.00 | $5,000.00 | $0.00 | 1 | [CraigGoldman.md](CraigGoldman.md) |
 | Claudia Tenney | H4NY22051 | House NY-22 | REP | American Israel Public Affairs Committee Political Action Committee | $5,000.00 | $5,000.00 | $0.00 | 1 | [ClaudiaTenney.md](ClaudiaTenney.md) |
 | Bruce Westerman | H4AR04048 | House AR-04 | REP | American Israel Public Affairs Committee Political Action Committee | $5,000.00 | $5,000.00 | $0.00 | 1 | [BruceWesterman.md](BruceWesterman.md) |
-| Brad Knott | H4NC13116 | House NC-13 | REP | American Israel Public Affairs Committee Political Action Committee | $5,000.00 | $5,000.00 | $0.00 | 1 | [BradKnott.md](BradKnott.md) |
 | Benjamin Lee Cline | H8VA06104 | House VA-06 | REP | American Israel Public Affairs Committee Political Action Committee | $5,000.00 | $5,000.00 | $0.00 | 1 | [BenjaminLeeCline.md](BenjaminLeeCline.md) |
 | August Lee II Pfluger | H0TX11230 | House TX-11 | REP | American Israel Public Affairs Committee Political Action Committee | $5,000.00 | $5,000.00 | $0.00 | 1 | [AugustLeeIIPfluger.md](AugustLeeIIPfluger.md) |
 | Addison Mcdowell | H4NC06177 | House NC-06 | REP | American Israel Public Affairs Committee Political Action Committee | $5,000.00 | $5,000.00 | $0.00 | 1 | [AddisonMcdowell.md](AddisonMcdowell.md) |

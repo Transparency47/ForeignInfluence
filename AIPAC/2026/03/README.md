@@ -4,12 +4,12 @@
 - Month: 2026-03
 - Source committees: American Israel Public Affairs Committee Political Action Committee
 - Data source: FEC public records
-- Total net candidate-linked reported amount: $219,521.95
-- Total positive candidate-linked reported amount: $220,521.95
+- Total net candidate-linked reported amount: $220,521.95
+- Total positive candidate-linked reported amount: $221,521.95
 - Total negative candidate-linked reported amount: -$1,000.00
-- Politicians listed: 36
-- Transactions: 94
-- Date accessed: 2026-06-01T19:40:07.840180+00:00
+- Politicians listed: 37
+- Transactions: 95
+- Date accessed: 2026-06-03T00:38:32.747178+00:00
 
 ## Politicians
 
@@ -47,6 +47,7 @@
 | Julie Fedorchak | H4ND00061 | House ND-00 | REP | American Israel Public Affairs Committee Political Action Committee | $1,000.00 | $1,000.00 | $0.00 | 1 | [JulieFedorchak.md](JulieFedorchak.md) |
 | Jennifer Kiggans | H2VA02064 | House VA-02 | REP | American Israel Public Affairs Committee Political Action Committee | $1,000.00 | $1,000.00 | $0.00 | 1 | [JenniferKiggans.md](JenniferKiggans.md) |
 | Derrick F Van Orden | H0WI03175 | House WI-03 | REP | American Israel Public Affairs Committee Political Action Committee | $1,000.00 | $1,000.00 | $0.00 | 1 | [DerrickFVanOrden.md](DerrickFVanOrden.md) |
+| Brad Knott | H4NC13116 | House NC-13 | REP | American Israel Public Affairs Committee Political Action Committee | $1,000.00 | $1,000.00 | $0.00 | 1 | [BradKnott.md](BradKnott.md) |
 | Richard E Neal | H8MA02041 | House MA-01 | DEM | American Israel Public Affairs Committee Political Action Committee | $250.00 | $250.00 | $0.00 | 1 | [RichardENeal.md](RichardENeal.md) |
 | Brandon Gill | H4TX26149 | House TX-26 | REP | American Israel Public Affairs Committee Political Action Committee | $1.00 | $1.00 | $0.00 | 1 | [BrandonGill.md](BrandonGill.md) |
 | Scott Franklin | H0FL15104 | House FL-15 | REP | American Israel Public Affairs Committee Political Action Committee | $0.95 | $0.95 | $0.00 | 1 | [ScottFranklin.md](ScottFranklin.md) |

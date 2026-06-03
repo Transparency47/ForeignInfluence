@@ -3,13 +3,13 @@
 - PAC: AIPAC
 - Month: 2024-03
 - Source committees: American Israel Public Affairs Committee Political Action Committee
-- Data source: FEC bulk PAS2 public records
-- Total net candidate-linked reported amount: $59,000.00
-- Total positive candidate-linked reported amount: $83,000.00
+- Data source: FEC public records
+- Total net candidate-linked reported amount: $62,910.06
+- Total positive candidate-linked reported amount: $86,910.06
 - Total negative candidate-linked reported amount: -$24,000.00
-- Politicians listed: 23
-- Transactions: 27
-- Date accessed: 2026-06-01T16:41:11.073775+00:00
+- Politicians listed: 24
+- Transactions: 33
+- Date accessed: 2026-06-03T00:38:32.747178+00:00
 
 ## Politicians
 
@@ -28,9 +28,10 @@
 | Derrick F Van Orden | H0WI03175 | House WI-03 | REP | American Israel Public Affairs Committee Political Action Committee | $5,000.00 | $5,000.00 | $0.00 | 1 | [DerrickFVanOrden.md](DerrickFVanOrden.md) |
 | David Albert Scott | H2GA13012 | House GA-13 | DEM | American Israel Public Affairs Committee Political Action Committee | $4,000.00 | $4,000.00 | $0.00 | 1 | [DavidAlbertScott.md](DavidAlbertScott.md) |
 | Brittany Louise Pettersen | H8CO07045 | House CO-07 | DEM | American Israel Public Affairs Committee Political Action Committee | $4,000.00 | $8,000.00 | -$4,000.00 | 3 | [BrittanyLouisePettersen.md](BrittanyLouisePettersen.md) |
+| Pete Ricketts For Senate | S4NE00173 | - Party: | - Source committees: American Israel Public Affairs Committee Political Action Committee | American Israel Public Affairs Committee Political Action Committee | $3,910.06 | $3,910.06 | $0.00 | 6 | [PeteRickettsForSenate.md](PeteRickettsForSenate.md) |
 | Vicente Gonzalez | H6TX15162 | House TX-15 | DEM | American Israel Public Affairs Committee Political Action Committee | $1,000.00 | $1,000.00 | $0.00 | 1 | [VicenteGonzalez.md](VicenteGonzalez.md) |
 | Timothy Kennedy | H4NY26078 | House NY-26 | DEM | American Israel Public Affairs Committee Political Action Committee | $1,000.00 | $1,000.00 | $0.00 | 1 | [TimothyKennedy.md](TimothyKennedy.md) |
-| Susie Lee For Congress | H8NV03200 |  |  | American Israel Public Affairs Committee Political Action Committee | $1,000.00 | $1,000.00 | $0.00 | 1 | [SusieLeeForCongress.md](SusieLeeForCongress.md) |
+| Susie Lee For Congress | H8NV03200 | - Party: | - Source committees: American Israel Public Affairs Committee Political Action Committee | American Israel Public Affairs Committee Political Action Committee | $1,000.00 | $1,000.00 | $0.00 | 1 | [SusieLeeForCongress.md](SusieLeeForCongress.md) |
 | Mary Peltola | H2AK01158 | House AK-00 | DEM | American Israel Public Affairs Committee Political Action Committee | $1,000.00 | $1,000.00 | $0.00 | 1 | [MaryPeltola.md](MaryPeltola.md) |
 | Edward Case | H2HI02128 | House HI-01 | DEM | American Israel Public Affairs Committee Political Action Committee | $1,000.00 | $1,000.00 | $0.00 | 1 | [EdwardCase.md](EdwardCase.md) |
 | Andy Ogles | H2TN05446 | House TN-05 | REP | American Israel Public Affairs Committee Political Action Committee | $1,000.00 | $1,000.00 | $0.00 | 1 | [AndyOgles.md](AndyOgles.md) |

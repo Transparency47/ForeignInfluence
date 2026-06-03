@@ -11,7 +11,7 @@
 - Negative candidate-linked reported amount: $0.00
 - Transactions: 1
 - Data source: FEC public records
-- Date accessed: 2026-06-01T18:19:22.414547+00:00
+- Date accessed: 2026-06-03T00:38:32.747178+00:00
 
 ## Transactions
 

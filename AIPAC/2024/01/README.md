@@ -3,18 +3,19 @@
 - PAC: AIPAC
 - Month: 2024-01
 - Source committees: American Israel Public Affairs Committee Political Action Committee
-- Data source: FEC bulk PAS2 public records
-- Total net candidate-linked reported amount: $195,000.00
-- Total positive candidate-linked reported amount: $215,000.00
+- Data source: FEC public records
+- Total net candidate-linked reported amount: $214,260.00
+- Total positive candidate-linked reported amount: $234,260.00
 - Total negative candidate-linked reported amount: -$20,000.00
-- Politicians listed: 42
-- Transactions: 49
-- Date accessed: 2026-06-01T16:41:11.073775+00:00
+- Politicians listed: 43
+- Transactions: 60
+- Date accessed: 2026-06-03T00:38:32.747178+00:00
 
 ## Politicians
 
 | Politician | Candidate ID | Office | Party | Source committees | Net amount | Positive amount | Negative amount | Transactions | File |
 | --- | --- | --- | --- | --- | ---: | ---: | ---: | ---: | --- |
+| Pete Ricketts For Senate | S4NE00173 | - Party: | - Source committees: American Israel Public Affairs Committee Political Action Committee | American Israel Public Affairs Committee Political Action Committee | $19,260.00 | $19,260.00 | $0.00 | 11 | [PeteRickettsForSenate.md](PeteRickettsForSenate.md) |
 | Doris Matsui | H6CA05195 | House CA-06 | DEM | American Israel Public Affairs Committee Political Action Committee | $10,000.00 | $10,000.00 | $0.00 | 2 | [DorisMatsui.md](DorisMatsui.md) |
 | Don Davis | H2NC02287 | House NC-01 | DEM | American Israel Public Affairs Committee Political Action Committee | $8,500.00 | $8,500.00 | $0.00 | 2 | [DonDavis.md](DonDavis.md) |
 | Young Kim | H8CA39240 | House CA-39 | REP | American Israel Public Affairs Committee Political Action Committee | $5,000.00 | $5,000.00 | $0.00 | 1 | [YoungKim.md](YoungKim.md) |
@@ -23,7 +24,7 @@
 | Thomas Earl Emmer | H4MN06087 | House MN-06 | REP | American Israel Public Affairs Committee Political Action Committee | $5,000.00 | $5,000.00 | $0.00 | 1 | [ThomasEarlEmmer.md](ThomasEarlEmmer.md) |
 | Terrycina Andrea Sewell | H0AL07086 | House AL-07 | DEM | American Israel Public Affairs Committee Political Action Committee | $5,000.00 | $5,000.00 | $0.00 | 1 | [TerrycinaAndreaSewell.md](TerrycinaAndreaSewell.md) |
 | Sylvia R Garcia | H8TX29052 | House TX-29 | DEM | American Israel Public Affairs Committee Political Action Committee | $5,000.00 | $5,000.00 | $0.00 | 1 | [SylviaRGarcia.md](SylviaRGarcia.md) |
-| Self For Congress | H2TX03290 |  |  | American Israel Public Affairs Committee Political Action Committee | $5,000.00 | $5,000.00 | $0.00 | 1 | [SelfForCongress.md](SelfForCongress.md) |
+| Self For Congress | H2TX03290 | - Party: | - Source committees: American Israel Public Affairs Committee Political Action Committee | American Israel Public Affairs Committee Political Action Committee | $5,000.00 | $5,000.00 | $0.00 | 1 | [SelfForCongress.md](SelfForCongress.md) |
 | Roger Williams | H2TX33040 | House TX-25 | REP | American Israel Public Affairs Committee Political Action Committee | $5,000.00 | $5,000.00 | $0.00 | 1 | [RogerWilliams.md](RogerWilliams.md) |
 | Robert P Casey | S6PA00217 | Senate PA | DEM | American Israel Public Affairs Committee Political Action Committee | $5,000.00 | $5,000.00 | $0.00 | 1 | [RobertPCasey.md](RobertPCasey.md) |
 | Rick Gov Scott | S8FL00273 | Senate FL | REP | American Israel Public Affairs Committee Political Action Committee | $5,000.00 | $5,000.00 | $0.00 | 1 | [RickGovScott.md](RickGovScott.md) |

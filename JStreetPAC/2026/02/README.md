@@ -4,12 +4,12 @@
 - Month: 2026-02
 - Source committees: JStreetPAC
 - Data source: FEC public records
-- Total net candidate-linked reported amount: $2,250.00
-- Total positive candidate-linked reported amount: $2,250.00
+- Total net candidate-linked reported amount: $2,764.35
+- Total positive candidate-linked reported amount: $2,764.35
 - Total negative candidate-linked reported amount: $0.00
-- Politicians listed: 4
-- Transactions: 6
-- Date accessed: 2026-06-01T19:40:07.840180+00:00
+- Politicians listed: 5
+- Transactions: 8
+- Date accessed: 2026-06-03T00:38:32.747178+00:00
 
 ## Politicians
 
@@ -17,5 +17,6 @@
 | --- | --- | --- | --- | --- | ---: | ---: | ---: | ---: | --- |
 | Allred For Texas | S6TX00438 | - Party: | - Source committees: JStreetPAC | JStreetPAC | $1,000.00 | $1,000.00 | $0.00 | 1 | [AllredForTexas.md](AllredForTexas.md) |
 | Zach P Wahls | S6IA00272 | Senate IA | DEM | JStreetPAC | $750.00 | $750.00 | $0.00 | 3 | [ZachPWahls.md](ZachPWahls.md) |
+| Diana L Degette | H6CO01141 | House CO-01 | DEM | JStreetPAC | $514.35 | $514.35 | $0.00 | 2 | [DianaLDegette.md](DianaLDegette.md) |
 | Sydney Kamlager | H2CA37304 | House CA-37 | DEM | JStreetPAC | $250.00 | $250.00 | $0.00 | 1 | [SydneyKamlager.md](SydneyKamlager.md) |
 | Elizabeth Warren | S2MA00170 | Senate MA | DEM | JStreetPAC | $250.00 | $250.00 | $0.00 | 1 | [ElizabethWarren.md](ElizabethWarren.md) |

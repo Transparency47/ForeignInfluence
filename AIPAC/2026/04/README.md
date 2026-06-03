@@ -9,7 +9,7 @@
 - Total negative candidate-linked reported amount: -$16,842.13
 - Politicians listed: 284
 - Transactions: 2295
-- Date accessed: 2026-06-01T19:40:07.840180+00:00
+- Date accessed: 2026-06-03T00:38:32.747178+00:00
 
 ## Politicians
 
@@ -282,7 +282,7 @@
 | Joseph Neguse | H8CO02160 | House CO-02 | DEM | American Israel Public Affairs Committee Political Action Committee | $2.24 | $2.24 | $0.00 | 2 | [JosephNeguse.md](JosephNeguse.md) |
 | John B Larson | H8CT01046 | House CT-01 | DEM | American Israel Public Affairs Committee Political Action Committee | $2.24 | $2.24 | $0.00 | 2 | [JohnBLarson.md](JohnBLarson.md) |
 | Greg Stanton | H8AZ09040 | House AZ-09 | DEM | American Israel Public Affairs Committee Political Action Committee | $2.24 | $2.24 | $0.00 | 2 | [GregStanton.md](GregStanton.md) |
-| Waterfront Strategies Inc | H2MD04315 | - Party: | - Source committees: United Democracy Project | American Israel Public Affairs Committee Political Action Committee | $2.23 | $2.23 | $0.00 | 2 | [WaterfrontStrategiesInc.md](WaterfrontStrategiesInc.md) |
+| Waterfront Strategies Inc | H2MD04315 | - Party: | - Source committees: American Israel Public Affairs Committee Political Action Committee | American Israel Public Affairs Committee Political Action Committee | $2.23 | $2.23 | $0.00 | 2 | [WaterfrontStrategiesInc.md](WaterfrontStrategiesInc.md) |
 | Maggie Goodlander | H4NH02399 | House NH-02 | DEM | American Israel Public Affairs Committee Political Action Committee | $2.23 | $2.23 | $0.00 | 2 | [MaggieGoodlander.md](MaggieGoodlander.md) |
 | John W Hickenlooper | S0CO00575 | Senate CO | DEM | American Israel Public Affairs Committee Political Action Committee | $2.23 | $2.23 | $0.00 | 2 | [JohnWHickenlooper_S0CO00575.md](JohnWHickenlooper_S0CO00575.md) |
 | William Richard Keating | H0MA10082 | House MA-09 | DEM | American Israel Public Affairs Committee Political Action Committee | $2.13 | $2.13 | $0.00 | 1 | [WilliamRichardKeating.md](WilliamRichardKeating.md) |
