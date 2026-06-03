@@ -63,6 +63,6 @@ The GitHub workflow at `.github/workflows/import-fec-bulk.yml` is a manual catch
 
 ## Notes
 
-This repository is part of the Restoring American Sovereignty Project. It exists to preserve and make legible public records concerning PACs that advocate for foreign interests in American elections.
+This repository is part of Citizens for Government Transparency. It exists to preserve and make legible public records concerning PACs that advocate for foreign interests in American elections.
 
 All data here should be treated as a public-record mirror, not as legal analysis. For authoritative campaign finance records, consult FEC.gov directly.
