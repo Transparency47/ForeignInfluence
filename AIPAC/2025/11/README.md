@@ -9,7 +9,7 @@
 - Total negative candidate-linked reported amount: -$58,440.00
 - Politicians listed: 297
 - Transactions: 579
-- Date accessed: 2026-06-03T00:38:32.747178+00:00
+- Date accessed: 2026-06-04T14:57:46.336798+00:00
 
 ## Politicians
 
